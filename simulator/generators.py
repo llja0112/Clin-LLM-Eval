@@ -10,6 +10,7 @@ from langchain_ollama import OllamaLLM
 from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAI
 
+import pandas as pd
 
 class CaseDetailsFormat(BaseModel):
   "Evaluation metric for differential diagnosis field"
@@ -333,3 +334,87 @@ class CaseGenerator:
     })
 
     return self.ddx
+
+  def export_case(self, verbose=True, dir_name="Data/", file_name="1"):
+    "Export generated case"
+
+    print(">>> Exporting basic details")
+    details_df = pd.DataFrame()
+    details_df.at[0, 'Basic details'] = self.basic_details
+    details_df.at[0, 'Vitals'] = self.vitals
+    details_df.at[0, 'Physical presentation'] = self.physical_presentation
+    details_df.at[0, 'Challenging question'] = self.challenging_question
+    details_df.to_csv(dir_name + "details/" + file_name + ".csv")
+
+    if verbose:
+      print(">>> Exporting history")
+    columns = ["Question", "Patient Response"]
+    history_df = pd.DataFrame(columns=columns)
+
+    for item in self.history.ChecklistItems:
+      history_df = pd.concat(
+        [
+          history_df,
+          pd.DataFrame(
+            [[
+              item.question, item.response
+            ]], columns=columns)
+        ]
+      )
+
+    history_df.reset_index(drop=True)
+    history_df.to_csv(dir_name + "history/" + file_name + ".csv")
+
+    if verbose:
+      print(">>> Exporting Physical Exam")
+    columns = ["Physical Exam", "Justification"]
+    physical_exam_df = pd.DataFrame(columns=columns)
+
+    for item in self.physical_exam.ChecklistItems:
+      physical_exam_df = pd.concat(
+        [
+          physical_exam_df,
+          pd.DataFrame(
+            [[
+              item.technique, item.justification
+            ]], columns=columns)
+        ]
+      )
+
+    physical_exam_df.reset_index(drop=True)
+    physical_exam_df.to_csv(dir_name + "physical/" + file_name + ".csv")
+
+    if verbose:
+      print(">>> Exporting Investigations")
+    columns = ["Investigations", "Justification"]
+    investigations_df = pd.DataFrame(columns=columns)
+
+    for item in self.investigations.ChecklistItems:
+      investigations_df = pd.concat(
+        [
+          investigations_df,
+          pd.DataFrame(
+            [[item.investigation, item.justification
+              ]], columns=columns)
+        ]
+      )
+
+    investigations_df.reset_index(drop=True)
+    investigations_df.to_csv(dir_name + "investigations/" + file_name + ".csv")
+
+    if verbose:
+      print(">>> Exporting Differential Diagnosis")
+    columns = ["Diagnosis", "Justification"]
+    diagnoses_df = pd.DataFrame(columns=columns)
+
+    for item in self.ddx.ChecklistItems:
+      diagnoses_df = pd.concat([
+        diagnoses_df,
+        pd.DataFrame(
+          [[
+            item.diagnosis, item.justification
+          ]], columns=columns)
+      ])
+
+    diagnoses_df.reset_index(drop=True)
+    diagnoses_df.to_csv(dir_name + "diagnosis/" + file_name + ".csv")
