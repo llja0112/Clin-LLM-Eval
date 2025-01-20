@@ -1,9 +1,9 @@
 ,Investigations,Justification
-0,Electrocardiogram (ECG),To assess for any signs of ischemia or infarction given the patient's chest pain and risk factors.
-0,"Cardiac biomarkers (e.g., troponin levels)","To evaluate for myocardial injury or infarction, especially considering the patient's symptoms and family history."
-0,Chest X-ray,"To rule out other causes of chest pain such as pneumonia, pneumothorax, or aortic dissection."
-0,Complete blood count (CBC),To check for any signs of infection or anemia that could contribute to the patient's symptoms.
-0,Basic metabolic panel (BMP),"To assess electrolyte levels and kidney function, which can be important in the context of chest pain."
-0,Lipid profile,"To evaluate the patient's cardiovascular risk factors, especially given the family history of heart disease."
-0,Echocardiogram,"To assess cardiac function and structure, especially if there are concerns about heart failure or valvular disease."
-0,Stress test or cardiac imaging (if stable),To evaluate for inducible ischemia if initial tests are inconclusive and the patient is stable.
+0,Electrocardiogram (ECG),To assess for any acute ischemic changes or arrhythmias that may indicate myocardial infarction or other cardiac issues.
+1,"Cardiac biomarkers (e.g., troponin levels)","To evaluate for myocardial injury or infarction, especially given the patient's chest pain and risk factors."
+2,Chest X-ray,"To rule out any pulmonary causes of chest pain, such as pneumothorax, pneumonia, or aortic dissection."
+3,Complete blood count (CBC),To check for signs of infection or anemia that could contribute to the patient's symptoms.
+4,Basic metabolic panel (BMP),"To assess electrolyte levels, renal function, and glucose, which can impact cardiac function."
+5,Lipid panel,"To evaluate the patient's cholesterol levels and assess cardiovascular risk, especially given his history of high cholesterol."
+6,"Esophageal studies (e.g., esophageal pH monitoring or endoscopy)","To investigate the possibility of gastroesophageal reflux disease (GERD) as a contributing factor to the chest pain, especially given his history."
+7,"Stress test or cardiac imaging (e.g., echocardiogram)","To assess for any underlying coronary artery disease or structural heart issues, especially considering the patient's history of similar episodes."

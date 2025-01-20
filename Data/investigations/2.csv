@@ -1,9 +1,9 @@
 ,Investigations,Justification
-0,Electrocardiogram (ECG),To assess for any ischemic changes or arrhythmias that may indicate myocardial infarction or other cardiac issues.
-0,"Cardiac biomarkers (e.g., Troponin I or T)","To evaluate for myocardial injury or infarction, especially given the chest pain and risk factors."
-0,Chest X-ray,"To rule out other causes of chest pain such as pneumothorax, pneumonia, or aortic dissection."
-0,Complete blood count (CBC),To check for signs of infection or anemia that could contribute to the patient's symptoms.
-0,Basic metabolic panel (BMP),"To assess electrolyte levels, renal function, and glucose, which can impact cardiac function."
-0,Lipid profile,"To evaluate cardiovascular risk factors, especially given the patient's history of hypertension and family history of heart disease."
-0,Chest CT angiography (if indicated),To rule out pulmonary embolism or aortic dissection if the clinical suspicion is high.
-0,Echocardiogram (if indicated),"To assess cardiac function and structure, especially if there are concerns about heart failure or valvular disease."
+0,Urinalysis,"To assess for the presence of blood, protein, glucose, and signs of infection or other abnormalities in the urine."
+1,Urine culture,To identify any potential urinary tract infection (UTI) that may be causing hematuria.
+2,Complete blood count (CBC),"To evaluate for signs of infection, anemia, or other hematological issues."
+3,Comprehensive metabolic panel (CMP),To assess kidney function and electrolyte balance.
+4,Prostate-specific antigen (PSA) test,"Given the family history of prostate cancer, to evaluate for potential prostate issues."
+5,"Imaging studies (e.g., renal ultrasound or CT scan of the abdomen/pelvis)","To visualize the kidneys, bladder, and urinary tract for any structural abnormalities, stones, or tumors."
+6,"Coagulation profile (PT/INR, aPTT)",To rule out any bleeding disorders that could contribute to hematuria.
+7,Cystoscopy (if indicated),To directly visualize the bladder and urethra if initial investigations do not reveal a clear cause.

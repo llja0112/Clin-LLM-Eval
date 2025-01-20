@@ -1,0 +1,9 @@
+,Diagnosis,Justification
+0,Anxiety disorder,"Mary exhibits significant anxiety about her blood sugar levels, rated 7 out of 10, which may indicate an underlying anxiety disorder."
+1,Hypoglycemia,"Mary has experienced episodes of low blood sugar, particularly after missed meals or taking too much insulin, leading to her current symptoms."
+2,"Diabetes-related complications (e.g., autonomic neuropathy)","The slight tremor in her hands could be a sign of autonomic neuropathy, which can occur in long-standing diabetes."
+3,Hyperglycemia,"Although she reports stable diabetes, fluctuations in blood sugar levels could lead to hyperglycemia, especially if her insulin regimen is not well-adjusted."
+4,Depression,"Mary's anxiety and fatigue may also suggest underlying depression, which is common in patients with chronic illnesses like diabetes."
+5,"Thyroid dysfunction (e.g., hyperthyroidism)","The tremor and increased anxiety could be indicative of hyperthyroidism, which can present with similar symptoms."
+6,"Medication side effects (e.g., insulin or metformin)",The tremor and episodes of hypoglycemia may be related to side effects from her current diabetes medications.
+7,Essential tremor,"The slight tremor in her hands could be an essential tremor, which is common in older adults and may not be related to her diabetes."

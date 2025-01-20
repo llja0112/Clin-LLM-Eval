@@ -1,11 +1,9 @@
 ,Physical Exam,Justification
-0,Inspection of the chest,"To assess for any visible abnormalities, such as asymmetry, deformities, or signs of respiratory distress."
-0,Palpation of the chest wall,"To identify any areas of tenderness, crepitus, or abnormal masses that may indicate underlying pathology."
-0,Auscultation of heart sounds,"To evaluate for any abnormal heart sounds, murmurs, or signs of heart failure."
-0,Auscultation of lung sounds,"To check for any abnormal breath sounds, such as wheezing or crackles, which may indicate respiratory issues."
-0,Assessment of peripheral pulses,To evaluate circulation and check for any signs of peripheral vascular disease.
-0,Blood pressure measurement in both arms,To assess for any significant differences that may indicate vascular issues.
-0,Examination of the abdomen,To rule out any referred pain from abdominal organs that may mimic cardiac pain.
-0,Assessment of jugular venous pressure (JVP),To evaluate for signs of heart failure or fluid overload.
-0,Neurological examination of the upper extremities,To assess for any neurological deficits that may indicate a stroke or other neurological condition.
-0,Skin examination,To check for diaphoresis or any signs of cyanosis that may indicate cardiovascular distress.
+0,Abdominal examination,"To assess for any tenderness, masses, or organomegaly that may indicate underlying pathology such as a urinary tract issue or renal involvement."
+1,Genitourinary examination,To evaluate for any abnormalities in the genital area and assess for signs of prostate enlargement or other issues.
+2,Vital signs assessment,"To monitor for any changes in blood pressure, heart rate, and respiratory rate that may indicate systemic involvement or complications."
+3,Pelvic examination (if indicated),To assess for any signs of infection or other abnormalities in the pelvic region that could contribute to hematuria.
+4,Neurological examination,"To rule out any neurological causes of urinary symptoms, especially given the patient's anxiety and distress."
+5,Skin examination,"To check for any signs of systemic disease or conditions that may present with hematuria, such as vasculitis."
+6,Cardiovascular examination,To assess for any signs of cardiovascular disease that may be relevant given the patient's history of hypertension.
+7,Lymph node examination,To check for any lymphadenopathy that may suggest systemic disease or malignancy.

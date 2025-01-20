@@ -301,7 +301,7 @@ class CaseGenerator:
         ]
       )
 
-    history_df.reset_index(drop=True)
+    history_df = history_df.reset_index(drop=True)
     history_df.to_csv(dir_name + "history/" + file_name + ".csv")
 
     if verbose:
@@ -320,7 +320,7 @@ class CaseGenerator:
         ]
       )
 
-    physical_exam_df.reset_index(drop=True)
+    physical_exam_df = physical_exam_df.reset_index(drop=True)
     physical_exam_df.to_csv(dir_name + "physical/" + file_name + ".csv")
 
     if verbose:
@@ -338,7 +338,7 @@ class CaseGenerator:
         ]
       )
 
-    investigations_df.reset_index(drop=True)
+    investigations_df = investigations_df.reset_index(drop=True)
     investigations_df.to_csv(dir_name + "investigations/" + file_name + ".csv")
 
     if verbose:
@@ -355,5 +355,5 @@ class CaseGenerator:
           ]], columns=columns)
       ])
 
-    diagnoses_df.reset_index(drop=True)
+    diagnoses_df = diagnoses_df.reset_index(drop=True)
     diagnoses_df.to_csv(dir_name + "diagnosis/" + file_name + ".csv")

@@ -1,0 +1,9 @@
+,Diagnosis,Justification
+0,Laryngeal cancer,"Given the patient's age, smoking history, and new onset hoarseness, laryngeal cancer is a significant concern."
+1,Vocal cord nodules or polyps,"As a teacher, the patient likely uses his voice extensively, which can lead to vocal cord nodules or polyps causing hoarseness."
+2,Laryngitis,"Although the patient denies recent upper respiratory infections, laryngitis can occur due to overuse of the voice, which fits the patient's history."
+3,Gastroesophageal reflux disease (GERD),"The sensation of something stuck in the throat may suggest GERD, which can cause hoarseness due to acid irritation."
+4,"Thyroid dysfunction (e.g., goiter or thyroiditis)","Thyroid issues can lead to voice changes and should be considered, especially in older adults."
+5,"Neurological conditions (e.g., vocal cord paralysis)","Neurological issues can lead to hoarseness and should be evaluated, particularly given the patient's age."
+6,Allergic rhinitis or post-nasal drip,"Although the patient denies cough or sore throat, post-nasal drip can cause throat irritation and hoarseness."
+7,"Infectious causes (e.g., viral laryngitis)","While the patient has no recent infections, viral infections can still cause hoarseness and should be considered."
