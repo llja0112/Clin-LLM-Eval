@@ -1,8 +1,6 @@
 """Case generator for clinical reasoning evaluation"""
 
-from typing import List
 from dotenv import load_dotenv
-from pydantic import BaseModel, Field
 
 from langchain_core.prompts import PromptTemplate
 from langchain_ollama import ChatOllama
@@ -12,74 +10,7 @@ from langchain_openai import OpenAI
 
 import pandas as pd
 
-class CaseDetailsFormat(BaseModel):
-  "Evaluation metric for differential diagnosis field"
-
-  basic_details: str = Field(
-    description="Case basic details")
-
-  vitals: str = Field(
-    description="Vitals of patient"
-  )
-
-  physical_presentation: str = Field(
-    description="Physical presentation of patient"
-  )
-
-  challenging_question: str = Field(
-    description = "Challenging question to ask"
-  )
-
-class HistoryTakingChecklistItem(BaseModel):
-  "History taking checklist format"
-
-  question: str = Field (description='Category of question')
-  response: str = Field (description='Patient response')
-
-class HistoryTakingChecklist(BaseModel):
-  "Evaluation metric for differential diagnosis field"
-
-  ChecklistItems: List[HistoryTakingChecklistItem] = Field(
-    description="History taking checklist items")
-
-class PhysicalExamChecklistItem(BaseModel):
-  "Physical exam checklist format"
-
-  technique: str = Field (description='Medical physical exam techniques')
-  justification: str = Field (
-    description='Justification of why this physical exam technique should be conducted')
-
-class PhysicalExamChecklist(BaseModel):
-  "Checklist of physical exam techniques to complete in a medical consult"
-
-  ChecklistItems: List[PhysicalExamChecklistItem] = Field(
-    description="Physical exam checklist items")
-
-class InvestigationsChecklistItem(BaseModel):
-  "Investigations checklist format"
-
-  investigation: str = Field (description='Investigation to identify diagnosis')
-  justification: str = Field (
-    description='Justification for why a particular diagnosis is selected')
-
-class InvestigationsChecklist(BaseModel):
-  "Checklist for investigations that doctor should suggest"
-
-  ChecklistItems: List[InvestigationsChecklistItem] = Field(
-    description="Investigations checklist items")
-
-class DdxChecklistItem(BaseModel):
-  "Ddx checklist format"
-
-  diagnosis: str = Field (description='Possible differential diagnosis')
-  justification: str = Field (
-    description='Justification of why this differential diagnosis was suggested')
-
-class DdxChecklist(BaseModel):
-  "Checklist of differential diagnoses which physician should suggest"
-
-  ChecklistItems: List[DdxChecklistItem] = Field(
-    description="Differential diagnoses checklist items")
+from . import generation_models
 
 class CaseGenerator:
   """Generate clinical cases for dynamic testing of LLM models"""
@@ -158,7 +89,7 @@ class CaseGenerator:
 
     prompt = PromptTemplate.from_template(template)
 
-    structured_model = self.chat_model.with_structured_output(CaseDetailsFormat)
+    structured_model = self.chat_model.with_structured_output(generation_models.CaseDetailsFormat)
 
     chain = prompt | structured_model
 
@@ -203,7 +134,9 @@ class CaseGenerator:
 
     prompt = PromptTemplate.from_template(template)
 
-    structured_model = self.chat_model.with_structured_output(HistoryTakingChecklist)
+    structured_model = self.chat_model.with_structured_output(
+      generation_models.HistoryTakingChecklist
+    )
 
     chain = prompt | structured_model
 
@@ -246,7 +179,9 @@ class CaseGenerator:
 
     prompt = PromptTemplate.from_template(template)
 
-    structured_model = self.chat_model.with_structured_output(PhysicalExamChecklist)
+    structured_model = self.chat_model.with_structured_output(
+      generation_models.PhysicalExamChecklist
+    )
 
     chain = prompt | structured_model
 
@@ -284,7 +219,9 @@ class CaseGenerator:
 
     prompt = PromptTemplate.from_template(template)
 
-    structured_model = self.chat_model.with_structured_output(InvestigationsChecklist)
+    structured_model = self.chat_model.with_structured_output(
+      generation_models.InvestigationsChecklist
+    )
 
     chain = prompt | structured_model
 
@@ -322,7 +259,9 @@ class CaseGenerator:
 
     prompt = PromptTemplate.from_template(template)
 
-    structured_model = self.chat_model.with_structured_output(DdxChecklist)
+    structured_model = self.chat_model.with_structured_output(
+      generation_models.DdxChecklist
+    )
 
     chain = prompt | structured_model
 
