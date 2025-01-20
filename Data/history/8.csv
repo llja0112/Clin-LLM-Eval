@@ -2,25 +2,24 @@
 0,Chief complaint,Follow-up of diabetes management
 1,Onset,Regular follow-up visits every 3 months
 2,Current blood sugar levels,"I check my glucose meter frequently, but I feel anxious about the readings."
-3,Progression of diabetes,"It has been stable, but I worry about fluctuations."
-4,Severity of anxiety about blood sugar levels on a scale of 1 to 10,About 7 out of 10.
-5,Tremor description,"Slight tremor in my hands, especially when I check my meter."
-6,"Associated symptoms such as fatigue, weight changes, or polyuria","I feel more tired than usual, but no significant weight changes."
-7,Previous episodes of hypoglycemia or hyperglycemia,"Yes, I had a couple of episodes of low blood sugar last month."
-8,Onset of previous episodes,"Last month, during the day."
-9,Severity of previous episodes,"Mild, but I felt shaky and confused."
-10,Frequency of previous episodes,About 2-3 times last month.
-11,Precipitating events for previous episodes,Missed meals or took too much insulin.
-12,Alleviating factors for previous episodes,Eating something sweet helps.
-13,Current medications,Metformin and insulin.
-14,Past medical history,"Type 2 diabetes for 10 years, hypertension for 5 years."
-15,Past surgical history,None.
-16,Family history,"My mother has diabetes, and my father had heart disease."
-17,Occupation,Retired teacher.
-18,Alcohol use,"I drink occasionally, maybe once a week."
-19,Illicit drugs,No.
-20,Tobacco history,I quit smoking 5 years ago.
-21,Duration of tobacco use,Smoked for 20 years.
-22,Exercise,"I try to walk a little, but not regularly."
-23,Diet,"I follow a diabetic diet, but I sometimes indulge."
-24,Drug Allergies,No.
+3,Progression of diabetes,"It has been stable, but I worry about fluctuations in my glucose."
+4,Tremor description,"Slight tremor in my hands, especially when I check my meter."
+5,"Associated symptoms such as fatigue, weight changes, or polyuria","I feel more tired than usual, but no significant weight changes."
+6,Previous episodes of hypoglycemia or hyperglycemia,"Yes, I had a couple of episodes of low blood sugar last month."
+7,Onset of previous episodes,"Last month, during the day."
+8,Severity of previous episodes,"Mild, but I felt shaky and confused."
+9,Frequency of previous episodes,About 2-3 times last month.
+10,Precipitating events for previous episodes,Missed meals or took too much insulin.
+11,Alleviating factors for previous episodes,Eating something sweet helps.
+12,Current medications,Metformin and insulin.
+13,Past medical history,"Type 2 diabetes for 10 years, hypertension for 5 years."
+14,Past surgical history,None.
+15,Family history,"My mother has diabetes, and my father had heart disease."
+16,Occupation,Retired teacher.
+17,Alcohol use,"I drink occasionally, maybe once a week."
+18,Illicit drugs,No.
+19,Tobacco history,I quit smoking 5 years ago.
+20,Duration of tobacco use,Smoked for 20 years.
+21,Exercise,"I try to walk a little, but not regularly."
+22,Diet,"I follow a diabetic diet, but I sometimes indulge."
+23,Drug Allergies,No.
