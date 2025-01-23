@@ -126,7 +126,12 @@ class CaseGenerator:
     Physical Presentation:
     {physical_presentation}
 
-    Generate a history taking checklist based on the example provided below.
+    Generate a history taking checklist based on the example provided below. 
+    This history taking checklist should be tailored to the chief complaint 
+    identified in the basic details of the case. For instance, if the chief 
+    complaint is not associated with pain, you need not include a checklist item
+    to discuss the severity of the pain. This checklist should not consist of
+    physician questions but patient responses.
 
     History taking checklist example:
     {history_taking_example}
