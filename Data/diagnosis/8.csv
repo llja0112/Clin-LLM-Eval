@@ -1,9 +1,8 @@
 ,Diagnosis,Justification
-0,Anxiety disorder,"Mary exhibits significant anxiety about her blood sugar levels, rated 7 out of 10, which may indicate an underlying anxiety disorder."
-1,Hypoglycemia,"Mary has experienced episodes of low blood sugar, particularly after missed meals or taking too much insulin, leading to her current symptoms."
-2,"Diabetes-related complications (e.g., autonomic neuropathy)","The slight tremor in her hands could be a sign of autonomic neuropathy, which can occur in long-standing diabetes."
-3,Hyperglycemia,"Although she reports stable diabetes, fluctuations in blood sugar levels could lead to hyperglycemia, especially if her insulin regimen is not well-adjusted."
-4,Depression,"Mary's anxiety and fatigue may also suggest underlying depression, which is common in patients with chronic illnesses like diabetes."
-5,"Thyroid dysfunction (e.g., hyperthyroidism)","The tremor and increased anxiety could be indicative of hyperthyroidism, which can present with similar symptoms."
-6,"Medication side effects (e.g., insulin or metformin)",The tremor and episodes of hypoglycemia may be related to side effects from her current diabetes medications.
-7,Essential tremor,"The slight tremor in her hands could be an essential tremor, which is common in older adults and may not be related to her diabetes."
+0,Poorly controlled diabetes mellitus,"The patient reports fatigue, occasional symptoms of hyperglycemia (thirst and frequent urination), and admits to irregular blood sugar monitoring and diet adherence, which could indicate poor diabetes control."
+1,Diabetic neuropathy,"The patient's long-standing diabetes and occasional symptoms of hypoglycemia (shakiness and sweating) could suggest diabetic neuropathy, which can also contribute to fatigue."
+2,Hypertension-related fatigue,"The patient has a history of hypertension and presents with elevated blood pressure (140/90 mm Hg), which could contribute to her fatigue."
+3,Anemia,"Fatigue is a common symptom of anemia, and the patient’s age and dietary habits could predispose her to this condition."
+4,Hypothyroidism,"Fatigue is a common symptom of hypothyroidism, and it is a condition that can co-exist with diabetes, especially in older adults."
+5,Chronic kidney disease,"Given the patient's long history of diabetes and hypertension, she is at risk for chronic kidney disease, which can cause fatigue."
+6,Depression,"The patient is retired and reports feeling more tired than usual, which could be indicative of depression, a common comorbidity in patients with chronic illnesses like diabetes."

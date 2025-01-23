@@ -1,7 +1,6 @@
 ,Investigations,Justification
-0,Laryngoscopy,"To directly visualize the vocal cords and larynx for any lesions, nodules, or signs of malignancy, especially given the patient's smoking history and new onset hoarseness."
-1,Thyroid function tests,"To rule out any thyroid-related issues that could contribute to voice changes, particularly in an older male."
-2,Complete blood count (CBC),To check for any signs of infection or anemia that could be contributing to the symptoms.
-3,Chest X-ray,"To rule out any pulmonary issues or masses that could be affecting the voice, especially considering the smoking history."
-4,Allergy testing,To evaluate for any potential allergic causes of throat irritation that may not have been previously identified.
-5,Voice assessment by a speech therapist,"To evaluate the functional aspects of voice use and provide recommendations for voice care, especially given the patient's occupation as a teacher."
+0,D-dimer test,"To rule out deep vein thrombosis (DVT) as the patient has calf pain, swelling, redness, and a history of recent immobility due to a long flight."
+1,Venous Doppler ultrasound of the right leg,"To directly visualize the veins in the right leg and confirm or rule out the presence of a thrombus, given the clinical suspicion of DVT."
+2,Complete blood count (CBC),To check for any signs of infection or other hematological abnormalities that might explain the symptoms.
+3,"Coagulation profile (PT, aPTT, INR)","To assess the patient's baseline coagulation status, especially if anticoagulation therapy is considered."
+4,Electrolyte panel,To rule out any electrolyte imbalances that could contribute to muscle pain or cramping.

@@ -1,11 +1,9 @@
 ,Physical Exam,Justification
-0,General appearance assessment,"To evaluate the overall health status, level of distress, and any signs of dehydration or fatigue."
-1,Vital signs measurement,To confirm the current vitals and assess for any abnormalities that may indicate complications.
-2,Abdominal examination,To check for any signs of organomegaly or discomfort that may indicate complications related to diabetes.
-3,Skin examination,"To look for signs of dehydration, infections, or any skin changes associated with diabetes."
-4,Neurological examination,To assess for any neurological deficits or complications related to diabetes.
-5,Cardiovascular examination,To evaluate heart sounds and check for any signs of cardiovascular issues.
-6,Respiratory examination,To assess lung sounds and ensure there are no respiratory complications.
-7,"Endocrine examination (thyroid, etc.)",To rule out any other endocrine disorders that may be contributing to her symptoms.
-8,Growth assessment (height and weight measurement),To evaluate growth patterns and assess for any signs of failure to thrive or obesity.
-9,Foot examination,To check for any signs of neuropathy or skin changes that may indicate diabetes-related complications.
+0,General appearance assessment,"To observe the patient's overall demeanor, level of distress, and any visible signs of illness or discomfort."
+1,Vital signs measurement,To confirm the vitals provided and assess for any changes or abnormalities.
+2,Oral examination,"To check for signs of dehydration, such as dry mucous membranes, which can be associated with increased thirst."
+3,Skin examination,"To look for signs of dehydration or acanthosis nigricans, which can be associated with insulin resistance."
+4,Abdominal examination,"To assess for any abdominal pain or organomegaly, which could be related to diabetes or other conditions."
+5,Neurological examination,"To ensure there are no neurological deficits, as diabetes can sometimes present with neurological symptoms."
+6,Weight and height measurement,To assess growth patterns and check for any discrepancies that might indicate underlying health issues.
+7,Urinalysis,"To check for glucose or ketones in the urine, which can help in diagnosing diabetes."

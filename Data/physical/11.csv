@@ -1,10 +1,9 @@
 ,Physical Exam,Justification
-0,Inspection of the throat and oral cavity,"To assess for any visible lesions, swelling, or abnormalities that may contribute to hoarseness."
-1,Palpation of the neck,To check for any lymphadenopathy or masses that may indicate underlying pathology.
-2,"Laryngeal examination (if possible, using a laryngoscope)",To directly visualize the vocal cords and assess for any lesions or abnormalities.
-3,Auscultation of the lungs,To rule out any respiratory issues that may be contributing to the patient's symptoms.
-4,Neurological examination (including cranial nerve assessment),"To evaluate for any neurological causes of hoarseness, such as vagus nerve involvement."
-5,Assessment of voice quality and phonation,To document the characteristics of the hoarseness and any changes in voice quality.
-6,Assessment of hydration status,"To ensure the patient is adequately hydrated, as dehydration can exacerbate hoarseness."
-7,Examination of the chest,To rule out any thoracic issues that may be affecting the larynx or vocal cords.
-8,Assessment of anxiety levels,"To address the patient's anxiety, which may impact their overall health and voice use."
+0,Inspection of the right calf,"To visually assess for swelling, redness, or any visible abnormalities that could indicate inflammation or thrombosis."
+1,Palpation of the right calf,"To check for tenderness, warmth, or a palpable cord, which could suggest deep vein thrombosis (DVT)."
+2,Measurement of calf circumference,"To compare the size of the right calf with the left calf, as asymmetry could indicate swelling due to DVT."
+3,Homan's sign test,"To assess for pain in the calf upon dorsiflexion of the foot, which can be a sign of DVT, although it is not highly specific."
+4,Assessment of peripheral pulses,"To ensure that there is no compromise in blood flow to the lower extremities, which could indicate vascular issues."
+5,Examination of the skin on the right leg,To check for any changes in skin color or temperature that might indicate vascular or inflammatory issues.
+6,Auscultation of the heart and lungs,To rule out any cardiac or pulmonary complications that could be related to a thromboembolic event.
+7,Assessment of range of motion in the right leg,"To determine if the pain is affecting the patient's ability to move the leg, which could indicate musculoskeletal involvement."

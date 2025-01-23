@@ -1,25 +1,19 @@
 ,Question,Patient Response
-0,Chief complaint,Follow-up of diabetes management
-1,Onset,Regular follow-up visits every 3 months
-2,Current blood sugar levels,"I check my glucose meter frequently, but I feel anxious about the readings."
-3,Progression of diabetes,"It has been stable, but I worry about fluctuations in my glucose."
-4,Tremor description,"Slight tremor in my hands, especially when I check my meter."
-5,"Associated symptoms such as fatigue, weight changes, or polyuria","I feel more tired than usual, but no significant weight changes."
-6,Previous episodes of hypoglycemia or hyperglycemia,"Yes, I had a couple of episodes of low blood sugar last month."
-7,Onset of previous episodes,"Last month, during the day."
-8,Severity of previous episodes,"Mild, but I felt shaky and confused."
-9,Frequency of previous episodes,About 2-3 times last month.
-10,Precipitating events for previous episodes,Missed meals or took too much insulin.
-11,Alleviating factors for previous episodes,Eating something sweet helps.
-12,Current medications,Metformin and insulin.
-13,Past medical history,"Type 2 diabetes for 10 years, hypertension for 5 years."
-14,Past surgical history,None.
-15,Family history,"My mother has diabetes, and my father had heart disease."
-16,Occupation,Retired teacher.
-17,Alcohol use,"I drink occasionally, maybe once a week."
-18,Illicit drugs,No.
-19,Tobacco history,I quit smoking 5 years ago.
-20,Duration of tobacco use,Smoked for 20 years.
-21,Exercise,"I try to walk a little, but not regularly."
-22,Diet,"I follow a diabetic diet, but I sometimes indulge."
-23,Drug Allergies,No.
+0,Chief complaint,Follow-up for diabetes management
+1,Fatigue onset,Past few weeks
+2,Blood sugar monitoring,"I try to check them regularly, but sometimes I forget."
+3,Diet adherence,"I try to follow my diet, but I sometimes cheat."
+4,Exercise routine,I don't have a regular exercise routine.
+5,Medication adherence,"I take my medications as prescribed, but sometimes I miss a dose."
+6,Symptoms of hypoglycemia,I occasionally feel shaky and sweaty.
+7,Symptoms of hyperglycemia,I sometimes feel very thirsty and need to urinate frequently.
+8,Recent weight changes,I haven't noticed any significant weight changes.
+9,Vision changes,I haven't noticed any changes in my vision.
+10,Foot care routine,I check my feet regularly for any cuts or sores.
+11,Past medical history,"Diabetes for 10 years, hypertension."
+12,Past surgical history,Appendectomy 20 years ago.
+13,Family history,"My mother had diabetes, and my father had hypertension."
+14,Occupation,Retired school teacher
+15,Alcohol use,"I drink socially, about once a month."
+16,Tobacco use,I quit smoking 5 years ago.
+17,Drug allergies,None.

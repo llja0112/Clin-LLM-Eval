@@ -1,19 +1,23 @@
 ,Question,Patient Response
-1,Chief complaint,Bloody urine
-2,Onset,Started two days ago
-3,Precipitating events,I noticed it after a long run.
-4,Progression,It has been constant since it started.
-5,Color of urine,It looks bright red.
-6,"Associated symptoms such as pain during urination, frequency, urgency",I have some mild discomfort when I urinate.
-7,Previous episodes of similar symptoms,"No, this is the first time."
-8,Current medications,I take a multivitamin and ibuprofen occasionally.
-9,Past medical history,"I have high blood pressure, controlled with medication."
-10,Past surgical history,I had an appendectomy when I was 20.
-11,Family history,"My father had prostate cancer, my mother has diabetes."
-12,Occupation,I am a software engineer.
-13,Alcohol use,"I drink socially, about 2-3 times a month."
-14,Illicit drugs,No.
-15,Tobacco history,I smoked for 10 years but quit 5 years ago.
-16,Exercise,I run about 3 times a week.
-17,Diet,"I try to eat healthy, mostly fruits and vegetables."
-18,Drug Allergies,No known drug allergies.
+0,Chief complaint,Bloody urine
+1,Onset,Started 2 days ago
+2,Frequency,Every time I urinate
+3,Color of urine,Bright red
+4,Pain during urination,"Yes, it burns"
+5,Associated symptoms,"Increased frequency of urination, urgency"
+6,Previous episodes,"No, this is the first time"
+7,Recent trauma or injury,No
+8,Recent travel,No
+9,Recent infections,No
+10,Current medications,None
+11,Past medical history,No significant past medical history
+12,Past surgical history,Appendectomy 10 years ago
+13,Family history,No family history of kidney or bladder issues
+14,Occupation,Office worker
+15,Alcohol use,"Socially, on weekends"
+16,Illicit drugs,No
+17,Tobacco history,Never smoked
+18,Sexual history,"Married, monogamous"
+19,Exercise,"Occasionally, jogs on weekends"
+20,Diet,"Balanced diet, no specific restrictions"
+21,Drug Allergies,None

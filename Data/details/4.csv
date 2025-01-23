@@ -1,8 +1,5 @@
 ,Basic details,Vitals,Physical presentation,Challenging question
-0,"John Doe, a 28-year-old male, walks into the ED after a motor vehicle accident.","BP: 120/80 mm Hg
-Temp: 98.7°F (37.1°C)
-RR: 20/minute
-HR: 100/minute, regular","Sitting upright on the bed, holding his left arm and grimacing in pain.
-Exhibit signs of anxiety and restlessness.
-Occasionally winces when asked to move his arm or shoulder.
-If asked about his injuries, respond, 'I think my arm is broken.'","""Do I have any internal injuries? Will I need surgery?"""
+0,"Michael Johnson, a 28-year-old male, walks into the ED after a motor vehicle accident.","BP: 130/85 mm Hg
+Temp: 99.1°F (37.3°C)
+RR: 18/minute
+HR: 110/minute, regular","Sit upright and hold your right arm, showing discomfort. Complain of a headache and dizziness. If the examinee mentions imaging, ask, ""What kind of imaging do I need?""","""Do I have any internal bleeding? Will I need surgery?"""

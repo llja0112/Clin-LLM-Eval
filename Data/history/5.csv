@@ -1,20 +1,21 @@
 ,Question,Patient Response
-0,Chief complaint,Positive pregnancy test.
-1,Onset,I took the test this morning.
-2,Precipitating events,I missed my period and felt some symptoms.
-3,Progression,I feel excited but also anxious.
-4,"Associated symptoms such as nausea, breast tenderness, fatigue",I feel a bit nauseated and my breasts are tender.
-5,Previous pregnancies,"No, this is my first pregnancy."
-6,History of miscarriages,No history of miscarriages.
-7,Current medications,I take a multivitamin.
-8,Past medical history,No significant past medical history.
-9,Past surgical history,Appendectomy at age 20.
-10,Family history,My mother had a healthy pregnancy and my sister has two children.
-11,Occupation,I am a graphic designer.
-12,Alcohol use,"I occasionally drink wine, but I stopped since I found out I was pregnant."
-13,Illicit drugs,No.
-14,Tobacco history,I have never smoked.
-15,Sexual history,I am in a monogamous relationship with my partner.
-16,Exercise,I try to walk regularly.
-17,Diet,"I eat a balanced diet, but I have cravings for sweets."
-18,Drug Allergies,No known drug allergies.
+0,Chief complaint,Positive pregnancy test
+1,Last menstrual period,"I can't remember exactly, but it's been a while."
+2,Menstrual cycle regularity,"Usually regular, but I've been stressed lately."
+3,Contraceptive use,"I was on the pill, but I missed a few doses."
+4,Previous pregnancies,This is my first pregnancy.
+5,"Symptoms of pregnancy (nausea, vomiting, breast tenderness)",I've been feeling a bit nauseous and my breasts are tender.
+6,Planned or unplanned pregnancy,"This was a surprise, definitely unplanned."
+7,Partner's reaction,"He was surprised too, but supportive."
+8,Family history of pregnancy complications,No known complications in the family.
+9,Current medications,Just a multivitamin.
+10,Past medical history,"Generally healthy, no major issues."
+11,Past surgical history,None
+12,Family history,No significant medical issues in the family.
+13,Occupation,I'm a graphic designer.
+14,Alcohol use,"Occasionally, but I've stopped since I found out."
+15,Illicit drugs,Never used any.
+16,Tobacco history,I don't smoke.
+17,Exercise,I do yoga a few times a week.
+18,Diet,"I try to eat healthy, lots of fruits and vegetables."
+19,Drug Allergies,None.

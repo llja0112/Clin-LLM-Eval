@@ -1,11 +1,10 @@
 ,Physical Exam,Justification
-0,Inspection of the chest,"To assess for any visible abnormalities, such as asymmetry, deformities, or signs of distress."
-1,Palpation of the chest wall,"To identify any areas of tenderness, crepitus, or abnormal masses."
-2,Auscultation of heart sounds,"To evaluate for any abnormal heart sounds, murmurs, or signs of heart failure."
-3,Auscultation of lung sounds,"To check for any abnormal lung sounds, such as wheezing, crackles, or decreased breath sounds."
-4,Assessment of vital signs,"To monitor blood pressure, heart rate, respiratory rate, and temperature for any changes."
-5,Examination of the abdomen,"To rule out any abdominal causes of chest pain, such as referred pain from gastrointestinal issues."
-6,Assessment of peripheral pulses,To evaluate circulation and check for any signs of peripheral vascular disease.
-7,Evaluation of jugular venous pressure (JVP),To assess for signs of heart failure or fluid overload.
-8,Neurological examination,To assess for any neurological deficits that may indicate a more serious condition.
-9,Skin examination,"To check for diaphoresis, pallor, or any rashes that may indicate systemic issues."
+0,General appearance assessment,"To observe the patient's overall condition, level of distress, and any visible signs of discomfort or anxiety."
+1,Vital signs measurement,"To confirm the initial vital signs and monitor for any changes, especially blood pressure, heart rate, and respiratory rate."
+2,Cardiovascular examination,"To assess for any signs of heart disease, such as abnormal heart sounds, murmurs, or irregular rhythms."
+3,Respiratory examination,"To evaluate for any respiratory distress, abnormal breath sounds, or signs of pulmonary issues that could be contributing to chest pain."
+4,Palpation of the chest,"To check for any tenderness, masses, or abnormalities in the chest wall that could explain the pain."
+5,Abdominal examination,To rule out any referred pain from the abdomen that could mimic cardiac pain.
+6,Peripheral vascular examination,"To assess for any signs of poor circulation or peripheral vascular disease, which could be related to cardiac issues."
+7,Skin examination,"To check for any diaphoresis (sweating) or pallor, which could indicate a cardiac event."
+8,Neurological examination,To ensure there are no neurological deficits that could be related to a cardiovascular event.

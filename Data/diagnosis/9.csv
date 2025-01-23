@@ -1,9 +1,9 @@
 ,Diagnosis,Justification
-0,Acute Stress Disorder,"The patient has experienced a traumatic event (sexual assault) and is exhibiting symptoms of anxiety, emotional distress, and avoidance, which are characteristic of acute stress disorder."
-1,Post-Traumatic Stress Disorder (PTSD),"Although the patient has only recently experienced the trauma, the severity of her emotional distress and feelings of helplessness may indicate the potential for developing PTSD."
-2,Major Depressive Disorder,"The patient's overwhelming feelings of sadness, helplessness, and emotional distress could suggest the onset of a major depressive episode following the trauma."
-3,Anxiety Disorder,"The patient is displaying significant anxiety symptoms, including feelings of being overwhelmed and scared, which may indicate an anxiety disorder."
-4,Physical Injuries from Assault,"Although the patient is unsure about physical injuries, a thorough examination is necessary to rule out any physical trauma resulting from the assault."
-5,Substance Use Disorder,"The patient's occasional alcohol use may need to be assessed further, especially in the context of coping mechanisms following the trauma."
-6,Adjustment Disorder,"The patient may be experiencing an adjustment disorder due to the recent traumatic event, leading to emotional distress and anxiety."
-7,Dissociative Symptoms,"The patient may be experiencing dissociative symptoms as a response to the trauma, which can manifest as feelings of detachment or unreality."
+0,Post-Traumatic Stress Disorder (PTSD),"The patient exhibits symptoms such as withdrawal, anxiety, and flinching at sudden movements, which are consistent with PTSD following a traumatic event like sexual assault."
+1,Acute Stress Reaction,The patient's recent experience of a traumatic event and her current emotional state of anxiety and withdrawal suggest an acute stress reaction.
+2,Depression,"The patient's withdrawn behavior and anxiety could be indicative of depression, which can occur following traumatic experiences."
+3,Anxiety Disorder,"The patient's anxiety and avoidance of eye contact may suggest an anxiety disorder, which can be exacerbated by traumatic events."
+4,Physical Injury,"The patient reports soreness and bruising, which may indicate underlying physical injuries that need to be assessed."
+5,Sexually Transmitted Infections (STIs),"Following a sexual assault, there is a risk of STIs, and appropriate screening should be considered."
+6,Pregnancy,"In cases of sexual assault, there is a possibility of pregnancy, and this should be assessed if applicable."
+7,Substance Use Disorder,Inquiring about substance use is important as it may be a coping mechanism for trauma or a pre-existing condition.

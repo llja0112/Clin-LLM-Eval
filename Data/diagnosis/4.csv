@@ -1,9 +1,6 @@
 ,Diagnosis,Justification
-0,Humeral fracture,"The patient reports severe pain in the left arm after a motor vehicle accident, which is consistent with a fracture."
-0,Shoulder dislocation,"The mechanism of injury and the location of pain suggest a possible dislocation, especially with radiation of pain to the shoulder."
-0,Rotator cuff injury,"The patient's occupation as a mechanic may predispose him to shoulder injuries, and the pain could be related to a rotator cuff tear."
-0,Brachial plexus injury,The tingling in the fingers and pain radiation to the shoulder and neck may indicate a brachial plexus injury due to trauma.
-0,Soft tissue injury (contusion or sprain),"Swelling and bruising in the arm could suggest a significant soft tissue injury, even in the absence of a fracture."
-0,"Nerve injury (e.g., ulnar or median nerve injury)",The presence of tingling in the fingers raises concern for possible nerve injury related to the trauma.
-0,Vascular injury,"Given the mechanism of injury, there is a risk of vascular compromise, which should be evaluated due to the swelling and pain."
-0,Acute compartment syndrome,"The swelling and severe pain could indicate compartment syndrome, especially if there is significant swelling post-injury."
+0,Fracture of the right arm,"The patient presents with right arm pain following a motor vehicle accident, and moving the arm worsens the pain, suggesting a possible fracture."
+1,Concussion,"The patient reports a headache and dizziness after the accident, which are common symptoms of a concussion, despite no loss of consciousness."
+2,Cervical spine injury,"Given the mechanism of injury (motor vehicle accident) and symptoms of headache and dizziness, a cervical spine injury should be considered."
+3,Soft tissue injury or contusion,"The aching and throbbing quality of the arm pain could indicate a soft tissue injury or contusion, common in motor vehicle accidents."
+4,Intracranial hemorrhage,"Although less likely due to the absence of loss of consciousness or neurological deficits, an intracranial hemorrhage should be ruled out given the headache and dizziness."

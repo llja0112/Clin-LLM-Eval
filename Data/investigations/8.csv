@@ -1,10 +1,10 @@
 ,Investigations,Justification
-0,HbA1c (Glycated Hemoglobin),To assess long-term glucose control and determine if diabetes management is effective.
-1,Fasting Blood Glucose,To evaluate current blood sugar levels and identify any fluctuations.
-2,Complete Blood Count (CBC),To check for any underlying anemia or infection that may contribute to fatigue.
-3,Thyroid Function Tests (TFTs),"To rule out thyroid dysfunction, which can cause tremors and fatigue."
-4,Electrolytes and Renal Function Tests,"To assess kidney function and electrolyte balance, especially in the context of diabetes."
-5,Lipid Profile,"To evaluate cardiovascular risk factors, given the family history of heart disease."
-6,Urinalysis,To check for signs of kidney damage or urinary tract infection.
-7,Continuous Glucose Monitoring (CGM),To provide a more comprehensive view of blood sugar fluctuations throughout the day.
-8,Insulin and C-peptide levels,To assess insulin production and help differentiate between types of diabetes.
+0,HbA1c test,To assess long-term glucose control and determine if diabetes management needs adjustment.
+1,Fasting blood glucose,To evaluate current blood sugar levels and identify any immediate concerns of hyperglycemia.
+2,Lipid profile,"To assess cardiovascular risk factors, as the patient has a history of hypertension and diabetes."
+3,Serum creatinine and eGFR,"To evaluate kidney function, as diabetes can lead to nephropathy."
+4,Urine microalbumin,To detect early signs of diabetic nephropathy.
+5,Electrolyte panel,To check for any electrolyte imbalances that could be contributing to fatigue.
+6,Complete blood count (CBC),To rule out anemia or infection as a cause of fatigue.
+7,Thyroid function tests,To rule out hypothyroidism as a cause of fatigue.
+8,ECG,"To assess cardiac function, given the patient's history of hypertension and potential cardiovascular risk."

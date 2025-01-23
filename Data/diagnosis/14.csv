@@ -1,0 +1,6 @@
+,Diagnosis,Justification
+0,Migraine,"The patient presents with a unilateral throbbing headache, sensitivity to light, and nausea, which are classic symptoms of a migraine. Additionally, there is a family history of migraines, and the headaches are exacerbated by stress and relieved by rest and darkness."
+1,Tension-type headache,"Although the headache is described as throbbing, the stress-related onset and the fact that it occurs daily could suggest a tension-type headache, which is often associated with stress and can present with similar symptoms."
+2,Cluster headache,"Cluster headaches are less likely given the description, but they can present with unilateral pain. However, the lack of autonomic symptoms such as tearing or nasal congestion makes this less likely."
+3,Sinus headache,"Sinus headaches can cause facial pain and headache, but the lack of nasal symptoms and the presence of photophobia and nausea make this less likely."
+4,Medication overuse headache,"Given the use of over-the-counter pain relievers, there is a possibility of medication overuse headache, especially if the patient is taking these frequently."

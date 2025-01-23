@@ -1,36 +1,34 @@
 ,Question,Patient Response
 0,Chief complaint,Chest pain
-1,Onset,Forty minutes ago
-2,Precipitating events,Nothing; I was asleep and woke up at 5:00 in the morning having this pain.
-3,Progression,Constant Severity
-4,Severity on a scale of 1 to 10,My pain is 7 out of 10
-5,Location,Middle of the chest. It feels as if it’s right underneath the bone.
-6,Radiation,"To my neck, upper back, and left arm."
-7,Quality,Pressure. Like something sitting on my chest.
-8,Alleviating / Exacerbating factors,None
-9,Shortness of breath,Yes
-10,Nausea / Vomiting,"I feel nauseated, but I didn’t vomit."
-11,Sweating,Yes
-12,"Associated symptoms such as cough, wheezing, abdominal pain, diarrhea, constipation",None
-13,Previous episodes of similar pain,"Yes, but not exactly the same"
-14,Onset of previous episode,The past 3 months
-15,Severity of previous episode,Less severe
-16,Frequency of previous episodes,"I have 2-3 episodes a week, each lasting about 5-10 minutes"
-17,Precipitating events for previous episodes,"Walking up the stairs, strenuous work, and heavy meals"
-18,Alleviating factors for previous episodes,Antacids
-19,Associated symptoms,None
-20,Current medications,"Maalox, diuretic"
-21,Past medical history,"Hypertension for 5 years, treated with a diuretic. High cholesterol, managed with diet; I have not been very compliant with the diet. GERD 10 years ago, treated with antacids."
-22,Past surgical history,None
-23,Family history,My father died of lung cancer at age 72. My mother is alive and has a peptic ulcer. No early heart attacks.
-24,Occupation,Accountant
-25,Alcohol use,Once in a while
-26,Illicit drugs,"Cocaine, once a week"
-27,Duration of cocaine use,10 years
-28,Last time of cocaine use,Yesterday afternoon
-29,Tobacco history,Stopped 3 months ago
-30,Duration of tobacco use,25 years
-31,Sexual history,"Well, doctor, to be honest, I haven’t had sex with my wife for the past 3 months because I get this pain in my chest during sex."
-32,Exercise,No
-33,Diet,"My doctor gave me a strict diet last year to lower my cholesterol, but I always cheat."
-34,Drug Allergies,No.
+1,Onset,Two hours ago
+2,Precipitating events,I was watching TV when it started.
+3,Progression,The pain has been constant since it started.
+4,Severity on a scale of 1 to 10,It's about 6 out of 10.
+5,Location,It's in the center of my chest.
+6,Radiation,It radiates to my left shoulder and arm.
+7,Quality,It feels like a heavy pressure.
+8,Alleviating / Exacerbating factors,Nothing seems to make it better or worse.
+9,Shortness of breath,"Yes, I feel short of breath."
+10,Nausea / Vomiting,"I feel a bit nauseated, but I haven't vomited."
+11,Sweating,"Yes, I'm sweating a lot."
+12,"Associated symptoms such as cough, wheezing, abdominal pain, diarrhea, constipation",No other symptoms.
+13,Previous episodes of similar pain,"Yes, I've had similar pain before."
+14,Onset of previous episode,About a month ago.
+15,Severity of previous episode,"It was less severe, maybe a 4 out of 10."
+16,Frequency of previous episodes,I've had a few episodes over the past month.
+17,Precipitating events for previous episodes,They usually happen when I'm stressed or after a big meal.
+18,Alleviating factors for previous episodes,Resting usually helps.
+19,Associated symptoms,No other symptoms during previous episodes.
+20,Current medications,I take medication for high blood pressure.
+21,Past medical history,"Hypertension for 10 years, high cholesterol."
+22,Past surgical history,Appendectomy 20 years ago.
+23,Family history,My father had a heart attack at 60. My mother has diabetes.
+24,Occupation,I'm a software engineer.
+25,Alcohol use,"I drink socially, maybe once a week."
+26,Illicit drugs,"No, I don't use drugs."
+27,Tobacco history,I quit smoking 5 years ago.
+28,Duration of tobacco use,I smoked for 20 years.
+29,Sexual history,I'm sexually active with my wife.
+30,Exercise,I try to walk a few times a week.
+31,Diet,"I try to eat healthy, but I have a weakness for fast food."
+32,Drug Allergies,None that I know of.

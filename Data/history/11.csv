@@ -1,24 +1,24 @@
 ,Question,Patient Response
-0,Chief complaint,Hoarseness of voice for the past two weeks.
-1,Onset,Two weeks ago.
-2,Progression,Worsening over the past two weeks.
-3,"Associated symptoms such as cough, sore throat, fever, or difficulty swallowing","No cough or sore throat, no fever, but feels like something is stuck in my throat."
-4,Previous episodes of hoarseness,"No, this is the first time."
-5,Recent upper respiratory infections,No recent infections.
-6,Voice use,I use my voice a lot for work.
-7,Alleviating factors,Resting my voice helps a little.
-8,Exacerbating factors,Talking for long periods makes it worse.
-9,Current medications,None.
-10,Past medical history,No significant past medical history.
-11,Past surgical history,None.
-12,Family history,No family history of throat cancer or other significant illnesses.
-13,Occupation,I am a teacher.
-14,Alcohol use,"Occasionally, socially."
-15,Illicit drugs,No.
-16,Tobacco history,I smoked for 30 years but quit 5 years ago.
-17,Duration of tobacco use,30 years.
-18,Last time of tobacco use,5 years ago.
-19,Exposure to environmental irritants,No significant exposure.
-20,Anxiety about condition,"Yes, I am a bit anxious about it."
-21,Diet,I eat a balanced diet.
-22,Drug Allergies,No known drug allergies.
+0,Chief complaint,Right calf pain
+1,Onset,Started a few days ago
+2,Precipitating events,I took a long flight a few days ago
+3,Progression,The pain has been constant
+4,Severity on a scale of 1 to 10,The pain is 5 out of 10
+5,Location,Right calf
+6,Radiation,No radiation
+7,Quality,Aching pain
+8,Alleviating / Exacerbating factors,Walking exacerbates the pain
+9,Swelling or redness,"Yes, there is some swelling and redness"
+10,History of similar pain,No previous episodes
+11,Recent travel or immobility,"Yes, a long flight recently"
+12,Current medications,No current medications
+13,Past medical history,No significant past medical history
+14,Past surgical history,Appendectomy 10 years ago
+15,Family history,No family history of blood clots or similar issues
+16,Occupation,Office worker
+17,Exercise,I exercise occasionally
+18,Alcohol use,"Socially, on weekends"
+19,Illicit drugs,No illicit drug use
+20,Tobacco history,Never smoked
+21,Diet,Balanced diet
+22,Drug Allergies,No known drug allergies

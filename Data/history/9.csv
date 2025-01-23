@@ -1,23 +1,18 @@
 ,Question,Patient Response
-0,Chief complaint,I was sexually assaulted.
-1,Onset,Just a few hours ago.
-2,Precipitating events,I was out with friends and met someone.
-3,Progression,I feel very anxious and scared.
-4,Location of physical injuries,I don't know; I just feel violated.
-5,Quality of emotional state,I feel overwhelmed and helpless.
-6,Alleviating factors,I just want to go home.
-7,Exacerbating factors,Talking about it makes it worse.
-8,"Associated symptoms such as nausea, vomiting, or fainting",I feel nauseated.
-9,Current medications,None.
-10,Past medical history,No significant medical history.
-11,Past surgical history,None.
-12,Family history,No significant family history.
-13,Occupation,I work as a graphic designer.
-14,Alcohol use,I drink occasionally.
-15,Illicit drugs,No.
-16,Tobacco history,No.
-17,Sexual history,I have had consensual sex before.
-18,Support system,"I have friends and family, but I feel alone right now."
-19,Emotional support needs,I need someone to talk to.
-20,Safety concerns,I don't feel safe right now.
-21,Follow-up care preferences,I would like to talk to someone about what happened.
+0,Chief complaint,Sexual assault
+1,Emotional state,Withdrawn and anxious
+2,Eye contact,Avoids eye contact
+3,Reaction to sudden movements,Flinches
+4,Injuries,"Soreness and bruising, no visible bleeding"
+5,Understanding of forensic exam,"Asks, 'What does that involve?' "
+6,Support system,Inquire about friends or family support
+7,Current living situation,Ask if they feel safe at home
+8,Past medical history,Inquire about any previous medical conditions
+9,Past psychiatric history,Inquire about any previous psychiatric conditions or treatments
+10,Current medications,Ask about any medications currently being taken
+11,Allergies,Inquire about any known drug or other allergies
+12,Substance use,"Ask about alcohol, tobacco, or drug use"
+13,Sexual history,Inquire about any recent sexual activity or partners
+14,Consent for examination,Ensure consent is obtained for any physical or forensic examination
+15,Legal reporting,Discuss the option and process of reporting the assault to authorities
+16,Support services,Provide information on available support services and counseling

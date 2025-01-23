@@ -1,27 +1,27 @@
 ,Question,Patient Response
 0,Chief complaint,Left arm pain
-1,Onset,About an hour ago
-2,Precipitating events,I was lifting something heavy.
-3,Progression,Worsening over time
-4,Severity on a scale of 1 to 10,8 out of 10
-5,Location,Left arm and shoulder.
-6,Radiation,To my neck and back.
-7,Quality,Sharp and aching.
-8,Alleviating / Exacerbating factors,Resting makes it a bit better.
-9,Shortness of breath,"Yes, mild shortness of breath."
-10,Nausea / Vomiting,No nausea or vomiting.
-11,Sweating,No sweating.
-12,"Associated symptoms such as cough, wheezing, abdominal pain, diarrhea, constipation",No associated symptoms.
+1,Onset,Two days ago
+2,Precipitating events,I was lifting a heavy box when the pain started.
+3,Progression,The pain has been getting worse.
+4,Severity on a scale of 1 to 10,My pain is 6 out of 10.
+5,Location,"The pain is in my left arm, mostly around the shoulder."
+6,Radiation,"No, it doesn't radiate anywhere else."
+7,Quality,It feels like a dull ache.
+8,Alleviating / Exacerbating factors,"Rest seems to help a bit, but moving my arm makes it worse."
+9,Shortness of breath,No
+10,Nausea / Vomiting,No
+11,Sweating,No
+12,"Associated symptoms such as cough, wheezing, abdominal pain, diarrhea, constipation",None
 13,Previous episodes of similar pain,"No, this is the first time."
-14,Current medications,Aspirin for heart health.
+14,Current medications,Just my blood pressure medication.
 15,Past medical history,"Hypertension for 10 years, managed with medication."
-16,Past surgical history,Appendectomy at age 30.
-17,Family history,"Father had a heart attack at 70, mother has diabetes."
-18,Occupation,Retired teacher.
-19,Alcohol use,"Socially, maybe once a month."
-20,Illicit drugs,No.
-21,Tobacco history,"Smoked for 20 years, quit 5 years ago."
-22,Sexual history,"No issues, everything is normal."
-23,Exercise,"I walk occasionally, but not regularly."
-24,Diet,"I try to eat healthy, but I indulge sometimes."
-25,Drug Allergies,No known drug allergies.
+16,Past surgical history,Appendectomy 20 years ago.
+17,Family history,"My father had arthritis, and my mother has osteoporosis."
+18,Occupation,Retired teacher
+19,Alcohol use,"Occasionally, maybe a glass of wine with dinner."
+20,Illicit drugs,No
+21,Tobacco history,I quit smoking 5 years ago.
+22,Duration of tobacco use,I smoked for about 30 years.
+23,Exercise,I walk for about 30 minutes every day.
+24,Diet,"I try to eat a balanced diet, but I do enjoy sweets."
+25,Drug Allergies,None.

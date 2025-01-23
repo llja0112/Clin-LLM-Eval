@@ -1,9 +1,10 @@
 ,Investigations,Justification
-0,Urine pregnancy test confirmation,To confirm the positive pregnancy test result and rule out any false positives.
-1,Complete blood count (CBC),To assess for any anemia or infection that may affect the pregnancy.
-2,Blood type and Rh factor,"To determine the blood type and Rh status, which is important for managing potential Rh incompatibility."
-3,Serum beta-hCG levels,To assess the viability of the pregnancy and rule out ectopic pregnancy if levels are lower than expected.
-4,Thyroid function tests,"To evaluate thyroid function, as thyroid disorders can affect pregnancy outcomes."
-5,"STI screening (e.g., HIV, syphilis, chlamydia, gonorrhea)",To screen for sexually transmitted infections that could impact maternal and fetal health.
-6,Urinalysis,To check for urinary tract infections or other renal issues that could complicate the pregnancy.
-7,Folic acid level,"To ensure adequate folate levels, which are crucial for fetal development and to prevent neural tube defects."
+0,Transvaginal ultrasound,"To confirm intrauterine pregnancy and estimate gestational age, especially since the patient cannot recall her last menstrual period."
+1,Quantitative serum beta-hCG,To confirm pregnancy and assess the viability of the pregnancy by correlating with ultrasound findings.
+2,Complete blood count (CBC),To assess the patient's overall health and check for anemia or infection.
+3,Blood type and Rh factor,"To determine the patient's blood type and Rh status, which is important for managing Rh incompatibility."
+4,Urinalysis,"To check for urinary tract infections, which are common in pregnancy, and to assess kidney function."
+5,Rubella immunity status,"To determine if the patient is immune to rubella, as infection during pregnancy can cause congenital rubella syndrome."
+6,"HIV, syphilis, and hepatitis B screening",To identify and manage any infections that could affect the pregnancy or be transmitted to the baby.
+7,Pap smear,"To screen for cervical cancer, especially if the patient is due for one."
+8,Glucose challenge test,"To screen for gestational diabetes, especially if the patient is at risk."

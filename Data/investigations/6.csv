@@ -1,9 +1,9 @@
 ,Investigations,Justification
-0,Fasting blood glucose test,To confirm the diagnosis of diabetes and assess the baseline glucose level.
-1,HbA1c test,To evaluate long-term glucose control and confirm the diagnosis of diabetes.
-2,Urinalysis,"To check for glucose and ketones in the urine, which can indicate poor glucose control and possible diabetic ketoacidosis."
-3,Complete blood count (CBC),To assess for any underlying infections or other hematological issues that may contribute to fatigue.
-4,Basic metabolic panel (BMP),"To evaluate kidney function and electrolyte levels, which can be affected by diabetes."
-5,Lipid profile,"To assess cardiovascular risk factors, as diabetes can affect lipid metabolism."
-6,Thyroid function tests,To rule out thyroid disorders that can cause fatigue and other symptoms.
-7,C-peptide test,To determine endogenous insulin production and differentiate between type 1 and type 2 diabetes.
+0,Fasting Blood Glucose (FBG),To confirm elevated glucose levels and assess for diabetes.
+1,Hemoglobin A1c (HbA1c),To evaluate average blood glucose levels over the past 2-3 months and help diagnose diabetes.
+2,Oral Glucose Tolerance Test (OGTT),To assess how the body processes glucose and confirm diabetes diagnosis.
+3,Urinalysis,"To check for glucose and ketones in the urine, which can indicate diabetes."
+4,C-Peptide Test,To evaluate insulin production and differentiate between type 1 and type 2 diabetes.
+5,"Autoantibody Tests (e.g., GAD antibodies)",To check for autoimmune markers that can indicate type 1 diabetes.
+6,Lipid Profile,"To assess cholesterol levels, as diabetes can be associated with dyslipidemia."
+7,Thyroid Function Tests,"To rule out thyroid dysfunction, which can be associated with diabetes."

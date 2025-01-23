@@ -1,9 +1,12 @@
 ,Physical Exam,Justification
-0,Inspection of the left arm and shoulder,"To assess for visible deformities, swelling, bruising, or any open wounds that may indicate fractures or soft tissue injuries."
-1,Palpation of the left arm and shoulder,"To identify areas of tenderness, crepitus, or abnormal masses that may suggest fractures or soft tissue injuries."
-2,Range of motion assessment of the left arm and shoulder,To evaluate the functional status of the arm and identify any limitations or pain during movement.
-3,Neurological assessment of the left arm,"To check for sensation and motor function, especially given the reported tingling in the fingers."
-4,Vascular assessment of the left arm,To ensure adequate blood flow to the arm and check for any signs of vascular compromise.
-5,Assessment of vital signs,"To monitor for any changes in the patient's condition, especially given the mechanism of injury."
-6,Examination of the neck and spine,"To rule out any associated cervical spine injuries, especially since the patient reports radiation of pain to the neck."
-7,Assessment of the chest and abdomen,To rule out any other potential injuries from the motor vehicle accident that may not be immediately apparent.
+0,Inspection of the right arm,"To assess for any visible deformities, swelling, bruising, or open wounds that may indicate fractures or soft tissue injuries."
+1,Palpation of the right arm,"To identify areas of tenderness, swelling, or crepitus that may suggest fractures or soft tissue injuries."
+2,Range of motion assessment of the right arm,To evaluate the functional status of the arm and identify any limitations or pain during movement.
+3,Neurological examination of the upper extremities,"To assess for any nerve damage or deficits, especially given the arm pain and potential for injury in a motor vehicle accident."
+4,Head and neck examination,"To check for any signs of head trauma, such as lacerations, bruising, or tenderness, given the patient's complaint of headache and dizziness."
+5,Cranial nerve examination,To evaluate for any neurological deficits that may be contributing to the headache and dizziness.
+6,Vital signs reassessment,"To monitor for any changes in the patient's condition, especially given the elevated heart rate and potential for shock or other complications."
+7,Orthostatic vital signs,To assess for any postural changes in blood pressure and heart rate that could explain the dizziness.
+8,Examination of the pupils,"To check for any abnormalities in size, shape, or reactivity that could indicate head trauma or increased intracranial pressure."
+9,Cardiovascular examination,"To ensure there are no signs of cardiovascular compromise, especially given the elevated heart rate."
+10,Respiratory examination,To rule out any respiratory distress or complications from the accident.

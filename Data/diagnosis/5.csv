@@ -1,8 +1,5 @@
 ,Diagnosis,Justification
-0,Normal early pregnancy,"The patient has a positive pregnancy test, missed period, and common early pregnancy symptoms such as nausea and breast tenderness."
-0,Ectopic pregnancy,"Although less common, ectopic pregnancy should be considered due to the potential for abdominal pain or unusual symptoms, especially in early pregnancy."
-0,Pregnancy-related anxiety,"The patient expresses anxiety about her health and pregnancy, which is common in first-time pregnancies."
-0,Hyperemesis gravidarum,"The patient reports nausea, which could indicate a more severe form of nausea and vomiting in pregnancy, especially if it worsens."
-0,Molar pregnancy (gestational trophoblastic disease),"This rare condition can present with positive pregnancy tests and symptoms of nausea, and should be considered if there are abnormal symptoms or findings."
-0,Urinary tract infection (UTI),"UTIs can present with nausea and discomfort, and should be ruled out, especially if the patient experiences urinary symptoms."
-0,"Hormonal changes (e.g., thyroid dysfunction)","Thyroid dysfunction can cause symptoms such as anxiety and changes in mood, and should be considered in the context of pregnancy."
+0,Normal Intrauterine Pregnancy,"The patient has a positive pregnancy test, symptoms consistent with early pregnancy (nausea, breast tenderness), and no significant risk factors or complications in her history."
+1,Ectopic Pregnancy,"Although the patient presents with a positive pregnancy test and symptoms of early pregnancy, the inability to recall the last menstrual period and the history of missed contraceptive pills could suggest an ectopic pregnancy, which is a critical condition to rule out."
+2,Molar Pregnancy,"While less common, a molar pregnancy could present with a positive pregnancy test and symptoms of pregnancy. It is important to consider this in the differential diagnosis, especially if the ultrasound shows abnormal findings."
+3,Pregnancy of Unknown Location,"Given the uncertainty about the last menstrual period and the missed contraceptive pills, there is a possibility of a pregnancy of unknown location, which requires further investigation to confirm the location of the pregnancy."

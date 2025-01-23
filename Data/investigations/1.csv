@@ -1,9 +1,10 @@
 ,Investigations,Justification
-0,Electrocardiogram (ECG),To assess for any acute ischemic changes or arrhythmias that may indicate myocardial infarction or other cardiac issues.
-1,"Cardiac biomarkers (e.g., troponin levels)","To evaluate for myocardial injury or infarction, especially given the patient's chest pain and risk factors."
-2,Chest X-ray,"To rule out any pulmonary causes of chest pain, such as pneumothorax, pneumonia, or aortic dissection."
-3,Complete blood count (CBC),To check for signs of infection or anemia that could contribute to the patient's symptoms.
-4,Basic metabolic panel (BMP),"To assess electrolyte levels, renal function, and glucose, which can impact cardiac function."
-5,Lipid panel,"To evaluate the patient's cholesterol levels and assess cardiovascular risk, especially given his history of high cholesterol."
-6,"Esophageal studies (e.g., esophageal pH monitoring or endoscopy)","To investigate the possibility of gastroesophageal reflux disease (GERD) as a contributing factor to the chest pain, especially given his history."
-7,"Stress test or cardiac imaging (e.g., echocardiogram)","To assess for any underlying coronary artery disease or structural heart issues, especially considering the patient's history of similar episodes."
+0,Electrocardiogram (ECG),To assess for any acute ischemic changes or arrhythmias that could indicate myocardial infarction or other cardiac issues.
+1,"Cardiac biomarkers (Troponin, CK-MB)","To detect any myocardial injury or infarction, as elevated levels would suggest cardiac muscle damage."
+2,Chest X-ray,"To rule out other causes of chest pain such as pneumothorax, pneumonia, or aortic dissection."
+3,Echocardiogram,"To evaluate cardiac function and structure, and to assess for any wall motion abnormalities or valvular issues."
+4,Stress test (if patient is stable),"To evaluate for inducible ischemia, especially if initial tests are inconclusive and the patient is stable."
+5,Lipid profile,"To assess cholesterol levels, given the patient's history of high cholesterol and family history of heart disease."
+6,Blood glucose and HbA1c,"To screen for diabetes, considering the family history of diabetes and the patient's risk factors."
+7,Complete blood count (CBC),"To check for anemia or infection, which could contribute to the patient's symptoms."
+8,Basic metabolic panel,"To assess kidney function and electrolyte levels, which are important in managing hypertension and cardiac health."

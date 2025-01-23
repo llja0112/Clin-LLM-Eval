@@ -1,6 +1,5 @@
 ,Investigations,Justification
-0,X-ray of the lumbar spine,To rule out any fractures or structural abnormalities due to the recent lifting incident.
-1,MRI of the lumbar spine,"To assess for any soft tissue injuries, disc herniation, or nerve compression, especially given the localized pain and history of heavy lifting."
-2,Complete blood count (CBC),"To check for any signs of infection or inflammation, although the absence of systemic symptoms makes this less likely."
-3,Basic metabolic panel (BMP),"To evaluate kidney function and electrolyte levels, which can be relevant in the context of pain management."
-4,Urinalysis,"To rule out any urinary tract issues that could be contributing to back pain, especially if there are any changes in bowel or bladder function."
+0,X-ray of the lumbar spine,"To check for any fractures, degenerative changes, or other abnormalities in the bones of the lower back."
+1,MRI of the lumbar spine,"To assess for any soft tissue injuries, such as herniated discs or nerve compression, especially given the patient's occupation and history of lifting heavy objects."
+2,"Blood tests (e.g., complete blood count, inflammatory markers)",To rule out any underlying infection or inflammatory conditions that could be contributing to the back pain.
+3,Physical examination focusing on neurological assessment,"To evaluate for any signs of nerve involvement, such as weakness, numbness, or reflex changes, which could indicate a more serious underlying condition."

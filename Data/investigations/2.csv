@@ -1,9 +1,8 @@
 ,Investigations,Justification
-0,Urinalysis,"To assess for the presence of blood, protein, glucose, and signs of infection or other abnormalities in the urine."
-1,Urine culture,To identify any potential urinary tract infection (UTI) that may be causing hematuria.
-2,Complete blood count (CBC),"To evaluate for signs of infection, anemia, or other hematological issues."
-3,Comprehensive metabolic panel (CMP),To assess kidney function and electrolyte balance.
-4,Prostate-specific antigen (PSA) test,"Given the family history of prostate cancer, to evaluate for potential prostate issues."
-5,"Imaging studies (e.g., renal ultrasound or CT scan of the abdomen/pelvis)","To visualize the kidneys, bladder, and urinary tract for any structural abnormalities, stones, or tumors."
-6,"Coagulation profile (PT/INR, aPTT)",To rule out any bleeding disorders that could contribute to hematuria.
-7,Cystoscopy (if indicated),To directly visualize the bladder and urethra if initial investigations do not reveal a clear cause.
+0,Urinalysis,"To check for the presence of red blood cells, white blood cells, bacteria, or crystals, which can help identify urinary tract infections, kidney stones, or other causes of hematuria."
+1,Urine culture,To identify any bacterial infection in the urinary tract that could be causing the symptoms.
+2,CT scan of the abdomen and pelvis,"To visualize the urinary tract and identify any stones, tumors, or structural abnormalities that could be causing hematuria."
+3,Cystoscopy,"To directly visualize the bladder and urethra for any abnormalities such as tumors, stones, or inflammation."
+4,Ultrasound of the kidneys and bladder,"To assess for any structural abnormalities, stones, or masses in the kidneys and bladder."
+5,Complete blood count (CBC),"To check for signs of infection or anemia, which can be associated with hematuria."
+6,Blood urea nitrogen (BUN) and creatinine levels,To assess kidney function and rule out any renal causes of hematuria.

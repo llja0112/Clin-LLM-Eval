@@ -1,9 +1,6 @@
 ,Investigations,Justification
-0,Electrocardiogram (ECG),"To assess for any acute cardiac events such as myocardial infarction or arrhythmias, given the patient's left arm pain and risk factors."
-1,Cardiac enzymes (Troponin I or T),"To evaluate for myocardial injury, as the patient presents with chest pain radiating to the arm and has a history of hypertension."
-2,Chest X-ray,To rule out any pulmonary causes of shortness of breath and to assess for any cardiac enlargement or other thoracic pathology.
-3,Complete blood count (CBC),To check for any signs of infection or anemia that could contribute to the patient's symptoms.
-4,Basic metabolic panel (BMP),"To assess electrolyte levels and kidney function, which can impact cardiac function and overall health."
-5,D-dimer,"To rule out the possibility of a pulmonary embolism, especially given the patient's mild shortness of breath."
-6,Echocardiogram,"To evaluate cardiac function and structure, particularly if there are abnormalities noted on the ECG or elevated cardiac enzymes."
-7,Stress test or cardiac imaging (if indicated),"To assess for underlying coronary artery disease, especially given the patient's age and risk factors."
+0,X-ray of the left shoulder and arm,"To rule out any fractures or dislocations, especially since the pain started after lifting a heavy object."
+1,MRI of the shoulder,"To assess for soft tissue injuries such as rotator cuff tears or tendonitis, which may not be visible on an X-ray."
+2,Ultrasound of the shoulder,"To evaluate for bursitis or tendonitis, as it is a non-invasive way to assess soft tissue structures."
+3,Blood tests including ESR and CRP,To check for any signs of inflammation or infection that could be contributing to the pain.
+4,Electrocardiogram (ECG),"To rule out cardiac causes of arm pain, given the patient's age and history of hypertension, even though the pain is not typical of cardiac origin."
