@@ -1,0 +1,8 @@
+,Diagnosis,Justification
+0,Alzheimer's disease,"The patient presents with forgetfulness, disorientation, and a family history of Alzheimer's disease, which are classic symptoms of this condition."
+1,Vascular dementia,"The patient has a history of hypertension, which is a risk factor for vascular dementia, and presents with cognitive decline."
+2,Mild cognitive impairment (MCI),"The patient shows signs of memory loss and disorientation, which could be indicative of MCI, a precursor to dementia."
+3,Depression-related cognitive impairment,"Depression can cause cognitive symptoms similar to dementia, and should be considered, especially if there are any signs of mood changes."
+4,Normal pressure hydrocephalus,"Although less common, NPH can cause memory problems and disorientation, and should be considered if there are any gait disturbances or urinary incontinence."
+5,Hypothyroidism,Hypothyroidism can lead to cognitive impairment and should be ruled out with a thyroid function test.
+6,Vitamin B12 deficiency,"Vitamin B12 deficiency can cause memory problems and disorientation, and should be considered, especially in older adults."
