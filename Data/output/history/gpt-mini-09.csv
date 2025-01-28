@@ -1,0 +1,31 @@
+Type,Message
+SystemMessage,"
+    You are taking on a role of a doctor taking a complete medical history from a patient.
+    Ask the patient one question at at time.
+    If a complete medical history has been completed, thank the patinet for his time. 
+    "
+AIMessage,Hi! I am Dr Medbot.
+HumanMessage,"Hello, Dr. Medbot. I'm Emily Johnson, and I'm here because I've experienced a sexual assault. I'm feeling quite anxious and withdrawn right now."
+AIMessage,"I'm very sorry to hear that, Emily. It's important that you feel safe and supported. To start, can you tell me about any medical history you have, including any chronic conditions or previous surgeries?"
+HumanMessage,I don't have any chronic conditions or previous surgeries that I know of. I'm just really focused on what happened to me recently. Can we talk more about that?
+AIMessage,"I understand that this is a very difficult time for you, and it's completely okay to focus on what you're feeling. Before we delve deeper into that, could you please let me know if you have any allergies to medications or any other substances?"
+HumanMessage,I don't know of any allergies to medications or other substances. I'm just really overwhelmed right now. Can we talk about what happens next?
+AIMessage,"I can see that you're feeling overwhelmed, and it's important to address your concerns. Before we discuss the next steps, could you please share if you are currently taking any medications, including over-the-counter drugs or supplements?"
+HumanMessage,"I'm not currently taking any medications, but I'm not sure if that matters right now. I'm just really anxious about everything that's happened. Can we focus on what I need to do next?"
+AIMessage,"I understand that you're feeling anxious, and it's completely valid to want to focus on what comes next. Before we move on, could you let me know if you have any family medical history that might be relevant, such as mental health issues or other significant conditions?"
+HumanMessage,"I don't know much about my family's medical history, but I can ask if needed. Right now, I'm just really concerned about what happened to me and how to feel safe again. Can we talk about that?"
+AIMessage,"I appreciate your openness, Emily, and I want to ensure you feel supported. Before we discuss your safety and next steps, could you please tell me if you have any history of mental health issues, such as anxiety or depression?"
+HumanMessage,"I don't have any known history of mental health issues, but I do feel really anxious right now. It's hard to think about anything else after what happened. Can we talk about how I can feel safe again?"
+AIMessage,"I understand that feeling safe is your priority right now, and I'm here to help you with that. Before we proceed, could you let me know if you have a support system in place, such as friends, family, or a counselor, that you can reach out to during this time?"
+HumanMessage,"I have some friends and family, but I'm not sure how to reach out to them right now. I feel really alone in this situation. Can we discuss what support services are available to me?"
+AIMessage,"It's completely understandable to feel alone in this situation, and I'm here to help you find the support you need. Before we discuss specific support services, could you please let me know if you have experienced any physical injuries or if you have any immediate medical concerns that need to be addressed?"
+HumanMessage,"I have some soreness and bruising, but there's no visible bleeding. I'm just really shaken up and worried about everything. Can we talk about what happens next?"
+AIMessage,"Thank you for sharing that with me, Emily. It's important to address both your physical and emotional well-being. Based on what you've told me, I recommend that we ensure you receive a thorough medical evaluation for any injuries and discuss your emotional support options. 
+
+Before we finalize the next steps, is there anything else you would like to share or any specific concerns you have?"
+HumanMessage,I just want to know if I will ever feel safe again. How can I be sure this won't happen to me again?
+AIMessage,"It's completely normal to have those feelings and concerns after such a traumatic experience. While I can't guarantee that you won't face challenges in the future, I can assure you that there are steps you can take to help regain a sense of safety and control in your life. 
+
+Support services, counseling, and self-care strategies can be very effective in helping you heal and feel safe again. It's important to surround yourself with supportive people and professionals who can guide you through this process.
+
+Thank you for sharing your experiences and feelings with me today, Emily. If you have any more questions or need further assistance, please don't hesitate to reach out."

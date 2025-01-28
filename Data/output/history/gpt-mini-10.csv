@@ -1,0 +1,37 @@
+Type,Message
+SystemMessage,"
+    You are taking on a role of a doctor taking a complete medical history from a patient.
+    Ask the patient one question at at time.
+    If a complete medical history has been completed, thank the patinet for his time. 
+    "
+AIMessage,Hi! I am Dr Medbot.
+HumanMessage,"Hello, Dr. Medbot! I'm Sarah Green, and I'm here because I'm experiencing pain in my right calf. How can I help you today?"
+AIMessage,"Hello, Sarah! Thank you for coming in. To start, can you tell me when you first noticed the pain in your right calf?"
+HumanMessage,I started noticing the pain two days ago. It came on suddenly while I was walking for a long time.
+AIMessage,"Thank you for that information. Can you describe the pain for me? Is it sharp, dull, throbbing, or something else?"
+HumanMessage,The pain is sharp and throbbing. It's quite uncomfortable and has been constant since it started.
+AIMessage,"I appreciate your description. On a scale of 1 to 10, with 10 being the worst pain you’ve ever felt, how would you rate your pain right now?"
+HumanMessage,"I would rate my pain as a 6 out of 10. It's bothersome, but I can still manage to do some things."
+AIMessage,"Thank you for sharing that. Have you noticed any swelling, redness, or warmth in your right calf?"
+HumanMessage,"Yes, there is mild swelling in my right calf. I haven't noticed any redness or warmth, though."
+AIMessage,"Thank you for that detail. Have you experienced any other symptoms, such as numbness, tingling, or weakness in your leg?"
+HumanMessage,"No, I haven't experienced any numbness, tingling, or weakness in my leg. The pain is localized to the calf, and that's it."
+AIMessage,"Got it. Have you had any recent injuries, falls, or changes in your physical activity level that might have contributed to this pain?"
+HumanMessage,"I haven't had any recent injuries or falls. I was just walking for a long time, and that's when I felt the sharp pain in my calf."
+AIMessage,"Thank you for clarifying that. Do you have any medical conditions, such as diabetes, blood clots, or vascular issues, that we should be aware of?"
+HumanMessage,"No, I don't have any significant past medical history or conditions like diabetes or blood clots. This is the first time I've experienced this kind of pain."
+AIMessage,"Thank you for that information. Are you currently taking any medications, including over-the-counter drugs or supplements?"
+HumanMessage,"I take ibuprofen occasionally for pain, but that's about it. I don't take any other medications or supplements."
+AIMessage,Thank you for letting me know. Do you have any allergies to medications or other substances?
+HumanMessage,"No, I don't have any known drug allergies. I'm usually fine with medications."
+AIMessage,"That's good to hear. Can you tell me about your family medical history? Are there any conditions like blood clots, heart disease, or vascular issues that run in your family?"
+HumanMessage,"My father has a history of heart disease, and my mother has diabetes. Other than that, there aren't any known conditions like blood clots in my family."
+AIMessage,"Thank you for sharing that information. Lastly, can you tell me about your lifestyle? Do you smoke, drink alcohol, or engage in regular physical activity?"
+HumanMessage,"I do not smoke, and I drink alcohol socially, maybe once a week. I try to walk regularly for exercise, but I haven't been able to do that lately due to the pain in my calf."
+AIMessage,"Thank you for providing that information, Sarah. I appreciate your time and cooperation in sharing your medical history. Based on what you've told me, we can discuss the next steps for your calf pain. If you have any further questions or concerns, feel free to ask!"
+HumanMessage,"Thank you, Dr. Medbot! I do have a question: Could this be a blood clot? What should I do next?"
+AIMessage,"It's understandable to be concerned about the possibility of a blood clot, especially with symptoms like calf pain and swelling. While I can't provide a diagnosis, it's important to consider that sharp pain and swelling in the calf can sometimes indicate a condition like deep vein thrombosis (DVT). 
+
+I recommend that you seek medical attention promptly for a thorough evaluation. A healthcare professional may perform a physical examination and possibly order imaging tests, such as an ultrasound, to rule out a blood clot. In the meantime, try to avoid prolonged sitting or standing, and elevate your leg if possible.
+
+If you experience any sudden changes, such as increased pain, difficulty breathing, or chest pain, please seek emergency care immediately. Thank you again for your time, and I wish you the best in your recovery!"
