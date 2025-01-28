@@ -1,18 +1,21 @@
 """Index module containing multiple agent modules"""
 
-from langchain_ollama import ChatOllama
-from langchain_ollama import OllamaLLM
 from langchain_openai import ChatOpenAI
-from langchain_openai import OpenAI
-from dotenv import load_dotenv
+from langchain_google_vertexai import ChatVertexAI
+from langchain_community.llms import Replicate
+
+from langchain_core.messages import SystemMessage, AIMessage, HumanMessage
+from langchain_core.prompts import PromptTemplate
+# from langchain_core.output_parsers import PydanticOutputParser
 
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.graph import START, MessagesState, StateGraph
 
-from langchain_core.messages import SystemMessage, AIMessage, HumanMessage
-from langchain_core.prompts import PromptTemplate
-
+from dotenv import load_dotenv
 from pydantic import BaseModel, Field
+import pandas as pd
+
+from . import generation_models
 
 class PatientAgent:
   """Class representing a patient agent"""
@@ -23,7 +26,6 @@ class PatientAgent:
     self.initialize_environment()
     self.config = {"configurable": {"thread_id": thread_id}}
     self.chat_model = None
-    self.model = None
     self.select_model()
     self.agent = None
     self.step = 0
@@ -53,10 +55,10 @@ class PatientAgent:
          for index, row in history.iterrows()])
 
       self.system_prompt = self.template.format(
-        case_prompt=details['Case Prompt'].values[0],
+        case_prompt=details['Basic details'].values[0],
         vitals=details['Vitals'].values[0],
         question_answer_list = question_answer_list,
-        challenging_question = details['Challenging Questions to Ask'].values[0]
+        challenging_question = details['Challenging question'].values[0]
       )
     else:
       self.system_prompt = '''
@@ -70,14 +72,19 @@ class PatientAgent:
   def select_model(self):
     """Method selecting model for patient agent"""
     if self.model_name.lower() == 'llama3-8b':
-      self.chat_model = ChatOllama(model="llama3.1:8b", temperature=self.temperature)
-      self.model = OllamaLLM(model="llama3.1:8b", temperature=self.temperature)
+      self.chat_model = Replicate(model="meta/meta-llama-3-8b",
+                model_kwargs={"temperature": self.temperature})
+    elif self.model_name.lower() == 'llama3-70b':
+      self.chat_model = Replicate(model="meta/meta-llama-3-70b",
+                model_kwargs={"temperature": self.temperature})
     elif self.model_name.lower() == 'gpt-4o':
       self.chat_model = ChatOpenAI(model="gpt-4o", temperature=self.temperature)
-      self.model = OpenAI(model="gpt-4o", temperature=self.temperature)
     elif self.model_name.lower() == 'gpt-4o-mini':
       self.chat_model = ChatOpenAI(model="gpt-4o-mini", temperature=self.temperature)
-      self.model = OpenAI(model="gpt-4o-mini", temperature=self.temperature)
+    elif self.model_name.lower() == 'gemini-flash':
+      self.chat_model = ChatVertexAI(model="gemini-1.5-flash", temperature=self.temperature)
+    elif self.model_name.lower() == 'gemini-pro':
+      self.chat_model = ChatVertexAI(model="gemini-1.5-pro", temperature=self.temperature)
     else:
       raise ValueError(f"Unknown model name: {self.model_name}")
 
@@ -143,14 +150,19 @@ class DoctorAgent:
   def select_model(self):
     """Method selecting model for doctor agent"""
     if self.model_name.lower() == 'llama3-8b':
-      self.chat_model = ChatOllama(model="llama3.1:8b", temperature=self.temperature)
-      self.model = OllamaLLM(model="llama3.1:8b", temperature=self.temperature)
+      self.chat_model = Replicate(model="meta/meta-llama-3-8b",
+                                  model_kwargs={"temperature": self.temperature})
+    elif self.model_name.lower() == 'llama3-70b':
+      self.chat_model = Replicate(model="meta/meta-llama-3-70b",
+                                  model_kwargs={"temperature": self.temperature})
     elif self.model_name.lower() == 'gpt-4o':
       self.chat_model = ChatOpenAI(model="gpt-4o", temperature=self.temperature)
-      self.model = ChatOpenAI(model="gpt-4o", temperature=self.temperature)
     elif self.model_name.lower() == 'gpt-4o-mini':
       self.chat_model = ChatOpenAI(model="gpt-4o-mini", temperature=self.temperature)
-      self.model = ChatOpenAI(model="gpt-4o-mini", temperature=self.temperature)
+    elif self.model_name.lower() == 'gemini-flash':
+      self.chat_model = ChatVertexAI(model="gemini-1.5-flash", temperature=self.temperature)
+    elif self.model_name.lower() == 'gemini-pro':
+      self.chat_model = ChatVertexAI(model="gemini-1.5-pro", temperature=self.temperature)
     else:
       raise ValueError(f"Unknown model name: {self.model_name}")
 
@@ -187,7 +199,7 @@ class DoctorAgent:
     self.history = self.agent.invoke({"messages": input_messages}, config=self.config)
     self.step += 1
     return self.history
-  
+
   def combine_history_string(self):
     """Combine history taken into a single string"""
 
@@ -212,9 +224,19 @@ class DoctorAgent:
 
     combined_messages = self.combine_history_string()
 
+
+    if "llama" in self.model_name:
+      # parser = PydanticOutputParser(generation_models.PhysicalExamChecklist)
+
+      return "Not implemented"
+
+    structured_model = self.chat_model.with_structured_output(
+      generation_models.PhysicalExamChecklist)
+
     prompt_template = PromptTemplate.from_template(template)
-    chain = prompt_template | self.model
-    self.physical_exam = chain.invoke({"patient_history": combined_messages})
+    chain = prompt_template | structured_model
+    output = self.physical_exam = chain.invoke({"patient_history": combined_messages})
+    return output
 
   def invoke_investigations(self):
     """Invoke the investigations that doctor should suggest"""
@@ -230,7 +252,11 @@ class DoctorAgent:
     combined_messages = self.combine_history_string()
 
     prompt_template = PromptTemplate.from_template(template)
-    chain = prompt_template | self.model
+
+    structured_model = self.chat_model.with_structured_output(
+      generation_models.InvestigationsChecklist)
+
+    chain = prompt_template | structured_model
     self.investigations = chain.invoke({"patient_history": combined_messages})
 
   def invoke_differential_diagnoses(self):
@@ -247,8 +273,103 @@ class DoctorAgent:
     combined_messages = self.combine_history_string()
 
     prompt_template = PromptTemplate.from_template(template)
-    chain = prompt_template | self.model
+
+    structured_model = self.chat_model.with_structured_output(generation_models.DdxChecklist)
+
+    chain = prompt_template | structured_model
     self.differential_diagnoses = chain.invoke({"patient_history": combined_messages})
+
+  def export_history(self, verbose=True, dir_name="Data/output", file_name="1"):
+    """Export history taken by doctor"""
+
+    if verbose:
+      print("Exporting history taken by doctor")
+
+    messages_df = pd.DataFrame([
+      {"Type": type(message).__name__, "Message": message.content}
+      for message in self.agent.get_state(self.config).values['messages']
+    ])
+
+    messages_df.to_csv(dir_name + "/history/" + file_name + ".csv", index=False)
+
+  def export_physical_exam(self, verbose=True, dir_name="Data/output", file_name="1"):
+    """Export physical exam steps suggested by doctor"""
+
+    if verbose:
+      print("Exporting physical exam steps suggested by doctor")
+
+    columns = ["Physical Exam", "Justification"]
+    physical_exam_df = pd.DataFrame(columns=columns)
+
+    for item in self.physical_exam.ChecklistItems:
+      physical_exam_df = pd.concat(
+        [
+          physical_exam_df,
+          pd.DataFrame(
+            [[
+              item.technique, item.justification
+            ]], columns=columns)
+        ]
+      )
+
+    physical_exam_df = physical_exam_df.reset_index(drop=True)
+    physical_exam_df.to_csv(dir_name + "/physical/" + file_name + ".csv")
+
+  def export_investigations(self, verbose=True,
+                            dir_name="Data/output", file_name="1"):
+    """Export investigations suggested by doctor"""
+
+    if verbose:
+      print("Exporting investigations suggested by doctor")
+
+    columns = ["Investigation", "Justification"]
+    investigations_df = pd.DataFrame(columns=columns)
+
+    for item in self.investigations.ChecklistItems:
+      investigations_df = pd.concat(
+        [
+          investigations_df,
+          pd.DataFrame(
+            [[
+              item.investigation, item.justification
+            ]], columns=columns)
+        ]
+      )
+
+    investigations_df = investigations_df.reset_index(drop=True)
+    investigations_df.to_csv(dir_name + "/investigations/" + file_name + ".csv")
+
+  def export_differential_diagnoses(self, verbose=True,
+                                    dir_name="Data/output", file_name="1"):
+    """Export differential diagnoses suggested by doctor"""
+
+    if verbose:
+      print("Exporting differential diagnoses suggested by doctor")
+
+    columns = ["Diagnosis", "Justification"]
+    ddx_df = pd.DataFrame(columns=columns)
+
+    for item in self.differential_diagnoses.ChecklistItems:
+      ddx_df = pd.concat(
+        [
+          ddx_df,
+          pd.DataFrame(
+            [[
+              item.diagnosis, item.justification
+            ]], columns=columns)
+        ]
+      )
+
+    ddx_df = ddx_df.reset_index(drop=True)
+    ddx_df.to_csv(dir_name + "/diagnosis/" + file_name + ".csv")
+
+  def export_all(self, verbose=True, dir_name="Data/output", file_name="1"):
+    """Export all history, physical exam, investigations and differential diagnoses"""
+
+    self.export_history(verbose, dir_name, file_name)
+    self.export_physical_exam(verbose, dir_name, file_name)
+    self.export_investigations(verbose, dir_name, file_name)
+    self.export_differential_diagnoses(verbose, dir_name, file_name)
 
 class HistoryEvaluation(BaseModel):
   "Evaluation metric for history taking field"
@@ -308,9 +429,17 @@ class ExaminerAgent:
     """Select model for examiner agent"""
 
     if self.model_name.lower() == 'llama3-8b':
-      self.model = OllamaLLM(model="llama3.1:8b", temperature=self.temperature)
+      self.model = Replicate(model="meta/meta-llama-3-8b",
+                             model_kwargs={"temperature": self.temperature})
+    elif self.model_name.lower() == 'llama3-70b':
+      self.model = Replicate(model="meta/meta-llama-3-70b",
+                             model_kwargs={"temperature": self.temperature})
     elif self.model_name.lower() == 'gpt-4o-mini':
       self.model = ChatOpenAI(model="gpt-4o-mini", temperature=self.temperature)
+    elif self.model_name.lower() == 'gemini-flash':
+      self.chat_model = ChatVertexAI(model="gemini-1.5-flash", temperature=self.temperature)
+    elif self.model_name.lower() == 'gemini-pro':
+      self.chat_model = ChatVertexAI(model="gemini-1.5-pro", temperature=self.temperature)
     else:
       raise ValueError(f"Unknown model name: {self.model_name}")
 
@@ -319,7 +448,7 @@ class ExaminerAgent:
 
     total_score = 0
     history_scoring_log = []
-    for index, history_taking_item in history_taking_checklist.iterrows():
+    for _, history_taking_item in history_taking_checklist.iterrows():
       output = self.evaluate_history_taking_item(
         conversation, history_taking_item['Question'],
         history_taking_item['Patient Response']
@@ -361,7 +490,7 @@ class ExaminerAgent:
 
     total_score = 0
     physical_exam_scoring_log = []
-    for index, physical_exam_item in physical_exam_checklist.iterrows():
+    for _, physical_exam_item in physical_exam_checklist.iterrows():
       output = self.evaluate_physical_exam_item(
         physical_exam_suggestions,
         physical_exam_item['Exam component'],
@@ -404,9 +533,11 @@ class ExaminerAgent:
     """Evaluate investigations suggestions with investigations checklist"""
 
     investigations_score = 0
-    investigations_scoring_log = []    
-    for index, investigations_item in investigations_checklist.iterrows():
-      output = self.evaluate_investigations_item(investigations_suggestions, investigations_item['Diagnostic Workup'])
+    investigations_scoring_log = []
+    for _, investigations_item in investigations_checklist.iterrows():
+      output = self.evaluate_investigations_item(
+        investigations_suggestions,
+        investigations_item['Diagnostic Workup'])
       investigations_score += output.score
       investigations_scoring_log.append(output.explanation)
 
@@ -442,7 +573,7 @@ class ExaminerAgent:
     """Evaluate ddx suggestion with ddx checklist"""
     ddx_score = 0
     ddx_scoring_log = []
-    for index, ddx_item in ddx_checklist.iterrows():
+    for _, ddx_item in ddx_checklist.iterrows():
       output = self.evaluate_ddx_item(ddx_suggestions, ddx_item['Differential Diagnosis'])
       ddx_score += output.score
       ddx_scoring_log.append(output.explanation)
