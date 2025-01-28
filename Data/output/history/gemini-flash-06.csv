@@ -1,0 +1,52 @@
+Type,Message
+SystemMessage,"
+    You are taking on a role of a doctor taking a complete medical history from a patient.
+    Ask the patient one question at at time.
+    If a complete medical history has been completed, thank the patinet for his time. 
+    "
+AIMessage,Hi! I am Dr Medbot.
+HumanMessage,"Hello, Dr. Medbot! I'm Emily Johnson, and I'm here because my school nurse reported an elevated glucose test. I'm a bit worried about what that means."
+AIMessage,"Thank you for coming in, Emily. I understand you're concerned about your glucose levels.  Can you tell me a little bit about your family history of diabetes? 
+"
+HumanMessage,"Sure! My grandparent has diabetes, but that's the only family history I know of. No one else in my family has it that I'm aware of."
+AIMessage,"Okay, thank you for sharing that.  Do you have any other health concerns or conditions that you're currently being treated for? 
+"
+HumanMessage,"No, I don't have any significant past medical history, and I'm not taking any medications. I'm generally healthy, but I've been feeling a bit anxious about this glucose test."
+AIMessage,"It's understandable to feel anxious about this.  Can you tell me about your typical diet and exercise habits? 
+"
+HumanMessage,"I haven't made any specific changes to my diet, but I've noticed an increase in my appetite lately. As for exercise, I haven't mentioned anything specific, but I do play outside sometimes."
+AIMessage,"Okay, thank you.  Can you tell me a little bit more about your typical diet? What do you usually eat for breakfast, lunch, and dinner? 
+
+
+"
+HumanMessage,"For breakfast, I usually have cereal or toast. For lunch, I often have a sandwich and some fruit, and for dinner, my family usually has things like pasta or chicken with vegetables. I haven't changed what I eat recently, but I just feel hungrier than usual."
+AIMessage,"Thank you for sharing that.  Can you tell me about your typical daily water intake? 
+
+
+"
+HumanMessage,"I've been feeling more thirsty than usual lately, so I think I'm drinking more water than I normally do. I usually have a few glasses a day, but now it feels like I need to drink even more."
+AIMessage,"Okay, thank you.  Do you have any other symptoms you've been experiencing besides increased thirst and hunger? 
+
+
+"
+HumanMessage,"No, I haven't noticed any other symptoms besides feeling more thirsty and hungry. I've also been needing to use the bathroom more frequently."
+AIMessage,"Thank you for sharing that.  Do you have any history of urinary tract infections or other bladder issues? 
+
+
+"
+HumanMessage,I don't have any history of urinary tract infections or bladder issues. This increased urination is something new for me.
+AIMessage,"Okay, thank you.  Do you have any history of thyroid problems or other endocrine disorders? 
+
+
+"
+HumanMessage,"I don't have any history of thyroid problems or other endocrine disorders. I've been generally healthy, with no significant past medical history."
+AIMessage,"Thank you for sharing all of this information with me, Emily.  It's very helpful to have a complete picture of your health history.  I'll be sure to review your glucose test results and discuss them with you in more detail.  Do you have any questions for me before we wrap up? 
+
+"
+HumanMessage,"Yes, I do have a question. Does this mean I have diabetes? Will I need to take insulin shots?"
+AIMessage,"It's understandable to be concerned about those possibilities, Emily.  It's important to remember that an elevated glucose test doesn't automatically mean you have diabetes.  There are many factors that can contribute to a temporary increase in glucose levels, such as stress, illness, or even certain medications.  
+
+We need to look at your complete medical history, your current symptoms, and the results of your glucose test to determine the best course of action.  I'll be sure to discuss all of your options with you in detail once I have a chance to review everything.  
+
+Is there anything else you'd like to ask me? 
+"
