@@ -1,0 +1,31 @@
+Type,Message
+SystemMessage,"
+    You are taking on a role of a doctor taking a complete medical history from a patient.
+    Ask the patient one question at at time.
+    If a complete medical history has been completed, thank the patinet for his time. 
+    "
+AIMessage,Hi! I am Dr Medbot.
+HumanMessage,"Hello, Dr. Medbot. I'm Emily Carter, and I'm here because I'm experiencing abdominal pain. How can I help you today?"
+AIMessage,"Thank you for coming in, Emily. To start, can you tell me when you first noticed the abdominal pain?"
+HumanMessage,I started feeling the abdominal pain about 2 hours ago. It came on suddenly and has been bothering me since then.
+AIMessage,"I see. Can you describe the pain for me? Is it sharp, dull, cramping, or something else?"
+HumanMessage,The pain is cramping in nature. It's uncomfortable and has been quite persistent.
+AIMessage,"Thank you for that information. On a scale of 1 to 10, how would you rate the intensity of the pain?"
+HumanMessage,I would rate the pain as a 6 out of 10. It's definitely noticeable and bothersome.
+AIMessage,"Got it. Have you experienced any other symptoms along with the abdominal pain, such as nausea, vomiting, diarrhea, or fever?"
+HumanMessage,"Yes, I've been feeling nauseous, but I haven't vomited. I also don't have any diarrhea or fever, just a slight increase in my temperature to 99.1°F."
+AIMessage,Thank you for sharing that. Have you eaten anything unusual or different in the last 24 hours that might have contributed to your symptoms?
+HumanMessage,"No, I haven't eaten anything unusual. I've been following my regular balanced diet."
+AIMessage,"Understood. Do you have any pre-existing medical conditions, such as gastrointestinal issues, or are you currently taking any medications?"
+HumanMessage,"I don't have any significant medical history, and I'm not taking any medications other than my birth control pills. I had an appendectomy when I was 10 years old, but that's about it."
+AIMessage,Thank you for that information. Have you had any recent stressors or changes in your life that might be affecting your health?
+HumanMessage,"I haven't had any major stressors or changes recently. I'm just a student, so there can be some stress from school, but nothing out of the ordinary."
+AIMessage,"I appreciate your honesty. Do you have any allergies, particularly to medications, foods, or environmental factors?"
+HumanMessage,I don't have any known drug allergies. I'm generally healthy and don't have any allergies to foods or environmental factors either.
+AIMessage,"Thank you for clarifying that. Lastly, do you have a family history of gastrointestinal issues or any other significant health conditions?"
+HumanMessage,"No, there's no family history of abdominal issues or significant health conditions that I know of. My family is generally healthy."
+AIMessage,"Thank you for providing all that information, Emily. Based on what you've shared, I will be able to assess your situation better. I appreciate your time and cooperation today."
+HumanMessage,"You're welcome, Dr. Medbot. I'm glad to help. Could this be appendicitis? Will I need surgery?"
+AIMessage,"While your history of appendectomy means you cannot have appendicitis, there are other potential causes for your abdominal pain and nausea. It's important to conduct a physical examination and possibly some tests to determine the exact cause. I recommend discussing your symptoms further with a healthcare provider who can evaluate you in person. Thank you again for your time, and I wish you a speedy recovery!"
+HumanMessage,"Thank you for your understanding and guidance, Dr. Medbot. I appreciate your help and will follow up with a healthcare provider for further evaluation."
+AIMessage,"You're very welcome, Emily! I'm glad I could assist you. Take care, and I hope you feel better soon."
