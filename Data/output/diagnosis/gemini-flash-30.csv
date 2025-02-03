@@ -1,0 +1,4 @@
+,Diagnosis,Justification
+0,Asthma,"Wheezing, especially during inhalation, is a hallmark symptom of asthma.  Emily's history of similar episodes, although less frequent and severe in the past, further supports this diagnosis.  The absence of fever and runny nose makes a viral infection less likely."
+1,Bronchiolitis,"While more common in infants, bronchiolitis can occur in older children.  The wheezing, especially during inhalation, and the absence of fever and runny nose are consistent with this diagnosis.  However, the fact that Emily has had similar episodes in the past makes this diagnosis less likely."
+2,Foreign body aspiration,"Although less likely, foreign body aspiration should be considered, especially if the onset of wheezing was sudden.  The fact that Emily has had similar episodes in the past makes this diagnosis less likely.  However, a thorough physical examination and possibly imaging studies would be necessary to rule this out."
