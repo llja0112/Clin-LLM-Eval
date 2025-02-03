@@ -1,6 +1,7 @@
 ,Investigations,Justification
-0,D-dimer test,"To rule out deep vein thrombosis (DVT) as the patient has calf pain, swelling, redness, and a history of recent immobility due to a long flight."
-1,Venous Doppler ultrasound of the right leg,"To directly visualize the veins in the right leg and confirm or rule out the presence of a thrombus, given the clinical suspicion of DVT."
-2,Complete blood count (CBC),To check for any signs of infection or other hematological abnormalities that might explain the symptoms.
-3,"Coagulation profile (PT, aPTT, INR)","To assess the patient's baseline coagulation status, especially if anticoagulation therapy is considered."
-4,Electrolyte panel,To rule out any electrolyte imbalances that could contribute to muscle pain or cramping.
+0,Laryngoscopy,"To directly visualize the vocal cords and larynx to identify any structural abnormalities, lesions, or signs of inflammation that could explain the hoarseness."
+1,Neck CT or MRI,"To assess for any masses, tumors, or structural abnormalities in the neck region that might be affecting the vocal cords or surrounding structures."
+2,Thyroid function tests,"To rule out thyroid dysfunction, as thyroid issues can sometimes present with hoarseness."
+3,Chest X-ray,"To check for any mediastinal masses or lung pathology that might be impinging on the recurrent laryngeal nerve, leading to hoarseness."
+4,Complete blood count (CBC),To check for signs of infection or inflammation that might be contributing to the symptoms.
+5,ESR or CRP,To assess for any underlying inflammatory processes that could be causing the hoarseness.

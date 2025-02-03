@@ -1,24 +1,21 @@
 ,Question,Patient Response
-0,Chief complaint,Right calf pain
-1,Onset,Started a few days ago
-2,Precipitating events,I took a long flight a few days ago
-3,Progression,The pain has been constant
-4,Severity on a scale of 1 to 10,The pain is 5 out of 10
-5,Location,Right calf
-6,Radiation,No radiation
-7,Quality,Aching pain
-8,Alleviating / Exacerbating factors,Walking exacerbates the pain
-9,Swelling or redness,"Yes, there is some swelling and redness"
-10,History of similar pain,No previous episodes
-11,Recent travel or immobility,"Yes, a long flight recently"
-12,Current medications,No current medications
-13,Past medical history,No significant past medical history
-14,Past surgical history,Appendectomy 10 years ago
-15,Family history,No family history of blood clots or similar issues
-16,Occupation,Office worker
-17,Exercise,I exercise occasionally
-18,Alcohol use,"Socially, on weekends"
-19,Illicit drugs,No illicit drug use
-20,Tobacco history,Never smoked
-21,Diet,Balanced diet
-22,Drug Allergies,No known drug allergies
+0,Chief complaint,Hoarseness of voice
+1,Onset,Started about a week ago
+2,Precipitating events,Noticed it after a long day of talking
+3,Progression,It has been getting worse
+4,Alleviating / Exacerbating factors,Resting my voice helps a bit
+5,Difficulty swallowing,Slight difficulty with large or dry foods
+6,Throat clearing,I occasionally need to clear my throat
+7,Associated symptoms,"No pain, but my throat feels a bit scratchy"
+8,Previous episodes,Never had this before
+9,Current medications,None
+10,Past medical history,"I have high blood pressure, managed with diet"
+11,Past surgical history,Appendectomy 20 years ago
+12,Family history,My father had a stroke at age 70. My mother is healthy.
+13,Occupation,Retired teacher
+14,Alcohol use,"I drink socially, maybe once a week"
+15,Tobacco history,"I smoked for 30 years, quit 5 years ago"
+16,Duration of tobacco use,30 years
+17,Exercise,I walk daily for about 30 minutes
+18,Diet,I try to eat a balanced diet
+19,Drug Allergies,None
