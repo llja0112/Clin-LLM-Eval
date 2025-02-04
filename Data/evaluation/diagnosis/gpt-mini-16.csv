@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,"Endometriosis is a specific condition, and the doctor suggested it directly, which is relevant to the request."
+1,1,"Pelvic Inflammatory Disease (PID) is a specific type of infection that can be related to other conditions affecting the pelvic area, and the suggested diagnosis of 'Pelvic Inflammatory Disease (PID)' is directly relevant."
+2,0,The suggested differential diagnoses do not include 'Ovarian Cyst' or any closely related conditions.
+3,0,The suggested differential diagnoses do not include Uterine Fibroids or any closely related conditions.
+4,0,The suggested differential diagnoses do not include Vulvodynia or any closely related conditions.
+5,1,"The suggested diagnoses of Endometriosis and Pelvic Inflammatory Disease (PID) are both associated with dyspareunia, which is pain during intercourse."

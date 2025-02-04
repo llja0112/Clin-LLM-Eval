@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Lumbar sprain', which is similar to 'Lumbar strain or sprain'."
+1,1,The diagnosis 'Herniated disc' is included in the list of differential diagnoses suggested by the doctor.
+2,0,The suggested diagnoses do not include 'Degenerative Disc Disease' or any closely related conditions.
+3,0,"The suggested diagnoses do not include any conditions that are similar to Facet Joint Syndrome, which typically involves joint-related pain rather than muscle or ligament injuries."
+4,0,"The suggested differential diagnoses do not include any conditions that are similar to 'Sacroiliac Joint Dysfunction', which primarily involves issues with the sacroiliac joint rather than muscle or lumbar spine problems."
+5,0,The suggested differential diagnoses do not include Ankylosing Spondylitis or any similar conditions related to inflammatory back pain.

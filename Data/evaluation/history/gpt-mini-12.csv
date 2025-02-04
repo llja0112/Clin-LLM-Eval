@@ -1,0 +1,23 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's neck pain by asking about its onset, severity, characteristics, associated symptoms, and potential aggravating or relieving factors."
+1,1,"The doctor successfully asked about the onset of the neck pain by inquiring when the patient first noticed it, which led to the patient revealing it started a few weeks ago after a minor fall."
+2,1,"The doctor directly asked the patient about when they first noticed the neck pain, which led to the patient revealing the minor fall as a precipitating event."
+3,1,"The doctor effectively inquired about the onset and duration of the neck pain, which led to the patient revealing that the pain has been persistent since the fall."
+4,1,"The doctor successfully asked the patient to rate the pain on a scale of 1 to 10, which directly led to the patient providing a rating of 5 out of 10."
+5,0,The doctor did not specifically ask about the location of the pain in the back of the neck; they only asked for a description of the pain and its characteristics.
+6,0,"The doctor did not specifically ask about radiation of the pain, which is important to determine if the pain is localized or if it spreads to other areas."
+7,1,"The doctor specifically asked the patient to describe the type of pain experienced, which led to the patient providing information about the aching and stiffness in their neck."
+8,1,"The doctor specifically asked if anything makes the pain better or worse, which led to the patient mentioning that rubbing the neck provides some relief."
+9,1,"The doctor specifically asked about other symptoms associated with the neck pain, including limited range of motion, which the patient confirmed."
+10,1,"The doctor specifically asked about previous episodes of similar pain, and the patient confirmed there were none, thus obtaining relevant information."
+11,1,"The doctor asked about current medications, confirming that the patient is not taking any medications, which is relevant information for the history taking."
+12,1,"The doctor specifically asked about previous neck injuries and medical conditions, which allowed the patient to disclose their hypertension."
+13,0,The doctor did not ask any questions regarding the patient's past surgical history during the conversation.
+14,1,"The doctor specifically asked about the family medical history, which allowed the patient to clarify that there is no significant family history of musculoskeletal issues."
+15,0,The doctor did not ask any questions related to the patient's occupation or retirement status.
+16,0,"The doctor did not ask any questions regarding alcohol use, which is necessary to determine if the patient consumes alcohol occasionally."
+17,0,"The doctor did not ask any questions regarding the patient's use of illicit drugs, which is an important aspect of a comprehensive medical history."
+18,0,The doctor did not ask any questions regarding the patient's tobacco history.
+19,1,"The doctor specifically asked about the patient's lifestyle and exercise routine, which led to the patient mentioning that they walk occasionally."
+20,0,The doctor did not specifically ask about the patient's diet in terms of its balance or nutritional content; they only mentioned that the patient tries to maintain a balanced diet without further inquiry.
+21,1,"The doctor specifically asked about drug allergies, and the patient responded with 'No', indicating that the relevant information was obtained."

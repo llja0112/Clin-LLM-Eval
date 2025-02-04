@@ -1,0 +1,5 @@
+,Score,Explanation
+0,0,The doctor did not suggest 'Normal Intrauterine Pregnancy' or any diagnosis that directly corresponds to it.
+1,1,"The doctor suggested 'Ectopic pregnancy' as a differential diagnosis, which directly matches the query."
+2,0,The doctor did not suggest 'Molar Pregnancy' or any similar diagnosis in the differential diagnoses provided.
+3,0,The doctor did not suggest 'Pregnancy of Unknown Location' or any similar diagnosis; the options provided focus on specific conditions related to pregnancy.

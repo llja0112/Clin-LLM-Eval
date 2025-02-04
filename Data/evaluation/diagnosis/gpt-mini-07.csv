@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,The doctor suggested 'Rotator cuff injury' which is directly relevant to the query.
+1,0,The suggested differential diagnoses do not include 'Shoulder Impingement Syndrome' or any closely related conditions.
+2,0,The suggested differential diagnoses do not include 'Biceps Tendonitis' or any closely related conditions.
+3,0,"The suggested differential diagnoses do not include any conditions similar to 'Cervical Radiculopathy', which typically involves nerve root compression in the cervical spine."
+4,0,The suggested differential diagnoses do not include 'Osteoarthritis of the Shoulder' or any similar condition.
+5,1,"The doctor suggested 'Cardiac-related pain (angina or myocardial infarction)', which is similar to 'Myocardial Ischemia' as both involve reduced blood flow to the heart."

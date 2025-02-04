@@ -1,0 +1,8 @@
+,Score,Explanation
+0,0,The doctor did not suggest a general inspection or any similar step that assesses the patient's overall appearance and signs of distress or discomfort.
+1,1,"The doctor suggested an abdominal examination to check for tenderness, masses, or abnormalities in the abdominal area, which aligns closely with the provided justification."
+2,1,"The suggested 'Bimanual examination' directly assesses the reproductive organs for abnormalities and tenderness, which aligns with the justification provided."
+3,1,"The suggested 'Speculum examination' is similar to the evaluation of the cervix and vaginal walls for lesions and signs of infection, which aligns with the provided justification."
+4,1,"The suggested 'Bimanual examination' is similar to the requested examination step as both involve assessing the uterus and adnexa for size, shape, tenderness, and abnormalities."
+5,0,The doctor did not suggest any physical examination step similar to 'Vital signs review' or with a justification related to assessing the patient's vitals.
+6,0,"The doctor did not suggest an examination of external genitalia, which specifically checks for lesions, swelling, or signs of infection."

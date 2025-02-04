@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Cervical spondylosis', which is directly relevant to the query."
+1,1,"The doctor suggested 'Cervical strain/sprain', which is directly similar to the term 'Cervical strain or sprain'."
+2,0,The suggested diagnoses do not include 'Cervical facet joint syndrome' or any closely related conditions.
+3,1,"The doctor suggested 'Herniated cervical disc', which is similar to 'Cervical disc herniation'."
+4,1,"Cervical spondylosis is a form of osteoarthritis affecting the cervical spine, thus it is similar to 'Osteoarthritis of the cervical spine'."
+5,1,"Cervical strain/sprain is a diagnosis that can be associated with post-traumatic neck pain, as it often results from trauma or injury to the neck."
+6,0,The suggested differential diagnoses do not include 'Vertebral compression fracture' or any similar condition.

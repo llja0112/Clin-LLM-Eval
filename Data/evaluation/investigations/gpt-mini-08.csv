@@ -1,0 +1,10 @@
+,Score,Explanation
+0,1,"The doctor suggested the HbA1c test, which directly assesses long-term glucose control and is essential for determining if diabetes management needs adjustment."
+1,0,The doctor did not suggest any investigations specifically aimed at evaluating current blood sugar levels with a justification focused on identifying immediate concerns of hyperglycemia.
+2,1,"The doctor suggested a Lipid Profile to assess cholesterol levels, which is relevant for evaluating cardiovascular risk factors in a patient with diabetes."
+3,1,"The doctor suggested a Comprehensive Metabolic Panel (CMP) which includes kidney function tests, thus addressing the evaluation of kidney function related to diabetes."
+4,0,The doctor did not suggest 'Urine microalbumin' or any similar investigation aimed specifically at detecting early signs of diabetic nephropathy.
+5,1,"The doctor suggested a Comprehensive Metabolic Panel (CMP), which includes checking electrolyte levels, thus addressing potential electrolyte imbalances that could contribute to fatigue."
+6,1,"The doctor suggested a Complete Blood Count (CBC) with the justification to check for anemia or other blood-related issues that could contribute to fatigue, which aligns with the criteria provided."
+7,1,"The doctor suggested Thyroid Function Tests to rule out thyroid issues that can contribute to fatigue, which aligns with the similar justification of ruling out hypothyroidism as a cause of fatigue."
+8,0,The doctor did not suggest any investigations similar to 'ECG' or with a justification related to assessing cardiac function or cardiovascular risk.

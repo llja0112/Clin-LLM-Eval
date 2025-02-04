@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Vestibular Dysfunction (e.g., Benign Paroxysmal Positional Vertigo)', which is directly related to BPPV."
+1,1,"The doctor suggested 'Orthostatic Hypotension' as a differential diagnosis, which directly matches the criteria."
+2,0,The suggested differential diagnoses do not include Meniere's Disease or any similar conditions related to inner ear disorders.
+3,0,"The suggested differential diagnoses do not include 'Vestibular Neuritis' or any closely related conditions, as they focus on orthostatic hypotension, vestibular dysfunction in a different context, and medication side effects."
+4,1,"The doctor suggested 'Medication Side Effects' as a differential diagnosis, which is directly similar to the term 'Medication Side Effect'."
+5,0,"The suggested differential diagnoses do not include any conditions related to cervical spondylosis, which typically involves neck pain and neurological symptoms due to degenerative changes in the cervical spine."

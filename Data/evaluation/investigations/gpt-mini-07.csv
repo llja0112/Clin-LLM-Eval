@@ -1,0 +1,6 @@
+,Score,Explanation
+0,0,"The doctor did not suggest an X-ray of the left shoulder and arm, which is specifically needed to rule out fractures or dislocations related to the lifting incident."
+1,0,"The doctor did not suggest an MRI of the shoulder or any similar investigation specifically aimed at assessing soft tissue injuries, as the suggested musculoskeletal ultrasound focuses on evaluating soft tissue injuries but does not include an MRI."
+2,1,"The doctor suggested a musculoskeletal ultrasound of the shoulder to evaluate for soft tissue injuries, which aligns with the similar justification of assessing for bursitis or tendonitis."
+3,0,"The doctor did not suggest any investigations specifically aimed at checking for signs of inflammation or infection, such as blood tests including ESR and CRP."
+4,1,"The doctor suggested an Electrocardiogram (ECG) to assess for cardiac abnormalities related to the left arm pain, which aligns with the justification of ruling out cardiac causes given the patient's history of hypertension."

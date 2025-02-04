@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Fracture of the right arm (humerus or radius/ulna)', which is directly related to the diagnosis of 'Fracture of the right arm'."
+1,1,"The doctor suggested 'Concussion or mild traumatic brain injury', which is directly related to the term 'Concussion'."
+2,0,The suggested differential diagnoses do not include any conditions related to cervical spine injury.
+3,0,The suggested differential diagnoses do not include any mention of soft tissue injury or contusion.
+4,0,"The suggested differential diagnoses do not include any conditions related to 'Intracranial hemorrhage', which is a specific type of brain injury not mentioned in the provided list."

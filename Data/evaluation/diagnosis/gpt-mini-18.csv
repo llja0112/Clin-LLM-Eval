@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Hepatitis (viral or autoimmune)', which includes viral hepatitis as a category."
+1,0,"The suggested differential diagnoses do not include any conditions that are similar to 'Hemolytic Anemia', as they focus on liver disease and biliary obstruction."
+2,0,"The suggested differential diagnoses do not include any conditions that are similar to 'Biliary Atresia', which is a congenital condition affecting the bile ducts."
+3,0,The suggested differential diagnoses do not include Gilbert's Syndrome or any similar conditions related to benign unconjugated hyperbilirubinemia.
+4,1,"The doctor suggested 'Hepatitis (viral or autoimmune)', which includes autoimmune hepatitis as a relevant differential diagnosis."
+5,0,The suggested differential diagnoses do not include 'Choledochal Cyst' or any similar condition.
+6,0,The suggested differential diagnoses do not include any mention of drug-induced liver injury or related conditions.

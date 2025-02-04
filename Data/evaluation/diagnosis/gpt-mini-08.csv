@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,The doctor suggested 'Poorly controlled diabetes mellitus' which is directly relevant to the diagnosis in question.
+1,0,The suggested differential diagnoses do not include 'Diabetic neuropathy' or any closely related conditions.
+2,0,"The suggested differential diagnoses do not include any conditions related to hypertension or its effects, such as hypertension-related fatigue."
+3,1,The doctor suggested 'Anemia' which is directly relevant to the diagnosis being evaluated.
+4,0,The suggested differential diagnoses do not include any condition related to hypothyroidism.
+5,0,The suggested differential diagnoses do not include any conditions that are directly related to or suggestive of chronic kidney disease.
+6,0,The suggested differential diagnoses do not include any conditions related to 'Depression'.

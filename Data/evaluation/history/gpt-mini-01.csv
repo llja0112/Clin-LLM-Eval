@@ -1,0 +1,34 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's chest pain by asking about its onset, nature, intensity, associated symptoms, and previous episodes."
+1,1,"The doctor directly asked the patient when they first noticed the chest pain, which led to the patient providing the information that it started two hours ago."
+2,1,"The doctor successfully asked about the onset of the chest pain, which led the patient to reveal that it started while watching TV."
+3,1,The doctor successfully obtained information about the progression of the chest pain by asking the patient to describe the nature of the pain and its duration.
+4,1,"The doctor successfully asked the patient to rate the intensity of the pain on a scale from 1 to 10, which led to the patient providing a rating of 6 out of 10."
+5,1,"The doctor specifically asked the patient to describe the nature of the chest pain, which led to the patient providing the location of the pain as being in the center of the chest."
+6,0,The doctor did not ask any questions about the radiation of the chest pain to the patient's left shoulder and arm.
+7,1,"The doctor specifically asked the patient to describe the nature of the chest pain, which led to the patient providing the information that it feels like a heavy pressure."
+8,0,The doctor did not specifically inquire about any alleviating or exacerbating factors related to the patient's chest pain.
+9,1,"The doctor specifically asked about other symptoms along with the chest pain, which included shortness of breath, prompting the patient to confirm their experience of it."
+10,1,"The doctor specifically asked about other symptoms along with the chest pain, including nausea, which led to the patient revealing their feelings of nausea and the absence of vomiting."
+11,1,"The doctor specifically asked about other symptoms along with the chest pain, which prompted the patient to mention sweating."
+12,0,"The doctor did not ask about associated symptoms such as cough, wheezing, abdominal pain, diarrhea, or constipation, which are relevant to fully assess the patient's condition."
+13,1,"The doctor specifically asked about previous episodes of chest pain or similar symptoms, which led the patient to confirm having experienced similar pain before."
+14,1,"The doctor successfully asked about previous episodes of chest pain, which led the patient to disclose that he had experienced similar pain about a month ago."
+15,1,"The doctor specifically asked about previous episodes of chest pain, which led the patient to provide the severity rating of the past episode as a 4 out of 10."
+16,0,"The doctor did not specifically ask about the frequency of previous episodes, only if there had been any similar symptoms in the past."
+17,1,"The doctor effectively asked about previous episodes of chest pain, which led the patient to disclose that the pain usually occurs when stressed or after a big meal."
+18,0,"The doctor did not specifically ask about alleviating factors for the previous episodes of chest pain, such as whether resting helps."
+19,1,"The doctor effectively asked about associated symptoms by inquiring if the patient experienced shortness of breath, sweating, nausea, or dizziness, which helped clarify the patient's current and past episodes."
+20,1,"The doctor specifically asked about current medications for hypertension, which led to the patient revealing that they take medication for high blood pressure."
+21,1,"The doctor specifically asked about previous episodes of chest pain and any known medical conditions, which led to the patient disclosing their hypertension and high cholesterol."
+22,0,"The doctor did not ask any questions regarding the patient's past surgical history, including whether the patient had an appendectomy."
+23,1,"The doctor specifically asked about the patient's family medical history, which led to the patient providing information about their father's heart attack and mother's diabetes."
+24,0,"The doctor did not specifically ask about the patient's occupation, which is necessary to obtain the information that he is a software engineer."
+25,1,"The doctor specifically asked about the patient's lifestyle, including alcohol use, which led to the patient disclosing their drinking habits."
+26,0,"The doctor did not ask any questions regarding the use of illicit drugs, which is necessary to obtain a complete medical history."
+27,1,"The doctor successfully obtained relevant information about the patient's tobacco history by asking about smoking habits, which led to the patient revealing that he quit smoking 5 years ago."
+28,0,The doctor did not specifically ask about the duration of tobacco use; they only inquired about the patient's smoking status.
+29,0,The doctor did not ask any questions related to sexual history or sexual activity during the conversation.
+30,1,"The doctor specifically asked about the patient's lifestyle, including exercise habits, which led to the patient sharing that they try to walk a few times a week."
+31,0,"The doctor did not ask any specific questions about the patient's diet or eating habits, which would have been necessary to obtain the information about their dietary preferences."
+32,1,"The doctor asked about allergies to medications or other substances, which led to the patient stating they have no known allergies."

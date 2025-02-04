@@ -1,0 +1,21 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about Ethan's high fever by asking about the highest temperature recorded, duration of the fever, and associated symptoms."
+1,0,"The doctor did not specifically ask about the onset of symptoms or when they began, which is necessary to determine that they started two days ago."
+2,0,"The doctor did not inquire about the pattern of the fever, such as whether it is intermittent or occurs mostly in the evenings."
+3,1,"The doctor effectively inquired about associated symptoms by asking if Ethan had any other symptoms besides the fever, which led to the patient mentioning the runny nose, mild cough, and irritability."
+4,0,"The doctor did not specifically ask about ear pain or tugging at the ears, which are important symptoms to assess for potential ear infections."
+5,1,"The doctor specifically asked about Ethan's appetite and fluid intake, which directly relates to the reported decreased appetite and feeding issues."
+6,0,"The doctor did not ask any questions related to Ethan's sleep patterns or issues, such as restlessness or waking up frequently."
+7,0,"The doctor did not ask any questions related to urination, which is important for assessing Ethan's hydration status and overall health."
+8,1,"The doctor specifically asked about bowel movements and confirmed they were normal, which indicates relevant information was obtained."
+9,1,"The doctor specifically asked about the presence of a rash, which allowed the patient to confirm that there was no rash observed."
+10,1,The doctor effectively gathered information about Ethan's medical history by confirming that there have been no previous episodes or hospitalizations.
+11,1,"The doctor asked about recent illnesses or infections, which led to the patient revealing that Ethan had a cold about a week ago."
+12,1,The doctor successfully obtained relevant information about Ethan's exposure to sick contacts by asking about recent illnesses and interactions with other children at daycare.
+13,1,The doctor asked about Ethan's vaccination status and confirmed that he is up to date with his vaccinations.
+14,0,"The doctor did not ask any questions related to Ethan's birth history, such as details about whether he was born full-term or the nature of the delivery."
+15,0,The doctor did not ask any questions related to Ethan's developmental milestones or whether he is meeting age-appropriate developmental expectations.
+16,1,"The doctor effectively inquired about Ethan's past medical history by asking if he had any previous medical conditions or hospitalizations, which led to the confirmation of no significant past medical history."
+17,1,"The doctor successfully asked about family history, specifically inquiring if there was any family history of illnesses, which led to the patient confirming there was no significant family history."
+18,1,"The doctor specifically asked about current medications and treatments, which led to the patient confirming that Ethan is not on any medications."
+19,1,"The doctor specifically asked about any known allergies, which led to the patient confirming that Ethan has no known allergies."

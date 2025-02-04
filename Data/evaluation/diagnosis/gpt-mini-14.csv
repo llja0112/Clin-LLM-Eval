@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Migraine' as a differential diagnosis, which is directly relevant to the query."
+1,1,"The doctor suggested 'Tension-type headache', which is directly relevant to the query."
+2,1,"The doctor suggested 'Cluster headache', which is the exact diagnosis being evaluated for similarity."
+3,0,The suggested differential diagnoses do not include 'Sinus headache' or any similar condition.
+4,0,The suggested differential diagnoses do not include 'Medication overuse headache' or any similar condition.

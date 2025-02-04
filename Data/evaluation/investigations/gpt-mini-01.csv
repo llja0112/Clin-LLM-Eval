@@ -1,0 +1,10 @@
+,Score,Explanation
+0,1,"The doctor suggested an Electrocardiogram (ECG) to assess the electrical activity of the heart and identify abnormalities, which aligns with the justification of assessing for acute ischemic changes or arrhythmias related to cardiac issues."
+1,1,"The doctor suggested cardiac enzyme tests (Troponin levels), which directly relate to detecting myocardial injury or infarction, thus fulfilling the criteria for similarity."
+2,1,"The doctor suggested a Chest X-ray to visualize the lungs and heart, which aligns with the goal of ruling out conditions such as pneumonia, similar to the justification provided."
+3,1,"The doctor suggested an Echocardiogram, which directly aligns with the evaluation of cardiac function and structure, as well as assessing for wall motion abnormalities or valvular issues."
+4,1,"The doctor suggested a stress test, which aligns with the need to evaluate for inducible ischemia in a stable patient."
+5,0,The doctor did not suggest any investigations related to assessing cholesterol levels or a lipid profile.
+6,0,"The doctor did not suggest any investigations related to blood glucose or HbA1c, which are specifically used to screen for diabetes."
+7,0,The doctor did not suggest any investigations specifically aimed at checking for anemia or infection with a justification similar to that of the Complete Blood Count (CBC).
+8,0,"The doctor did not suggest any investigations similar to a Basic Metabolic Panel, which specifically assesses kidney function and electrolyte levels."

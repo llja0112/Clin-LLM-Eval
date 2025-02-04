@@ -1,0 +1,12 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Inspection of the abdomen for any visible abnormalities such as distension, scars, or discoloration,' which aligns with the criteria of observing for visible distension, scars, or abnormalities that might indicate underlying pathology."
+1,1,"The doctor suggested auscultation of bowel sounds in all four quadrants of the abdomen, which aligns with the similar step of listening for bowel sounds to assess bowel activity and possible obstruction."
+2,1,"The doctor suggested 'Palpation of the abdomen to assess for tenderness, rigidity, or masses,' which is similar to the provided step as both involve palpation to evaluate tenderness and identify abnormalities."
+3,1,"The suggestion of 'Percussion of the abdomen' aligns with the evaluation of fluid, gas, or organ size, which is similar to the justification of detecting fluid, masses, or organomegaly."
+4,0,The doctor did not suggest a rebound tenderness test or any similar assessment for peritoneal irritation.
+5,0,"The doctor did not suggest any examination step that specifically assesses for referred pain in the right lower quadrant, such as Rovsing's sign."
+6,0,The doctor did not suggest any examination step similar to the 'Psoas sign' or its justification related to evaluating irritation of the iliopsoas muscle.
+7,0,The doctor did not suggest any physical examination step similar to the 'Obturator sign' or its justification related to appendicitis.
+8,0,The doctor did not suggest any physical exam step similar to 'Murphy's sign' or provide a justification related to ruling out gallbladder inflammation.
+9,0,"The doctor did not suggest a rectal examination with a justification focused on assessing for masses, tenderness, or blood related to abdominal pathology."
+10,0,The doctor did not suggest a pelvic examination or any similar step that specifically addresses gynecological causes of abdominal pain.

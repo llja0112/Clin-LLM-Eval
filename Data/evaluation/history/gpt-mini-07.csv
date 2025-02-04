@@ -1,0 +1,27 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's left arm pain by asking about the onset, nature, severity, associated symptoms, and any relevant medical history."
+1,1,"The doctor directly asked the patient when they first noticed the pain in their left arm, which led to the patient providing the information that it started two days ago."
+2,1,"The doctor effectively asked about the onset of the pain, which led the patient to describe the precipitating event of lifting a heavy box."
+3,0,"The doctor did not ask any questions about the progression of the pain, such as whether it has been getting worse over time."
+4,1,"The doctor specifically asked the patient to rate their pain on a scale of 1 to 10, which directly led to the patient stating that their pain is a 6 out of 10."
+5,1,"The doctor specifically asked the patient to describe the pain, which led to the patient mentioning the location of the pain in the left arm and around the shoulder."
+6,0,"The doctor did not ask any specific questions about the radiation of the pain, which is crucial for assessing potential cardiac issues."
+7,1,"The doctor specifically asked the patient to describe the pain, which led to the patient stating that it feels like a dull ache."
+8,0,The doctor did not ask about alleviating or exacerbating factors related to the patient's arm pain.
+9,0,"The doctor did not ask any questions related to shortness of breath, which is an important symptom to assess in the context of left arm pain, especially considering the patient's history of hypertension."
+10,0,"The doctor did not ask any questions related to nausea or vomiting, which are important symptoms to consider in the context of left arm pain."
+11,0,"The doctor did not ask any questions related to sweating, which is an important symptom that could indicate a serious condition, especially in the context of left arm pain."
+12,0,"The doctor did not ask about associated symptoms such as cough, wheezing, abdominal pain, diarrhea, or constipation, which are relevant to a comprehensive history taking."
+13,0,"The doctor did not specifically ask about previous episodes of similar pain, which is crucial to understanding the patient's history."
+14,1,"The doctor specifically asked about current medications, which led the patient to disclose that they are taking blood pressure medication."
+15,1,"The doctor specifically asked about previous injuries and medical conditions, which led to the patient disclosing their hypertension and its management."
+16,0,"The doctor did not ask any questions regarding the patient's past surgical history, including whether the patient had an appendectomy."
+17,1,"The doctor specifically asked about family history of medical conditions, which led to the patient providing information about their father's arthritis and mother's osteoporosis."
+18,0,"The doctor did not ask any questions related to the patient's occupation, which is necessary to gather a complete medical history."
+19,0,The doctor did not ask any questions regarding alcohol use during the history taking conversation.
+20,0,"The doctor did not ask any questions regarding the use of illicit drugs, which is an important aspect of the patient's history that could impact their current condition."
+21,0,The doctor did not ask any questions regarding the patient's tobacco history or smoking status.
+22,0,The doctor did not ask any questions regarding tobacco use or smoking history during the conversation.
+23,1,"The doctor specifically asked about recent changes in lifestyle, including exercise, which prompted the patient to share their daily walking routine."
+24,1,"The doctor asked about recent changes in lifestyle, including diet, which prompted the patient to mention their eating habits."
+25,1,"The doctor specifically asked about allergies to medications, foods, or other substances, which led to the patient confirming that they have no allergies."

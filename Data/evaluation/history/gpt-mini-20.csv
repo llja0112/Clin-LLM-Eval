@@ -1,0 +1,22 @@
+,Score,Explanation
+0,1,"The doctor effectively addressed the chief complaint of a persistent cough by asking detailed questions about the cough's characteristics, associated symptoms, and relevant medical history."
+1,0,"The doctor did not specifically ask about the onset of the cough or when it started, which is crucial information to determine the timeline of the patient's symptoms."
+2,1,The doctor explicitly asked about the duration of the cough by acknowledging that the patient has been dealing with a persistent cough for about two weeks.
+3,1,"The doctor specifically asked the patient to describe the cough, which led to the patient providing information about it being dry at first and now occasionally productive."
+4,1,"The doctor specifically asked the patient to describe the cough, including whether it was dry or productive, which led to the patient mentioning the occasional greenish sputum."
+5,1,"The doctor specifically asked about symptoms related to the cough, including discomfort when taking deep breaths, which directly pertains to the patient's reported mild discomfort."
+6,1,"The doctor specifically asked about symptoms such as fever, which allowed the patient to provide the information about having a slight fever of around 99°F."
+7,1,"The doctor specifically asked about shortness of breath, which allowed the patient to clarify their symptoms as mild discomfort when breathing deeply."
+8,1,"The doctor specifically asked about chest pain during the history taking, and the patient confirmed they do not have chest pain."
+9,0,The doctor did not specifically ask about wheezing during the history taking conversation.
+10,1,The doctor successfully obtained relevant information about the patient's previous episodes by asking about their medical history and confirming that there have been no previous episodes of a similar cough.
+11,1,"The doctor specifically asked about recent travel, and the patient confirmed there was no recent travel, thus obtaining the relevant information."
+12,1,"The doctor specifically asked about recent exposure to anyone who was sick, which directly pertains to the patient's response of having no known sick contacts."
+13,1,"The doctor specifically asked about the patient's smoking history, which led to the patient stating that they do not smoke."
+14,1,"The doctor specifically asked about the patient's lifestyle, including diet, exercise, and alcohol or recreational drug use, which led to the patient disclosing their occasional social alcohol consumption."
+15,1,The doctor specifically asked about illicit drug use and the patient confirmed they do not use any illicit drugs.
+16,0,"The doctor did not ask any questions related to the patient's occupation, specifically about being a student."
+17,1,"The doctor effectively gathered relevant information about the patient's past medical history by asking about chronic conditions, surgeries, hospitalizations, and medications, confirming that the patient is generally healthy with no major illnesses."
+18,1,"The doctor successfully asked about current medications, including over-the-counter drugs and supplements, which is relevant information for the patient's history."
+19,1,"The doctor specifically asked about allergies, including drug allergies, and the patient confirmed having no known drug allergies."
+20,1,"The doctor specifically asked about the family medical history, which led to the patient providing information about the lack of significant family history of lung disease."

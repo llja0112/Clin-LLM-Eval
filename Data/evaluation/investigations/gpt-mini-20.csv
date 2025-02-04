@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,"The doctor suggested a Chest X-ray with a justification that aligns with ruling out pneumonia or other lung conditions, which is similar to the specified criteria."
+1,1,"The doctor suggested a Sputum Culture, which aligns with the goal of identifying bacterial infections causing sputum production."
+2,0,The doctor did not suggest any investigations with a justification similar to that of the Complete Blood Count (CBC) regarding checking for signs of infection or inflammation.
+3,0,The doctor did not suggest any investigation similar to 'C-reactive protein (CRP)' that assesses inflammation in the body.
+4,1,The doctor suggested Pulmonary Function Tests (PFTs) with a justification that aligns with evaluating lung function and ruling out underlying respiratory issues.
+5,0,"The doctor did not suggest a 'Viral panel' or any similar investigation specifically aimed at ruling out viral infections, despite suggesting tests for COVID-19 and influenza."

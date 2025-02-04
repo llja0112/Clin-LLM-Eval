@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Polycystic Ovary Syndrome (PCOS)', which is the exact diagnosis being evaluated."
+1,1,"The doctor suggested 'Thyroid dysfunction (Hypothyroidism or Hyperthyroidism)', which is directly related to the category of 'Thyroid Dysfunction'."
+2,0,The suggested differential diagnoses do not include Hyperprolactinemia or any related conditions.
+3,0,The suggested differential diagnoses do not include Premature Ovarian Insufficiency or any closely related conditions.
+4,0,"The suggested diagnoses do not include Functional Hypothalamic Amenorrhea, which is characterized by menstrual irregularities due to stress or energy imbalance, similar to stress-induced menstrual irregularities but not explicitly mentioned."
+5,0,The doctor did not suggest Uterine Fibroids or any diagnosis similar to it.

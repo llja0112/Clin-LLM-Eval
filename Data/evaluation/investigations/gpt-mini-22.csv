@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested Audiometry, which is directly related to assessing hearing function and investigating the cause of tinnitus, thus fulfilling the criteria."
+1,0,"The doctor did not suggest any investigations similar to the Dix-Hallpike maneuver, which specifically evaluates for BPPV."
+2,1,"The doctor suggested an MRI or CT scan of the brain to rule out serious neurological conditions, which aligns with the need to investigate central causes of dizziness."
+3,0,The doctor did not suggest an Electrocardiogram (ECG) or any similar investigation to assess cardiac rhythm and rule out arrhythmias as a cause of dizziness.
+4,1,"The doctor suggested a Complete Blood Count (CBC) and a Basic Metabolic Panel (BMP), both of which are blood tests aimed at identifying anemia and electrolyte imbalances that could contribute to dizziness."
+5,1,"The doctor suggested Blood Pressure Monitoring, which includes evaluating for orthostatic hypotension, thus aligning with the criteria."
+6,1,"The doctor suggested Vestibular Function Tests, which directly assess the function of the vestibular system, aligning with the criteria for similar investigations."

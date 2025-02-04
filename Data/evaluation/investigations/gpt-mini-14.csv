@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested an MRI of the brain to rule out structural abnormalities, which aligns with the justification provided."
+1,1,"The doctor suggested a CT scan of the head to quickly assess for acute intracranial issues, which aligns with the justification provided."
+2,0,"The doctor did not suggest any investigations specifically aimed at checking for signs of infection or inflammation, such as ESR or CRP, but rather focused on other blood tests and imaging."
+3,1,"The doctor suggested blood tests that include thyroid function tests, which aligns with the justification of ruling out thyroid dysfunction as a potential cause of headache."
+4,1,"The doctor suggested blood tests that include electrolytes, which aligns with the need to check for electrolyte imbalances contributing to the headaches."
+5,0,"The doctor did not suggest an ophthalmologic examination, which is necessary to rule out eye-related issues contributing to the headache."
+6,0,The doctor did not suggest a lumbar puncture or any similar investigation that addresses the suspicion of meningitis or subarachnoid hemorrhage.

@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Urinary Tract Infection (UTI)', which is directly relevant to the query."
+1,0,"The doctor did not suggest any diagnosis similar to 'Bladder stones', as the listed diagnoses focus on infections and kidney-related issues rather than bladder-specific conditions."
+2,0,The suggested differential diagnoses do not include any conditions that are similar to bladder cancer.
+3,1,"The doctor suggested 'Kidney Stones', which is the diagnosis being compared."
+4,0,The suggested differential diagnoses do not include 'Prostatitis' or any similar condition.
+5,0,The suggested differential diagnoses do not include Benign Prostatic Hyperplasia (BPH) or any similar conditions.
+6,1,"Glomerulonephritis is a type of kidney disease, and the suggested diagnosis of 'Kidney Stones' is related to kidney issues, making it somewhat similar in the context of renal conditions."

@@ -1,0 +1,19 @@
+,Score,Explanation
+0,1,"The doctor effectively addressed the patient's chief complaint by asking about their diabetes management routine, symptoms, and relevant medical history, which are crucial for a follow-up on diabetes management."
+1,0,"The doctor did not specifically ask about the onset or duration of the fatigue, which is crucial to understand the context of the patient's symptoms."
+2,1,"The doctor specifically asked about the patient's diabetes management routine, including blood sugar monitoring, which led to the patient revealing that they try to check their blood sugar regularly but sometimes forget."
+3,1,"The doctor specifically asked about the patient's diabetes management routine, including diet, which led to the patient revealing their adherence to the diet and instances of 'cheating'."
+4,1,"The doctor specifically asked about the patient's diabetes management routine, including diet, exercise, and blood sugar monitoring, which led to the patient revealing that they do not have a regular exercise routine."
+5,1,"The doctor specifically asked about the patient's current medications and their management routine, which led to the patient revealing their adherence issues."
+6,0,"The doctor did not specifically ask about symptoms of hypoglycemia, such as feeling shaky or sweaty, which are important to assess in diabetes management."
+7,1,"The doctor effectively asked about recent symptoms related to diabetes, which led the patient to disclose feelings of increased thirst and frequent urination, indicative of hyperglycemia."
+8,1,"The doctor asked about recent weight changes, which prompted the patient to respond that they haven't noticed any significant weight changes."
+9,1,"The doctor specifically asked about any changes in vision, which prompted the patient to respond that they haven't noticed any changes."
+10,1,"The doctor successfully obtained relevant information about the patient's foot care routine by asking about any other health issues or concerns, which led to the patient mentioning their regular foot checks."
+11,1,The doctor successfully obtained relevant information about the patient's diabetes and hypertension by asking about chronic conditions and medical history.
+12,0,"The doctor did not specifically ask about past surgical history, which would have prompted the patient to mention the appendectomy."
+13,1,"The doctor specifically asked about the patient's family medical history, which led to the patient sharing that her mother had diabetes and her father had hypertension."
+14,0,"The doctor did not ask any questions related to the patient's occupation, which is necessary to gather a complete medical history."
+15,0,The doctor did not ask any questions regarding alcohol use during the history taking conversation.
+16,0,"The doctor did not ask any questions regarding tobacco use, which is essential for a comprehensive medical history."
+17,1,"The doctor specifically asked about drug allergies, and the patient confirmed having none."

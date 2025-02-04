@@ -1,0 +1,11 @@
+,Score,Explanation
+0,1,"The doctor suggested a general inspection of the skin and sclera for jaundice, which aligns with the similar step of assessing overall appearance and visible signs of jaundice."
+1,0,The doctor did not suggest a specific step for vital signs assessment with a justification that matches the provided criteria.
+2,1,"The doctor suggested a general inspection of the skin and sclera for jaundice, which aligns with the goal of evaluating the extent of jaundice and checking for skin changes."
+3,1,"The doctor suggested 'General inspection of the skin and sclera for jaundice,' which is similar to 'Scleral examination' as both aim to confirm the presence of jaundice in the eyes."
+4,1,"The doctor suggested 'Palpation of the abdomen' which is similar to 'Abdominal examination' and has a justification that aligns with assessing for tenderness, organomegaly, or masses related to liver or gallbladder issues."
+5,0,The doctor did not suggest 'Palpation of the liver' or a similar step focused specifically on liver enlargement or tenderness.
+6,0,The doctor did not suggest palpation of the spleen or any similar examination step to assess for splenomegaly.
+7,0,"The doctor did not suggest any examination of the hands and nails, nor did they provide a justification related to signs of liver disease such as palmar erythema or clubbing."
+8,0,The doctor did not suggest any physical examination step related to a neurological examination or its associated justification.
+9,0,The doctor did not suggest any physical examination step that specifically involves examining the eyes for signs of anemia or other abnormalities.

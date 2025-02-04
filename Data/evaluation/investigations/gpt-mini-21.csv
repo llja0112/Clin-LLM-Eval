@@ -1,0 +1,11 @@
+,Score,Explanation
+0,1,"The doctor suggested Liver function tests (LFTs), which aligns with the goal of assessing liver function, including its ability to produce proteins and clear bilirubin."
+1,0,"The doctor did not suggest any investigations with a justification similar to that of the Complete Blood Count (CBC) regarding signs of infection, anemia, or other hematological conditions."
+2,0,"The doctor did not suggest any investigations specifically aimed at ruling out viral hepatitis beyond the hepatitis panel, which is the only test directly related to that purpose."
+3,1,"The doctor suggested an 'Ultrasound of the abdomen' with a justification that matches the criteria of visualizing the liver, gallbladder, and bile ducts for structural abnormalities or obstructions."
+4,1,The doctor suggested 'Serum bilirubin levels (total and direct)' which is similar to 'Bilirubin levels' and serves the purpose of quantifying bilirubin in the blood to help determine the cause of jaundice.
+5,1,"The doctor suggested a coagulation profile (PT/INR) to evaluate the blood's ability to clot, which aligns with the justification of assessing the liver's ability to produce clotting factors."
+6,0,The doctor did not suggest 'Serum albumin' or any similar investigation to evaluate liver synthetic function.
+7,0,"The doctor did not suggest any investigations related to autoimmune markers, which are necessary to rule out autoimmune hepatitis or other autoimmune liver diseases."
+8,0,The doctor did not suggest any investigations similar to 'Iron studies' or provide a justification related to checking for hemochromatosis.
+9,0,The doctor did not suggest any investigations specifically for alpha-1 antitrypsin levels or mention ruling out alpha-1 antitrypsin deficiency.

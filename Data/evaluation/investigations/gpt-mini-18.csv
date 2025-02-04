@@ -1,0 +1,11 @@
+,Score,Explanation
+0,1,"The doctor suggested a Complete Blood Count (CBC) with a justification that aligns with assessing for anemia or infection, which could contribute to jaundice."
+1,1,"The doctor suggested Liver Function Tests (LFTs) which directly evaluate liver enzymes and bilirubin levels, aligning with the justification provided."
+2,0,The doctor did not suggest any investigations specifically aimed at checking for bleeding disorders with a justification related to liver dysfunction affecting blood clotting.
+3,0,The doctor did not suggest any investigations with a justification similar to that of the Abdominal Ultrasound.
+4,1,"The doctor suggested a Hepatitis Panel, which is similar to the 'Viral Hepatitis Panel' and serves the purpose of ruling out viral hepatitis infections as a cause of jaundice."
+5,0,"The doctor did not suggest any investigations related to blood type or crossmatching, which are specifically relevant for assessing hemolytic anemia in the context of jaundice."
+6,0,The doctor did not suggest a Reticulocyte Count or any investigation with a similar justification related to assessing bone marrow response or ruling out hemolytic anemia.
+7,0,The doctor did not suggest investigations specifically for 'Direct and Indirect Bilirubin Levels' or provide a justification related to differentiating between conjugated and unconjugated hyperbilirubinemia.
+8,1,"The doctor suggested a Urinalysis to check for bilirubin and urobilinogen in the urine, which aligns with the justification of assessing liver dysfunction."
+9,0,The doctor did not suggest a Stool Test for Occult Blood or any similar investigation related to gastrointestinal bleeding.

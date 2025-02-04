@@ -1,0 +1,23 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's chief complaint of irregular menstrual cycles by asking about the duration, previous cycle regularity, accompanying symptoms, stress factors, medical history, and lifestyle."
+1,1,"The doctor successfully asked about the duration of the irregular menstrual cycles, which allowed the patient to specify that the irregularity started a few months ago."
+2,1,"The doctor specifically asked about the duration of the irregular menstrual cycles, which allowed the patient to provide the relevant information about the ongoing issue."
+3,0,The doctor did not specifically ask about the frequency of the irregular cycles or if the patient has experienced any months where the cycle was skipped.
+4,1,The doctor successfully obtained information about the patient's previous regular menstrual cycles by asking about the typical length of the menstrual cycle before it became irregular.
+5,0,"The doctor did not ask any specific questions about the characteristics of the menstrual flow, such as its volume or changes in heaviness or lightness."
+6,1,"The doctor specifically asked about any other symptoms accompanying the irregular cycles, which led the patient to mention occasional mild cramping."
+7,1,"The doctor specifically asked about significant stressors or changes in the patient's life, which led to the patient revealing increased work-related stress."
+8,1,"The doctor specifically asked about changes in weight during the history taking, which led to the patient confirming there were no significant weight changes."
+9,0,"The doctor did not specifically ask about the patient's diet or any recent changes to it, which is necessary to confirm the information about a normal diet."
+10,0,"The doctor did not specifically ask about the patient's exercise routine or frequency, which is necessary to determine if the patient engages in moderate exercise 2-3 times a week."
+11,1,"The doctor specifically asked about sleep patterns, which led to the patient providing information about their normal sleep duration of 7-8 hours per night."
+12,1,"The doctor asked the patient about current medications, including over-the-counter drugs or supplements, which is relevant information for assessing the patient's health."
+13,1,"The doctor effectively inquired about the patient's medical history, including past surgeries and chronic conditions, which led to the patient confirming no significant past medical history."
+14,1,"The doctor specifically asked about the patient's medical history and any past surgeries, which led to the patient disclosing the appendectomy at age 20."
+15,1,"The doctor specifically asked about the patient's family medical history, which included inquiries about significant health issues such as hormonal disorders, thereby obtaining relevant information about the absence of family history of menstrual disorders."
+16,0,The doctor did not specifically ask about the patient's occupation; they only inquired about stress related to work without confirming the patient's job title.
+17,1,"The doctor specifically asked about the patient's lifestyle, including alcohol use, which led to the patient disclosing their consumption of 1-2 drinks per week."
+18,1,"The doctor asked about the patient's lifestyle, specifically inquiring if she smokes, drinks alcohol, or uses any recreational drugs, which includes illicit drugs."
+19,0,"The doctor did not specifically ask about tobacco use or smoking history; they only inquired about lifestyle factors related to smoking, drinking, and drug use."
+20,0,"The doctor did not inquire about the patient's sexual history or relationship status, which is necessary to determine if the patient is in a married, monogamous relationship."
+21,1,"The doctor specifically asked about drug allergies, which led to the patient confirming that they have no known drug allergies."

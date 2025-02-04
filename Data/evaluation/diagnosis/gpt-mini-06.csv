@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Type 1 Diabetes Mellitus', which is the diagnosis in question."
+1,1,"The doctor suggested 'Type 2 Diabetes Mellitus', which is directly relevant to the query."
+2,0,"The suggested differential diagnoses are all related to glucose metabolism disorders and do not include any conditions related to water balance or the kidneys, such as Diabetes Insipidus."
+3,0,The suggested differential diagnoses do not include 'Stress-Induced Hyperglycemia' or any similar condition.
+4,0,"The suggested differential diagnoses do not include any conditions related to Cushing's Syndrome, which is characterized by excess cortisol and is not directly related to diabetes or glucose tolerance."

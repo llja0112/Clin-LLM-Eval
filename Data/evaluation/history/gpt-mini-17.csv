@@ -1,0 +1,17 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's hearing loss by asking about the onset, duration, associated symptoms, and potential contributing factors."
+1,1,"The doctor specifically asked the patient when they first noticed the hearing loss, which led to the patient providing the information that it has been gradual over the past few months."
+2,1,The doctor effectively inquired about the progression of the patient's hearing loss by asking when it was first noticed and confirming that it has been gradually worsening over the past few months.
+3,1,"The doctor specifically asked about associated symptoms such as ringing in the ears, dizziness, and ear pain, which allowed the patient to disclose their experience of tinnitus."
+4,1,"The doctor specifically asked about the patient's history of exposure to loud noises, which led to the patient revealing their 30 years of factory work."
+5,0,The doctor did not ask any questions regarding the use of hearing aids or the patient's experience with them.
+6,0,The doctor did not specifically ask about previous ear infections during the history taking.
+7,0,The doctor did not ask any questions related to ear discharge during the history taking.
+8,1,"The doctor specifically asked about family history of hearing loss, which led the patient to disclose that his father had hearing loss in old age."
+9,1,"The doctor specifically asked about current medications, which included the patient's blood pressure medication, thus obtaining relevant information."
+10,1,"The doctor specifically asked about current medications and chronic health conditions, which allowed the patient to disclose their hypertension and its management."
+11,0,"The doctor did not ask any questions related to the patient's past surgical history, including whether the patient had an appendectomy."
+12,1,"The doctor asked about the patient's history of exposure to loud noises, specifically mentioning his 30 years of work in a factory, which directly relates to the patient's occupation as a retired factory worker."
+13,1,The doctor specifically asked about alcohol consumption and received a clear response indicating that the patient drinks alcohol occasionally and mostly in social settings.
+14,1,"The doctor specifically asked about smoking and tobacco use, which led to the patient revealing their history of smoking for 20 years and quitting 10 years ago."
+15,1,"The doctor asked the patient about allergies to medications, foods, or other substances, which is relevant to drug allergies."

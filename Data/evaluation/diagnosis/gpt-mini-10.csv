@@ -1,0 +1,9 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Deep Vein Thrombosis (DVT)', which is the diagnosis in question."
+1,1,"The doctor suggested 'Muscle Strain or Tear', which is similar to 'Muscle Strain'."
+2,0,The suggested differential diagnoses do not include 'Calf Contusion' or any closely related conditions.
+3,0,The suggested differential diagnoses do not include Peripheral Artery Disease (PAD) or any similar conditions.
+4,0,The suggested differential diagnoses do not include Baker's Cyst or any similar conditions related to joint effusion or cyst formation.
+5,0,The suggested diagnoses do not include any conditions that are similar to Compartment Syndrome.
+6,0,"The suggested differential diagnoses do not include any conditions related to nerve compression, such as sciatica."
+7,0,"The suggested differential diagnoses do not include any conditions related to infection, such as cellulitis."
