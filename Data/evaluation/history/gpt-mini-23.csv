@@ -1,0 +1,22 @@
+,Score,Explanation
+0,1,"The doctor effectively asked relevant questions about the patient's knee pain, including its onset, severity, associated symptoms, and treatment measures, which are all crucial for understanding the chief complaint."
+1,1,"The doctor specifically asked the patient when they first noticed the knee pain, which directly led to the patient providing the information about the onset of pain after a fall."
+2,0,"The doctor did not specifically ask about the location of the pain, such as confirming it was the right knee."
+3,0,"The doctor did not specifically ask about the quality of the pain, such as whether it is aching or sharp, which is necessary to obtain a complete understanding of the patient's symptoms."
+4,1,"The doctor asked the patient to rate the pain on a scale of 1 to 10, which directly corresponds to the patient's reported pain level of 5 out of 10."
+5,0,"The doctor did not ask any questions regarding the radiation of the pain, which is important to determine if the pain is localized or if it spreads to other areas."
+6,1,"The doctor asked about treatments the patient has tried, which includes resting and elevating the leg, thus obtaining relevant information about alleviating factors."
+7,1,"The doctor specifically asked about the patient's ability to put weight on the knee and whether it hurt too much to walk, which directly addresses the exacerbating factors of the knee pain."
+8,1,"The doctor specifically asked about swelling, bruising, or redness around the knee, which directly relates to the patient's report of slight swelling and stiffness."
+9,1,"The doctor specifically asked about any history of knee injuries or conditions, which includes previous episodes of similar pain, and the patient confirmed there were none."
+10,1,"The doctor specifically asked about any medications the patient is taking, which led to the patient revealing they take occasional ibuprofen for pain."
+11,1,"The doctor effectively asked about previous knee injuries, surgeries, and any other medical conditions, which led to the patient confirming no significant medical history."
+12,1,"The doctor effectively inquired about the patient's past surgical history by asking if the patient had any surgeries on the knee, which is relevant to the current knee pain."
+13,1,"The doctor specifically asked about family history of joint problems or conditions, which led to the patient confirming there is no such history."
+14,0,"The doctor did not ask any questions related to the patient's occupation, which is necessary to gather a complete history."
+15,0,"The doctor did not ask any questions related to the patient's exercise habits, such as hiking or yoga."
+16,0,The doctor did not ask any questions regarding alcohol use during the history taking conversation.
+17,0,The doctor did not ask any questions regarding illicit drug use during the history taking.
+18,0,The doctor did not ask any questions regarding the patient's tobacco use or smoking history.
+19,0,The doctor did not ask any questions related to the patient's diet or eating habits during the history taking.
+20,1,"The doctor asked about drug allergies, which is relevant information to obtain during the history taking."

@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Obstructive Sleep Apnea (OSA)', which is the diagnosis in question, thus it is relevant."
+1,1,"The doctor suggested 'Hypothyroidism', which is the diagnosis being compared."
+2,1,"The doctor suggested 'Depression' as a differential diagnosis, which directly matches the criteria of being similar to 'Depression'."
+3,0,The suggested diagnoses do not include Chronic Fatigue Syndrome or any closely related conditions.
+4,0,The suggested differential diagnoses do not include any condition related to anemia or similar to it.
+5,0,The suggested differential diagnoses do not include Diabetes Mellitus or any closely related conditions.

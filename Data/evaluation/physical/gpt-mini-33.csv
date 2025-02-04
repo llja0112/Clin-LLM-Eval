@@ -1,0 +1,11 @@
+,Score,Explanation
+0,1,"The doctor suggested a general physical examination including vital signs, which aligns with assessing the patient's overall health and identifying signs of fatigue."
+1,0,The doctor did not suggest a specific step for re-evaluating vital signs with a justification related to confirming abnormalities since the initial measurement.
+2,1,"The doctor suggested a head and neck examination that includes inspection of the thyroid gland, which aligns with the goal of checking for thyroid enlargement or nodules related to fatigue."
+3,0,"The doctor did not suggest a cardiovascular examination with a focus on assessing heart sounds for murmurs or irregularities; instead, the suggestion was to auscultate heart sounds and check peripheral pulses."
+4,1,The doctor suggested a respiratory examination (auscultation of lung sounds) which aligns with the similar step of listening to breath sounds to rule out respiratory causes of fatigue.
+5,0,The doctor did not suggest an abdominal examination with a justification focused on organomegaly or tenderness; the suggested abdominal examination was aimed at checking for abdominal issues affecting appetite and overall health.
+6,1,"The doctor suggested a neurological examination to assess neurological function and rule out any neurological causes of fatigue, which aligns with the similar step of assessing for neurological deficits."
+7,0,"The doctor did not suggest a musculoskeletal examination, nor did they provide a justification related to evaluating muscle weakness or joint issues."
+8,1,"The doctor suggested a skin examination to check for pallor and other abnormalities, which aligns with the justification of looking for skin changes that might indicate an underlying systemic condition."
+9,0,The doctor did not suggest a mental status examination or any similar step to assess cognitive function or screen for mental health issues.

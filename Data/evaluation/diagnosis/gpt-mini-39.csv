@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Hypothyroidism', which is the diagnosis in question, thus it is relevant."
+1,1,"Cushing's syndrome is a specific condition related to excess cortisol, and the doctor suggested it directly, which is relevant to the request."
+2,0,The suggested differential diagnoses do not include any conditions related to congestive heart failure.
+3,1,"The doctor suggested Polycystic Ovary Syndrome (PCOS), which is the diagnosis in question."
+4,0,The suggested differential diagnoses do not include any conditions that are directly related to or similar to depression.
+5,0,The suggested differential diagnoses do not include any conditions that are similar to chronic kidney disease.

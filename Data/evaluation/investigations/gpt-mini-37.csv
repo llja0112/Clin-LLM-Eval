@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested a Colonoscopy, which directly visualizes the colon to identify potential sources of bleeding, aligning with the justification provided."
+1,1,"The doctor suggested a Complete Blood Count (CBC) to check for anemia, which aligns with the justification of assessing for anemia due to blood loss."
+2,1,"The doctor suggested a Stool Occult Blood Test, which is similar to the Fecal Occult Blood Test (FOBT) and serves the same purpose of confirming the presence of blood in the stool."
+3,1,"The doctor suggested an Abdominal Ultrasound or CT Scan, which aligns with the need to evaluate for structural abnormalities in the abdomen, similar to the suggested 'CT Abdomen and Pelvis'."
+4,0,The doctor did not suggest any investigations similar to Esophagogastroduodenoscopy (EGD) or provide a justification related to ruling out upper gastrointestinal sources of bleeding.
+5,0,"The doctor did not suggest any investigations related to liver function or liver health, which would be relevant for assessing potential contributions to gastrointestinal bleeding."
+6,0,"The doctor did not suggest any investigations related to the coagulation profile or evaluate the blood's ability to clot, which is important given the patient's aspirin use."

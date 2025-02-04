@@ -1,0 +1,9 @@
+,Score,Explanation
+0,1,"The doctor suggested a Chest X-ray with a justification that aligns with evaluating lung pathology, which is similar to the provided justification for assessing lung issues related to smoking and chronic cough."
+1,0,The doctor did not suggest any investigations specifically aimed at assessing lung function with a justification that includes the patient's smoking history and family history of COPD.
+2,1,"The doctor suggested a CT scan of the chest with a justification that aligns with the need for a detailed view of the lungs to identify potential masses or lesions, similar to the provided justification."
+3,0,"The doctor did not suggest a 'Sputum culture and sensitivity' test, which specifically identifies bacterial infections in productive coughs."
+4,1,"The doctor suggested a Complete Blood Count (CBC) with the justification to check for signs of infection or other underlying conditions, which aligns with the need to investigate for signs of infection or inflammation related to the chronic cough."
+5,0,The doctor did not suggest any investigations similar to C-reactive protein (CRP) or Erythrocyte sedimentation rate (ESR) that assess for inflammation or infection.
+6,1,"The doctor suggested allergy testing, which aligns with the need to rule out allergic causes of chronic cough."
+7,0,"The doctor did not suggest any investigations related to cardiac causes, such as an echocardiogram, which would be relevant for ruling out cardiac issues contributing to the cough."

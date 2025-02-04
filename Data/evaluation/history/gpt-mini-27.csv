@@ -1,0 +1,27 @@
+,Score,Explanation
+0,1,"The doctor effectively explored the patient's chief complaint of chronic fatigue by asking about the onset, duration, associated symptoms, lifestyle changes, medical history, and sleep patterns."
+1,1,"The doctor directly asked the patient when they first began experiencing chronic fatigue, which successfully elicited the information about the onset being several months ago."
+2,1,"The doctor successfully asked about the duration of the patient's chronic fatigue by inquiring when it first began, which led to the patient describing it as persistent and occurring daily."
+3,0,The doctor did not specifically inquire about the progression of the patient's chronic fatigue or whether it has been gradually worsening over time.
+4,1,"The doctor specifically asked about the patient's sleep patterns, including how many hours of sleep he typically gets and whether he has trouble falling or staying asleep, which directly relates to the patient's statement about waking up feeling unrefreshed."
+5,0,"The doctor did not specifically ask about daytime sleepiness, which is a crucial aspect of evaluating chronic fatigue and potential sleep disorders."
+6,1,"The doctor specifically asked about the patient's sleep patterns and any issues related to sleep, which led to the patient mentioning their snoring."
+7,1,"The doctor specifically asked about sleep patterns and any trouble falling or staying asleep, which led the patient to mention the observation of stopping breathing during sleep."
+8,0,"The doctor did not ask any questions related to restless legs syndrome or symptoms associated with it, which is relevant given the patient's complaints of fatigue and sleep disturbances."
+9,1,"The doctor effectively inquired about the patient's symptoms, including mood changes, by asking for additional symptoms related to the chronic fatigue, which led the patient to disclose feelings of irritability and being down."
+10,0,The doctor did not specifically ask about concentration issues; the patient volunteered that information without prompting.
+11,0,The doctor did not specifically ask about weight changes; the patient volunteered this information without prompting.
+12,0,"The doctor did not ask any questions regarding appetite changes, which is relevant to understanding the patient's chronic fatigue."
+13,0,The doctor did not specifically ask about exercise tolerance or how the patient's fatigue affects their ability to perform light activities.
+14,1,"The doctor successfully asked about current medications, leading to the patient revealing that they are only taking a multivitamin."
+15,1,"The doctor specifically asked about the patient's past medical history and current medications, which led to the patient revealing their high blood pressure condition."
+16,1,"The doctor successfully obtained the relevant information about the patient's past surgical history by directly asking about any medical conditions diagnosed in the past, which included the appendectomy."
+17,1,"The doctor specifically asked about the patient's family medical history, which led to the patient providing information about his father's diabetes and mother's thyroid issues."
+18,0,"The doctor did not specifically ask about the patient's occupation, which is important information that could help in understanding the patient's stress levels and overall health."
+19,1,"The doctor specifically asked about alcohol consumption, which led the patient to disclose their occasional drinking habits."
+20,1,"The doctor specifically asked about the patient's use of recreational drugs, to which the patient responded that he has never used any illicit drugs."
+21,1,"The doctor specifically asked about tobacco use, which led to the patient revealing that he quit smoking 10 years ago."
+22,0,The doctor did not specifically ask about the duration of tobacco use; they only inquired about current tobacco use and past smoking habits.
+23,1,"The doctor specifically asked about changes to the patient's lifestyle, including exercise, which led to the patient mentioning their walking routine."
+24,1,"The doctor asked about changes to the patient's diet, which led to the patient sharing information about their eating habits, including trying to eat healthy and having a sweet tooth."
+25,1,"The doctor specifically asked about allergies to medications, foods, or other substances, which led to the patient confirming that they have no known allergies."

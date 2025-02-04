@@ -1,0 +1,17 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's medical history, lifestyle, and overall health status, which are essential components of a pre-employment physical examination."
+1,1,"The doctor effectively inquired about current symptoms by asking if the patient had any concerns or symptoms to discuss, which led to the patient confirming they were feeling generally well with no complaints."
+2,1,"The doctor effectively asked about past medical history and surgeries, allowing the patient to confirm their lack of significant medical issues."
+3,1,"The doctor specifically asked about past surgeries, which allowed the patient to confirm that they have not had any."
+4,1,"The doctor asked about family medical history, which allowed the patient to provide the relevant information regarding their family's health status."
+5,0,The doctor did not ask any questions related to the patient's occupation or the new job offer during the history taking.
+6,1,"The doctor specifically asked about alcohol use, which allowed the patient to disclose that they drink alcohol occasionally, just socially."
+7,1,"The doctor specifically asked about the patient's use of illicit drugs, which directly addressed the concern of illicit drug use."
+8,1,"The doctor explicitly asked about smoking habits, which allowed the patient to confirm their status as a non-smoker."
+9,1,"The doctor specifically asked about the patient's physical activity level and exercise habits, which led to the patient providing the information about exercising regularly 3-4 times a week."
+10,1,"The doctor asked about the patient's diet and whether they follow any specific dietary restrictions, which led to the patient confirming they have a balanced diet with no specific restrictions."
+11,1,"The doctor specifically asked about allergies, including drug allergies, which allowed the patient to provide the relevant information of having no known drug allergies."
+12,1,"The doctor successfully asked about current medications, including over-the-counter drugs and supplements, which led to the patient confirming they are not taking any medications."
+13,0,"The doctor did not inquire about the patient's vaccination status, which is a crucial aspect of a pre-employment physical examination."
+14,0,"The doctor did not ask any questions related to travel history, which is necessary to determine if the patient has had any recent travel."
+15,0,The doctor did not inquire about the patient's stress levels or feelings regarding the new job opportunity.

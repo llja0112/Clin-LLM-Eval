@@ -1,0 +1,10 @@
+,Score,Explanation
+0,0,The doctor did not suggest any investigations with a justification that closely matches the overall health assessment and detection of a variety of disorders as provided for the CBC.
+1,0,"The doctor did not suggest any investigations that specifically evaluate kidney function, blood sugar levels, and electrolyte and acid/base balance, as the Basic Metabolic Panel (BMP) is the only test mentioned with that justification."
+2,1,"The doctor suggested a Lipid Profile with the justification to assess cholesterol levels and evaluate cardiovascular risk, which directly matches the criteria provided."
+3,1,"The doctor suggested Urinalysis, which is directly aimed at screening for kidney disease and other health conditions, thus fulfilling the criteria."
+4,0,The doctor did not suggest any investigations related to thyroid function or similar justifications for assessing thyroid disorders.
+5,0,The doctor did not suggest any investigations specifically for Hepatitis B and C Screening or similar justifications related to chronic viral infections.
+6,0,"The doctor did not suggest any investigations specifically for HIV screening or similar to it, as all suggested tests focus on other health aspects."
+7,1,"The doctor suggested a Chest X-ray with a justification that aligns closely with ruling out respiratory conditions, particularly in the context of job-related physical activity."
+8,0,"The doctor did not suggest any investigations specifically related to heart health, such as an Electrocardiogram (ECG), nor did they provide a justification that aligns with assessing heart health."

@@ -1,0 +1,11 @@
+,Score,Explanation
+0,0,The doctor did not suggest a specific step for 'General appearance assessment' with a justification focused on observing the patient's overall appearance and signs of distress or fatigue.
+1,0,The doctor did not suggest a specific step focused on confirming vital signs with the justification of checking for abnormalities like hypotension or tachycardia.
+2,0,The doctor did not suggest a skin examination specifically for checking pallor related to anemia or other underlying conditions.
+3,1,"The doctor suggested a head and neck examination including thyroid palpation, which is similar to the thyroid examination aimed at assessing for abnormalities that could contribute to fatigue."
+4,1,"The doctor suggested a cardiovascular examination with auscultation of heart sounds, which aligns with the similar step of listening for abnormal heart sounds or murmurs to identify cardiac issues contributing to fatigue."
+5,1,"The doctor suggested a respiratory examination (auscultation of lung sounds) to assess lung function and rule out any respiratory issues that could contribute to fatigue, which aligns with the similar justification provided."
+6,0,"The doctor did not suggest an abdominal examination with a justification focused on organomegaly or tenderness affecting energy levels; instead, the abdominal examination was justified for decreased appetite and weight loss."
+7,1,"The doctor suggested a neurological examination, which aligns with the need to assess for neurological deficits or signs of weakness that could contribute to fatigue."
+8,0,"The doctor did not suggest a lymph node examination, nor did they provide a justification related to checking for lymphadenopathy."
+9,0,The doctor did not suggest a musculoskeletal examination or any similar step that specifically addresses joint or muscle tenderness.

@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The suggested 'Mental Status Examination' directly aligns with the criteria of assessing cognitive function, thought processes, and perception, which are essential for evaluating hallucinations and anxiety."
+1,0,"The doctor did not suggest a physical examination step specifically aimed at ruling out neurological causes of hallucinations, such as seizures or brain lesions."
+2,1,"The suggestion of 'Skin Examination' aligns with the justification of checking for signs of substance use or withdrawal, which is similar to assessing for systemic causes of symptoms."
+3,0,The doctor suggested an 'Eye Examination' but did not provide a justification that specifically mentions ruling out ophthalmological causes of visual disturbances.
+4,1,"The doctor suggested an 'Ear Examination' to check for auditory issues, which aligns with the goal of ruling out otological causes of auditory disturbances."
+5,0,The doctor did not suggest a physical examination step specifically focused on assessing vital signs with the justification of ensuring stability and ruling out acute medical conditions.
+6,1,"The doctor suggested a Skin Examination to look for signs of substance use or withdrawal, which aligns with the justification of assessing for drug use or dermatological conditions related to the symptoms."

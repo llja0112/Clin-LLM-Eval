@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Knee Sprain', which is similar to 'Knee Sprain or Strain'."
+1,1,"The doctor suggested 'Meniscus Tear', which is directly similar to 'Meniscal Tear'."
+2,0,The suggested differential diagnoses do not include 'Patellar Tendinitis' or any similar condition.
+3,1,"The doctor suggested 'Knee Contusion', which is directly similar to the term being evaluated."
+4,0,The suggested differential diagnoses do not include 'Anterior Cruciate Ligament (ACL) Injury' or any similar condition.

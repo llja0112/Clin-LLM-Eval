@@ -1,0 +1,25 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's abdominal pain by asking about the onset, nature, intensity, associated symptoms, and medical history."
+1,1,"The doctor directly asked the patient when they first noticed the abdominal pain, which successfully elicited the information about the onset occurring 2 hours ago."
+2,0,"The doctor did not specifically ask about the location of the abdominal pain, which is crucial for determining the cause of the symptoms."
+3,0,"The doctor did not ask any questions regarding the radiation of the pain, which is essential to determine if the pain is localized or if it radiates to other areas."
+4,1,"The doctor specifically asked the patient to describe the nature of the pain, which included the term 'cramping', thus obtaining relevant information about the quality of the pain."
+5,1,"The doctor successfully asked the patient to rate the intensity of the pain on a scale of 1 to 10, which allowed the patient to provide a rating of 6 out of 10."
+6,0,"The doctor did not inquire about any alleviating or exacerbating factors related to the abdominal pain, such as whether the pain worsens with movement or if there is any relief with rest."
+7,1,"The doctor specifically asked about associated symptoms, including nausea, vomiting, diarrhea, and fever, which directly pertains to the patient's experience of nausea without vomiting."
+8,0,"The doctor did not specifically ask about bowel habits, such as the frequency or consistency of stools, to confirm if the patient has normal bowel movements."
+9,0,"The doctor did not ask any questions related to urinary symptoms, such as burning or frequency, which are important to assess in the context of abdominal pain."
+10,0,"The doctor did not inquire about the patient's menstrual history, which is relevant for assessing abdominal pain in females."
+11,0,"The doctor did not ask any questions related to sexual activity, which is important for a comprehensive medical history."
+12,0,The doctor did not specifically ask about contraceptive use or birth control pills during the history taking.
+13,0,"The doctor did not ask about any previous episodes of similar pain, which is necessary to determine if this is a recurring issue."
+14,1,"The doctor effectively inquired about the patient's pre-existing medical conditions and medications, which led to the patient confirming no significant medical history."
+15,1,"The doctor successfully obtained the relevant information about the patient's past surgical history by asking about any significant medical history, which included the appendectomy."
+16,1,"The doctor specifically asked about family history of gastrointestinal issues or significant health conditions, which led to the patient confirming no family history of abdominal issues."
+17,0,"The doctor did not specifically ask about the patient's occupation, which is important information that could provide context for the patient's symptoms."
+18,0,"The doctor did not ask any questions regarding alcohol use or the patient's social habits, which would have been necessary to obtain the relevant information."
+19,0,"The doctor did not ask any questions regarding the use of illicit drugs, which is important information to gather in a medical history."
+20,0,The doctor did not ask any questions regarding the patient's tobacco use or smoking history.
+21,1,"The doctor asked about the patient's recent dietary habits, specifically if they had eaten anything unusual in the last 24 hours, which relates to the patient's balanced diet."
+22,0,The doctor did not ask any questions related to the patient's exercise habits or frequency.
+23,1,"The doctor specifically asked about drug allergies, which led to the patient confirming they have no known drug allergies."

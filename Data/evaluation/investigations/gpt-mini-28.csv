@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested a Basic Metabolic Panel (BMP) with the justification to evaluate kidney function and electrolyte levels, which aligns closely with the criteria provided."
+1,1,"The doctor suggested a lipid profile to assess cholesterol levels, which aligns with evaluating cardiovascular risk factors associated with hypertension."
+2,1,"The doctor suggested an ECG to evaluate heart rhythm and check for any signs of heart strain or damage due to hypertension, which aligns with the justification of checking for cardiac changes related to hypertension."
+3,1,"The doctor suggested a urinalysis to check for signs of kidney damage or other urinary issues related to hypertension, which aligns with the justification of detecting kidney damage or proteinuria."
+4,0,"The doctor suggested blood pressure monitoring but did not specify ambulatory blood pressure monitoring, which is specifically designed to assess blood pressure control over 24 hours."
+5,1,"The doctor suggested thyroid function tests (TFTs) specifically to rule out thyroid dysfunction, which aligns with the criteria provided."
+6,1,"The doctor suggested a Complete Blood Count (CBC) to check for underlying issues such as anemia, which aligns with the justification provided."

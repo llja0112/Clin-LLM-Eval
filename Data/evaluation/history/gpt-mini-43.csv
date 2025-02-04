@@ -1,0 +1,22 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's sore throat by asking about associated symptoms, duration, and severity, which are crucial for understanding the chief complaint."
+1,0,"The doctor did not specifically ask about the onset of the symptoms, such as when they started or how they progressed."
+2,0,"The doctor did not specifically inquire about the progression of the symptoms or how they have changed over time, which is essential to determine if the condition is worsening."
+3,0,"The doctor did not ask about the severity of the sore throat on a scale of 1 to 10, which is crucial for understanding the patient's condition."
+4,0,"The doctor did not specifically ask about the location of the sore throat, which is crucial for understanding the patient's symptoms."
+5,0,"The doctor did not specifically ask about the quality of the sore throat symptoms, such as whether it was scratchy or painful when swallowing."
+6,0,The doctor did not ask any specific questions about alleviating or exacerbating factors related to the patient's sore throat symptoms.
+7,1,"The doctor successfully asked about associated symptoms by confirming the patient's fever and cough, which were mentioned by the patient."
+8,0,"The doctor did not ask about previous episodes of similar symptoms, which is crucial to understanding the patient's medical history."
+9,1,"The doctor specifically asked about current medications, including over-the-counter drugs, which led to the patient disclosing the use of over-the-counter pain relievers."
+10,1,"The doctor effectively inquired about the patient's past medical history by asking if he has any chronic medical conditions, which led to the patient confirming he has no significant past medical history."
+11,0,"The doctor did not ask any questions regarding the patient's past surgical history, including whether the patient had an appendectomy."
+12,1,"The doctor specifically asked about family medical history, which included inquiries about significant health issues, allowing the patient to disclose the absence of family history of throat issues."
+13,0,"The doctor did not ask any questions related to the patient's occupation, which is important for understanding potential environmental or lifestyle factors affecting the patient's health."
+14,1,"The doctor specifically asked about the patient's lifestyle, including alcohol use, which allowed the patient to provide the relevant information about drinking socially once a week."
+15,1,"The doctor specifically asked about the use of illicit drugs, and the patient responded with 'No', indicating that the relevant information was obtained."
+16,1,"The doctor directly asked about smoking habits, which allowed the patient to confirm that they have never smoked."
+17,0,The doctor did not ask any questions related to the patient's sexual history or relationship status.
+18,1,"The doctor specifically asked about the patient's exercise habits, which led to the patient providing the information that they exercise occasionally, about twice a week."
+19,1,"The doctor specifically asked about the patient's diet and exercise habits, which allowed the patient to provide information about maintaining a balanced diet and eating healthy."
+20,1,"The doctor specifically asked about known allergies, including medications, which is relevant to assessing drug allergies."

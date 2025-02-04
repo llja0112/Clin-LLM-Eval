@@ -1,0 +1,11 @@
+,Score,Explanation
+0,0,"The doctor did not suggest an examination specifically focused on observing a resting tremor, which is distinct from the general tremor assessment mentioned."
+1,0,The doctor did not suggest a gait analysis specifically focused on assessing shuffling gait and reduced arm swing characteristic of Parkinsonian gait.
+2,0,"The doctor did not suggest a specific assessment for bradykinesia, which directly evaluates slowness of movement, despite suggesting other relevant neurological examinations."
+3,1,"The suggestion of 'Muscle tone assessment' is similar to 'Rigidity assessment' as both aim to evaluate muscle stiffness, which is relevant in diagnosing conditions like Parkinson's disease."
+4,1,"The suggestion of 'Postural stability assessment' is similar to the 'Postural stability test' as both aim to evaluate balance and the risk of falls in patients, particularly those with neurological conditions."
+5,0,"The doctor did not suggest any physical examination step that specifically evaluates fine motor skills or rapid alternating movements, which are assessed by the finger tapping test."
+6,0,The doctor did not suggest a 'Heel-to-toe walking test' or a similar step specifically aimed at assessing balance and coordination in the context of Parkinson's disease.
+7,0,"The doctor did not suggest an examination of facial expression, which is specifically aimed at assessing reduced facial expression or 'masked facies' related to Parkinson's disease."
+8,0,"The doctor did not suggest a speech assessment, which is specifically aimed at evaluating speech characteristics related to conditions like Parkinson's disease."
+9,0,The doctor did not suggest any examination step that directly assesses handwriting or micrographia.

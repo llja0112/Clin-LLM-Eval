@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,Major Depressive Disorder is a diagnosis that is directly related to depression.
+1,1,"Chronic Fatigue Syndrome is directly mentioned as a differential diagnosis, indicating the doctor considered it."
+2,1,"Chronic Fatigue Syndrome can present with symptoms similar to Hypothyroidism, such as fatigue and low energy, making it a relevant differential diagnosis."
+3,0,The suggested differential diagnoses do not include 'Sleep Apnea' or any closely related conditions.
+4,0,The suggested differential diagnoses do not include any conditions that are similar to anemia.
+5,0,The suggested differential diagnoses do not include any conditions related to 'Diabetes Mellitus' or similar metabolic disorders.
+6,0,"None of the suggested diagnoses are similar to 'Adrenal Insufficiency', which is characterized by insufficient production of adrenal hormones."

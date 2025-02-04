@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"Essential Tremor is a movement disorder that can present with tremors similar to those seen in Parkinson's Disease, making it a relevant differential diagnosis."
+1,1,"The doctor suggested 'Essential Tremor', which is directly relevant to the query."
+2,0,The suggested diagnoses do not include Multiple System Atrophy (MSA) or any closely related conditions.
+3,0,The suggested diagnoses do not include Progressive Supranuclear Palsy (PSP) or any closely related conditions.
+4,0,The suggested differential diagnoses do not include Corticobasal Degeneration or any closely related conditions.

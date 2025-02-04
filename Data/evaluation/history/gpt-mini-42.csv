@@ -1,0 +1,21 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the seizures, including their onset, duration, characteristics, and associated symptoms, which are crucial for understanding the chief complaint."
+1,1,"The doctor asked about when the seizures first started, which directly pertains to the onset of the seizures."
+2,1,"The doctor specifically asked about the duration of the seizures by inquiring how long each episode lasts, which led to the patient providing the information that each episode lasts about 2-3 minutes."
+3,1,"The doctor specifically asked about the frequency of seizures by inquiring how often they occur, which directly relates to the patient's statement of multiple episodes today."
+4,1,"The doctor effectively inquired about recent symptoms and changes in the patient's condition, which led to the identification of the recent upper respiratory infection as a potential precipitating event for the seizures."
+5,0,"The doctor did not specifically ask about the progression of the seizures or how they developed over time, which is crucial to understanding the sudden onset."
+6,0,The doctor did not specifically inquire about the postictal state or the duration and nature of the drowsiness and confusion following the seizures.
+7,1,"The doctor specifically asked about symptoms leading up to the seizures, which prompted the parent to mention the fever of 101.3°F."
+8,1,"The doctor specifically inquired about any recent symptoms leading up to the seizures, which allowed the parent to mention the recent upper respiratory infection."
+9,1,"The doctor asked about current medications and supplements, which is relevant information to gather in the context of the patient's seizures."
+10,1,"The doctor effectively inquired about the patient's past medical history by asking if the daughter had any previous medical conditions or episodes of seizures, which led to the relevant information that there is no significant past medical history."
+11,1,"The doctor specifically asked about any previous medical conditions or episodes of seizures in the past, which includes family history, leading to the relevant information that there is no family history of seizures."
+12,0,"The doctor did not inquire about the child's developmental milestones or any aspects of her development, which are crucial for assessing normal development for her age."
+13,0,"The doctor did not ask any questions related to the patient's birth history, such as whether the child was born full-term or the nature of the delivery."
+14,1,The doctor specifically asked about the patient's immunization status and confirmed that the immunizations are up to date.
+15,0,"The doctor did not ask any questions regarding allergies, which is necessary to determine if the patient has any known allergies."
+16,1,"The doctor asked about recent changes in diet, which allowed the parent to confirm that the child has a normal diet for her age."
+17,0,"The doctor did not ask any specific questions regarding exposure to toxins or drugs, which is necessary to determine if there was any known exposure."
+18,0,"The doctor did not ask any questions related to travel history, which is relevant to understanding potential causes of the seizures."
+19,0,"The doctor did not specifically ask about the patient's living situation or daycare exposure, which are key components of social history."

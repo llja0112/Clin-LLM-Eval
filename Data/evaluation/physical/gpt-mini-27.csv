@@ -1,0 +1,11 @@
+,Score,Explanation
+0,0,The doctor did not suggest a specific step for 'General appearance assessment' that directly aligns with the provided justification.
+1,0,The doctor did not suggest a specific step that directly corresponds to the measurement of vital signs with the justification of confirming provided vitals and checking for abnormalities.
+2,0,The doctor did not suggest a head and neck examination specifically for thyroid enlargement or related abnormalities contributing to fatigue.
+3,1,The doctor suggested a cardiovascular examination (auscultation of heart sounds) which aligns with the similar step of assessing heart sounds and checking for irregularities.
+4,1,The doctor suggested a respiratory examination (auscultation of lung sounds) which aligns with the goal of assessing respiratory function and identifying issues that could relate to sleep apnea.
+5,0,The doctor did not suggest an abdominal examination with a justification focused on ruling out abdominal masses or organomegaly specifically related to fatigue.
+6,0,The doctor did not suggest a neurological examination with a justification specifically related to assessing for neurological deficits or sleep disorders affecting the nervous system.
+7,0,"The doctor did not suggest a musculoskeletal examination, which specifically evaluates muscle weakness or joint issues."
+8,0,The doctor did not suggest a thyroid examination or any similar assessment related to thyroid dysfunction.
+9,1,"The doctor suggested a head and neck examination, which includes inspection of the throat and neck for signs of sleep apnea, aligning with the need to check for obstructions that could contribute to snoring and sleep apnea."

@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Acute otitis media (ear infection)', which is directly similar to 'Acute Otitis Media (AOM)'."
+1,1,The diagnosis 'Viral upper respiratory infection (common cold)' is directly similar to 'Viral Upper Respiratory Infection (URI)'.
+2,0,"The suggested differential diagnoses do not include any conditions similar to Roseola Infantum, which is characterized by a specific viral infection primarily affecting young children."
+3,0,"The suggested differential diagnoses do not include any conditions related to teething, which typically involves symptoms associated with the eruption of teeth in infants."
+4,0,"The doctor did not suggest any diagnosis that is similar to 'Bacterial Sinusitis', as the listed diagnoses focus on viral infections and an ear infection."

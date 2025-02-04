@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Substance-Induced Psychotic Disorder', which is directly relevant to the query."
+1,0,The suggested diagnoses do not include 'Brief Psychotic Disorder' or any closely related conditions.
+2,0,"None of the suggested diagnoses directly indicate or are similar to 'Schizophrenia', as they focus on stress-related and mood disorders rather than a primary psychotic disorder."
+3,0,"None of the suggested diagnoses directly align with 'Schizoaffective Disorder', which specifically includes mood disorder symptoms alongside psychotic features."
+4,1,"The doctor suggested 'Major Depressive Disorder with Psychotic Features', which is directly relevant to the query."
+5,0,The suggested diagnoses do not include 'Anxiety Disorder with Psychotic Features' or any closely related condition.
+6,0,The suggested diagnoses do not include Delusional Disorder or any closely related conditions.

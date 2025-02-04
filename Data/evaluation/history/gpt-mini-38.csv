@@ -1,0 +1,20 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's chief complaint of tremors and walking difficulties by asking about the onset, progression, associated symptoms, and family history."
+1,1,"The doctor specifically asked the patient when they first noticed the tremors and walking difficulties, which directly addresses the onset of the symptoms."
+2,1,"The doctor effectively inquired about the progression of symptoms by asking the patient when they first noticed the tremors and walking difficulties, which led to the patient confirming that the symptoms started gradually and have become more noticeable over time."
+3,0,"The doctor did not specifically ask about the characteristics of the tremors, such as whether they occur at rest or improve with intentional movement."
+4,0,"The doctor did not specifically ask about the patient's gait or difficulties in initiating movement, which are crucial aspects of walking difficulties."
+5,0,"The doctor did not specifically ask about arm swing while walking, which is a relevant symptom related to the patient's tremors and walking difficulties."
+6,1,"The doctor asked about other symptoms related to mood, sleep patterns, and cognitive issues, which are associated with the patient's reported stiffness and balance difficulties."
+7,1,"The doctor successfully asked about previous medical conditions or diagnoses that might be relevant to the current symptoms, which led the patient to clarify that he has not had similar episodes before this past year."
+8,1,"The doctor specifically asked about current medications, including over-the-counter drugs or supplements, which led to the patient clarifying that he is not taking any medications for his symptoms."
+9,1,"The doctor specifically asked about previous medical conditions or diagnoses, which led the patient to disclose their hypertension and its management."
+10,1,"The doctor specifically asked about the family medical history, which led the patient to disclose that his father had Parkinson's disease."
+11,0,The doctor did not ask any questions related to the patient's occupation or retirement status during the history taking.
+12,1,"The doctor specifically asked about the patient's lifestyle, including alcohol use, which led to the patient disclosing their social drinking habits."
+13,1,"The doctor explicitly asked about the patient's use of recreational drugs, which led to the patient confirming they have never used illicit drugs."
+14,1,"The doctor successfully obtained relevant information about the patient's tobacco history by asking about smoking habits, which led to the patient revealing that he quit smoking 10 years ago."
+15,0,The doctor did not specifically ask about the duration of tobacco use; the patient volunteered that information without prompting.
+16,1,"The doctor specifically asked about the patient's lifestyle, including exercise, which led to the patient revealing that walking has become difficult due to their symptoms."
+17,1,"The doctor specifically asked about the patient's lifestyle, including diet, which led to the patient sharing that they try to eat a balanced diet."
+18,1,"The doctor specifically asked about drug allergies, which allowed the patient to confirm that he has no known drug allergies."

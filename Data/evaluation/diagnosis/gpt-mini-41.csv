@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,The doctor suggested 'Primary nocturnal enuresis' which is the same as the diagnosis being evaluated.
+1,0,The doctor did not suggest 'Secondary Nocturnal Enuresis' or any similar diagnosis; the suggested diagnoses focus on primary nocturnal enuresis and other unrelated conditions.
+2,0,"The suggested differential diagnoses do not include any conditions similar to 'Diabetes Insipidus', which is characterized by excessive urination and thirst, unlike the listed conditions."
+3,1,"The doctor suggested 'Urinary tract infection (UTI)', which is directly relevant to the query."
+4,0,The suggested differential diagnoses do not include any conditions related to constipation.
+5,0,The suggested differential diagnoses do not include any conditions related to sleep disturbances or apnea.

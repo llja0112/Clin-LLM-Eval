@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Alzheimer's Disease', which is directly similar to the condition being evaluated."
+1,1,"The doctor suggested 'Vascular Dementia', which is directly relevant to the request for a diagnosis similar to it."
+2,1,"The doctor suggested 'Mild Cognitive Impairment (MCI)', which is directly relevant to the query."
+3,0,The suggested differential diagnoses do not include any conditions related to depression or its impact on cognitive function.
+4,0,"The suggested differential diagnoses do not include 'Normal pressure hydrocephalus', which is a distinct condition that can also cause cognitive impairment."
+5,0,The suggested differential diagnoses do not include Hypothyroidism or any similar condition.
+6,0,The suggested differential diagnoses do not include Vitamin B12 deficiency or any related conditions.

@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Viral Pharyngitis', which is directly similar to the term 'Viral pharyngitis'."
+1,1,"The doctor suggested 'Streptococcal Pharyngitis (Strep Throat)', which is a specific type of bacterial pharyngitis."
+2,0,The suggested differential diagnoses do not include 'Infectious mononucleosis' or any closely related conditions.
+3,0,The suggested differential diagnoses do not include any conditions related to allergic rhinitis or post-nasal drip.
+4,1,"The doctor suggested 'Tonsillitis', which is similar to 'Acute tonsillitis' as it refers to inflammation of the tonsils."

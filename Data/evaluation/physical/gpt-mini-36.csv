@@ -1,0 +1,11 @@
+,Score,Explanation
+0,1,The suggestion of 'General Appearance Assessment' is similar to 'General inspection' as both aim to evaluate the patient's overall appearance and any visible signs of distress or illness.
+1,0,The doctor did not suggest a physical examination step that specifically focuses on confirming recorded vital signs with a justification similar to the one provided.
+2,1,"The doctor suggested a 'Head and Neck Examination' which directly aligns with the criteria of checking for abnormalities in the head, eyes, ears, nose, throat, and neck regions."
+3,1,"The suggested 'Cardiovascular Examination' includes assessing heart sounds, which aligns with the similar step of evaluating heart sounds and rhythm for cardiovascular issues."
+4,1,"The doctor suggested a 'Respiratory Examination' which includes evaluating lung sounds, aligning with the justification of assessing respiratory function."
+5,0,"The doctor did not suggest an abdominal examination with a justification focused on checking for tenderness, masses, or organomegaly; the suggested abdominal examination was more general."
+6,1,"The doctor suggested a Musculoskeletal Examination, which directly assesses joint mobility and strength, aligning with the justification of evaluating joint function and muscle strength."
+7,1,"The doctor suggested a Neurological Examination, which directly evaluates basic neurological function, including reflexes and coordination."
+8,1,"The doctor suggested a 'Skin Examination' which directly aligns with the criteria of inspecting for rashes, lesions, or other dermatological issues."
+9,0,"The doctor did not suggest a lymph node examination, which is specifically aimed at checking for lymphadenopathy."

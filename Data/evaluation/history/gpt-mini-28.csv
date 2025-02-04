@@ -1,0 +1,16 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's hypertension, including medication adherence, side effects, lifestyle factors, and family history, which are all pertinent to the follow-up on hypertension."
+1,1,"The doctor effectively inquired about the patient's current medications and their adherence by asking about the duration of medication use and any side effects, which led to the patient revealing that they sometimes forget to take their pills."
+2,1,"The doctor successfully inquired about side effects from the medication, which led the patient to disclose experiencing a mild headache and increased fatigue."
+3,0,"The doctor did not specifically ask about the duration of the patient's symptoms, which would have clarified the timeline of the mild headache and fatigue experienced over the past few weeks."
+4,1,"The doctor successfully inquired about the patient's current medications, including antihypertensive medication, even though the specific dosage details were not provided."
+5,1,"The doctor effectively gathered relevant information about the patient's past medical history, including family history of hypertension and other conditions, which is crucial for understanding the patient's hypertension."
+6,1,"The doctor successfully asked about past surgeries and hospitalizations, obtaining relevant information from the patient."
+7,1,"The doctor specifically asked about family history of hypertension or other cardiovascular diseases, which led to the patient revealing that his father had hypertension and his mother has diabetes."
+8,0,"The doctor did not ask any questions related to the patient's occupation, which is necessary to obtain the information about being a 'retired engineer'."
+9,1,"The doctor specifically asked about alcohol consumption, which led to the patient providing the information that he drinks alcohol occasionally, socially."
+10,0,The doctor did not ask any questions regarding the use of illicit drugs during the history-taking conversation.
+11,1,"The doctor directly asked the patient about tobacco use, which led to the patient confirming that he has never smoked or used any tobacco products."
+12,1,"The doctor specifically asked about exercise habits, which led to the patient providing the information that they walk three times a week."
+13,1,"The doctor asked about recent changes in the patient's diet, which directly pertains to the patient's effort to follow a low-sodium diet."
+14,0,The doctor did not ask any questions regarding drug allergies during the history taking.

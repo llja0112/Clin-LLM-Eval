@@ -1,0 +1,22 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's fatigue by asking about its onset, associated symptoms, lifestyle factors, and potential stressors."
+1,1,"The doctor directly asked the patient when they first noticed the fatigue, which led to the patient providing the specific timeframe of 'a few weeks ago'."
+2,1,The doctor successfully inquired about the duration of the patient's fatigue by asking when it first started and confirming its persistence over the past few weeks.
+3,0,"The doctor did not specifically inquire about the progression of the patient's fatigue, such as whether it has been gradually worsening over time."
+4,1,"The doctor directly asked about changes in sleep, which allowed the patient to disclose their poor sleep quality."
+5,1,"The doctor specifically asked about changes in appetite, which directly relates to the patient's reported recent loss of appetite."
+6,1,"The doctor specifically asked about changes in weight, which allowed the patient to disclose their recent weight loss."
+7,1,"The doctor specifically asked about significant stressors or changes in the patient's life, which directly relates to the patient's mention of feeling more stressed than usual."
+8,1,"The doctor asked about the patient's lifestyle, specifically inquiring about exercise habits, which led to the patient revealing that they had reduced their physical activity due to fatigue."
+9,0,"The doctor did not specifically ask about associated symptoms such as cough or fever, which are relevant to understanding the patient's condition."
+10,1,"The doctor successfully asked about current medications, confirming that the patient does not take any medications or supplements."
+11,1,"The doctor effectively inquired about past medical issues by asking the patient if they had any significant past medical issues or recent illnesses, which led to the patient confirming there were none."
+12,0,"The doctor did not ask any questions regarding the patient's past surgical history, including whether the patient had an appendectomy."
+13,1,"The doctor specifically asked about the patient's family medical history, which led to the patient providing the information about having no known family history of chronic illnesses."
+14,0,"The doctor did not ask any specific questions about the patient's occupation, which is important to understand potential stressors or contributing factors to the fatigue."
+15,0,"The doctor did not ask any questions regarding alcohol use, which is necessary to determine if the patient consumes alcohol occasionally or socially."
+16,0,"The doctor did not ask any questions regarding the use of illicit drugs, which is necessary to determine if the patient has ever used them."
+17,0,The doctor did not ask any questions regarding the patient's tobacco use or smoking history.
+18,1,"The doctor specifically asked about the patient's lifestyle, including exercise habits, which led to the patient revealing their previous regular exercise and recent reduction due to fatigue."
+19,1,"The doctor specifically asked about the patient's lifestyle, including exercise and diet, which led to the patient sharing information about having a balanced diet but reduced appetite recently."
+20,1,"The doctor specifically asked about allergies to medications, foods, or other substances, which directly addressed the patient's drug allergies."
