@@ -6,7 +6,6 @@ from langchain_community.llms import Replicate
 
 from langchain_core.messages import SystemMessage, AIMessage, HumanMessage
 from langchain_core.prompts import PromptTemplate
-# from langchain_core.output_parsers import PydanticOutputParser
 
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.graph import START, MessagesState, StateGraph
@@ -15,6 +14,7 @@ from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 import pandas as pd
 
+from simulator.retrievers import TemplateStore
 from . import generation_models
 
 class PatientAgent:
@@ -383,7 +383,7 @@ class HistoryEvaluation(BaseModel):
 class PhysicalExamEvaluation(BaseModel):
   "Evaluation metric for physical exam field"
   score: int = Field(
-    description="If the relevant physical examination step is suggested \
+    description="If a similar physical examination step is suggested \
       by the doctor, give a score of 1. Else, 0.")
   explanation: str = Field(
     description="Explain in 1 sentence why the score was given.")
@@ -445,127 +445,95 @@ class ExaminerAgent:
 
   def evaluate_history_taking(self, conversation, history_taking_checklist):
     """Evaluate history taking capability of doctor based on checklist"""
+    input_list = []
 
-    total_score = 0
-    history_scoring_log = []
-    for _, history_taking_item in history_taking_checklist.iterrows():
-      output = self.evaluate_history_taking_item(
-        conversation, history_taking_item['Question'],
-        history_taking_item['Patient Response']
-      )
-      total_score += output.score
-      history_scoring_log.append(output.explanation)
+    for _, checklist_item in history_taking_checklist.iterrows():
+      question = checklist_item['Question']
+      patient_response = checklist_item['Patient Response']
+      input_list.append({
+        "conversation": conversation,
+        "history_taking_category": question,
+        "patient_response": patient_response
+      })
 
-    self.history_score = total_score
-    self.history_scoring_log = history_scoring_log
-
-  def evaluate_history_taking_item(self, conversation, history_taking_category, patient_response):
-    """Evaluate conversation for one history taking item on checklist"""
-
-    template = """
-    You are an expert evaluator of doctors taking history from a patient.
-
-    This is the conversation between the doctor and the patient:
-    {conversation}
-
-    Now make an assessment if the doctor asked questions pertaining to '{history_taking_category}' to get the following '{patient_response}'
-    """
-
-    prompt = PromptTemplate.from_template(template)
+    prompt = TemplateStore.get_prompt_template("history")
 
     structured_llm = self.model.with_structured_output(HistoryEvaluation)
 
     chain = prompt | structured_llm
 
-    output = chain.invoke({
-      "conversation": conversation, 
-      "history_taking_category": history_taking_category, 
-      "patient_response": patient_response
-    })
+    output = chain.batch(input_list, config={"max_concurrency": 10})
 
     return output
 
-  def evaluate_physical_exam_checklist(self, physical_exam_suggestions, physical_exam_checklist):
-    """Evaluate physical exam suggestions based on physical exam checklist"""
+  def evaluate_physical_exam(self, physical_exam_suggestions, physical_exam_checklist):
+    """Evaluate history taking capability of doctor based on checklist"""
+    input_list = []
 
-    total_score = 0
-    physical_exam_scoring_log = []
-    for _, physical_exam_item in physical_exam_checklist.iterrows():
-      output = self.evaluate_physical_exam_item(
-        physical_exam_suggestions,
-        physical_exam_item['Exam component'],
-        physical_exam_item['Maneuver']
-      )
-      total_score += output.score
-      physical_exam_scoring_log.append(output.explanation)
+    for _, checklist_item in physical_exam_checklist.iterrows():
+      physical_exam_step = checklist_item['Physical Exam']
+      physical_exam_justification = checklist_item['Justification']
 
-    self.physical_exam_score = total_score
-    self.physical_exam_scoring_log = physical_exam_scoring_log
+      input_list.append({
+        "physical_exam_suggestions":physical_exam_suggestions,
+        "physical_exam_step": physical_exam_step,
+        "physical_exam_justification": physical_exam_justification
+      })
 
-  def evaluate_physical_exam_item(self, physical_exam_suggestions,
-                                  physical_exam_category, physical_exam_details):
-    """Evaluate physical exam suggestion for one physical exam item on checklist"""
-
-    template = """
-    You are an expert evaluator of doctors performing physical examinations on a patient.
-
-    These are the physical examination steps suggested by the doctor:
-    {physical_exam_suggestions}
-
-    Now make an assessment if the doctor suggested the appropriate steps for '{physical_exam_category}' to get the following details '{physical_exam_details}'
-    """
-
-    prompt = PromptTemplate.from_template(template)
+    prompt = TemplateStore.get_prompt_template("physical")
 
     structured_llm = self.model.with_structured_output(PhysicalExamEvaluation)
 
     chain = prompt | structured_llm
 
-    output = chain.invoke({
-      "physical_exam_suggestions": physical_exam_suggestions,
-      "physical_exam_category": physical_exam_category,
-      "physical_exam_details": physical_exam_details
-    })
+    output = chain.batch(input_list, config={"max_concurrency": 10})
 
     return output
 
-  def evaluate_investigations_checklist(self, investigations_suggestions, investigations_checklist):
+  def evaluate_investigations(self, investigations_suggestions, investigations_checklist):
     """Evaluate investigations suggestions with investigations checklist"""
+    input_list = []
 
-    investigations_score = 0
-    investigations_scoring_log = []
-    for _, investigations_item in investigations_checklist.iterrows():
-      output = self.evaluate_investigations_item(
-        investigations_suggestions,
-        investigations_item['Diagnostic Workup'])
-      investigations_score += output.score
-      investigations_scoring_log.append(output.explanation)
+    for _, checklist_item in investigations_checklist.iterrows():
+      investigations_item = checklist_item['Investigations']
+      investigations_justification = checklist_item['Justification']
 
-    self.investigations_score = investigations_score
-    self.investigations_scoring_log = investigations_scoring_log
+      input_list.append({
+        "investigations_suggestions": investigations_suggestions,
+        "investigations_item": investigations_item,
+        "investigations_justification": investigations_justification
+      })
 
-  def evaluate_investigations_item(self, investigations_suggestions, investigations_item):
-    """Evaluate investigations suggestion for one investigations item on checklist"""
-
-    template = """
-    You are an expert evaluator of doctors suggesting investigations for a patient.
-
-    These are the investigations suggested by the doctor:
-    {investigations_suggestions}
-
-    Now make an assessment if the doctor suggested the appropriate investigations for '{investigations_item}'
-    """
-
-    prompt = PromptTemplate.from_template(template)
+    prompt = TemplateStore.get_prompt_template("investigations")
+    print(prompt)
+    print()
 
     structured_llm = self.model.with_structured_output(InvestigationsEvaluation)
 
     chain = prompt | structured_llm
 
-    output = chain.invoke({
-      "investigations_suggestions": investigations_suggestions,
-      "investigations_item": investigations_item
-    })
+    output = chain.batch(input_list, config={"max_concurrency": 10})
+
+    return output
+
+  def evaluate_ddx(self, ddx_suggestions, ddx_checklist):
+    """Evaluate ddx suggestion with ddx checklist"""
+    input_list = []
+
+    for _, ddx_item in ddx_checklist.iterrows():
+      diagnosis = ddx_item['Diagnosis']
+      input_list.append({
+        "ddx_suggestions": ddx_suggestions,
+        "ddx_item": diagnosis,
+      })
+
+    prompt = TemplateStore.get_prompt_template("diagnosis")
+
+    structured_llm = self.model.with_structured_output(DdxEvaluation)
+
+    chain = prompt | structured_llm
+
+    output = chain.batch(input_list, config={"max_concurrency": 10})
 
     return output
 
