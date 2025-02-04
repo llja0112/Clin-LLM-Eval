@@ -1,0 +1,27 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's chronic fatigue by asking about its onset, duration, associated symptoms, and lifestyle factors."
+1,1,"The doctor successfully asked about the onset of the patient's fatigue by inquiring when it started, which led to the patient providing the information that it began several months ago."
+2,1,The doctor successfully gathered information about the duration of the patient's fatigue by confirming that it has been persistent and occurs daily.
+3,0,"The doctor did not specifically inquire about the progression of the patient's fatigue over time, such as whether it has been gradually worsening or fluctuating."
+4,1,"The doctor directly inquired about the patient's sleep quality, which led to the patient revealing that they wake up feeling unrefreshed."
+5,0,"The doctor did not specifically ask about daytime sleepiness, which is crucial for understanding the patient's fatigue."
+6,0,The doctor did not ask any questions related to snoring or sleep disturbances beyond the patient's report of fatigue and sleep quality.
+7,0,"The doctor did not ask any questions related to breathing pauses during sleep or sleep apnea, which are crucial for understanding the patient's sleep issues."
+8,0,"The doctor did not ask any questions related to restless legs syndrome, such as whether the patient experiences uncomfortable sensations in the legs or an urge to move them, which are key symptoms of the condition."
+9,0,"The doctor did not specifically ask about mood changes or emotional well-being, which would have addressed the patient's feelings of irritability and being down."
+10,1,"The doctor effectively inquired about the patient's symptoms, including concentration issues, which led to the patient revealing their trouble concentrating at work."
+11,1,"The doctor specifically asked about changes in appetite or weight, which led the patient to disclose that they have gained some weight recently."
+12,1,"The doctor asked about changes in appetite and weight, which led to the patient confirming there were no significant changes."
+13,0,"The doctor did not specifically ask about exercise tolerance or the patient's ability to perform physical activities, which is crucial to understanding the patient's reported fatigue."
+14,1,"The doctor successfully asked about current medications, which led to the patient revealing they are only taking a multivitamin."
+15,0,The doctor did not inquire about the patient's past medical history related to high blood pressure or any management strategies such as diet and exercise.
+16,0,"The doctor did not ask any questions related to the patient's past surgical history, including the appendectomy."
+17,1,"The doctor specifically asked about family history of chronic fatigue or other medical conditions, which prompted the patient to disclose relevant family medical history."
+18,0,"The doctor did not ask any questions related to the patient's occupation, which is essential for understanding potential stressors or contributing factors to the patient's chronic fatigue."
+19,1,"The doctor successfully asked about alcohol use, which led to the patient revealing their occasional drinking habits."
+20,0,"The doctor did not ask about the use of illicit drugs, which is necessary to determine if the patient has ever used them."
+21,1,"The doctor successfully obtained relevant information about the patient's tobacco history by asking if the patient smokes or drinks alcohol, which led to the patient revealing their smoking cessation."
+22,1,"The doctor successfully obtained relevant information about the patient's smoking history, specifically that he smoked for 15 years before quitting."
+23,0,The doctor did not ask any questions related to the patient's exercise habits or physical activity level.
+24,0,"The doctor did not ask any specific questions about the patient's dietary habits or preferences, such as their eating patterns or cravings, which would have elicited the information about having a sweet tooth."
+25,0,"The doctor did not ask any questions regarding drug allergies, which is essential information to obtain from the patient."

@@ -1,0 +1,17 @@
+,Score,Explanation
+0,0,The doctor did not ask any questions related to the chief complaint or specific health concerns relevant to the pre-employment physical examination.
+1,0,"The doctor did not ask any specific questions about current symptoms, which would be necessary to confirm the patient's statement of feeling generally well and having no complaints."
+2,1,"The doctor successfully gathered relevant information about the patient's past medical history by asking about surgeries, hospitalizations, and chronic health conditions."
+3,1,"The doctor successfully asked about past surgeries and hospitalizations, allowing the patient to confirm they have had none."
+4,0,"The doctor did not ask any specific questions about the patient's family medical history, which is necessary to determine if there is any significant family medical history."
+5,0,The doctor did not ask any questions related to the patient's occupation or the new job offer.
+6,0,"The doctor did not ask any questions related to alcohol use, which is necessary to determine if the patient engages in occasional social drinking."
+7,0,"The doctor did not ask any questions regarding the use of illicit drugs, which is necessary to confirm the patient's status on this matter."
+8,0,"The doctor did not ask any questions related to tobacco use or smoking history, which are essential to determine if the patient is a non-smoker."
+9,0,"The doctor did not ask any questions related to exercise or physical activity, which are essential for assessing the patient's fitness and health status."
+10,0,The doctor did not ask any questions related to the patient's diet or dietary restrictions during the history taking.
+11,1,"The doctor successfully asked about drug allergies, leading to the patient confirming they have no known drug allergies."
+12,1,"The doctor successfully asked about current medications, which led to the patient confirming they are not taking any medications."
+13,0,"The doctor did not ask any questions regarding the patient's vaccination status, which is essential for a pre-employment physical examination."
+14,0,"The doctor did not ask any questions related to travel history, which is necessary to determine if the patient has had any recent travel."
+15,0,The doctor did not ask any questions related to stress levels or the patient's feelings about the new job opportunity.

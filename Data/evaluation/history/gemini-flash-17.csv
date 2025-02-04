@@ -1,0 +1,17 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's hearing loss by asking specific questions regarding the onset, characteristics, and associated symptoms of the condition."
+1,1,"The doctor successfully asked about the onset of the hearing loss by inquiring when the patient first noticed it, which led to the patient describing the gradual progression over the past few months."
+2,1,"The doctor effectively inquired about the progression of the patient's hearing loss by asking when it was first noticed and how it has changed over time, which directly addresses the worsening nature of the condition."
+3,1,"The doctor specifically asked about associated symptoms, including dizziness, ear pain, and ringing in the ears, which allowed the patient to disclose the occasional tinnitus."
+4,0,"The doctor did not inquire about the patient's exposure to loud noises, which is relevant to understanding the cause of the hearing loss."
+5,0,The doctor did not ask any questions regarding the use of hearing aids or the patient's experience with them.
+6,1,"The doctor asked about previous ear infections, which is relevant to the patient's hearing loss history."
+7,0,"The doctor did not ask any questions regarding ear discharge, which is relevant to the patient's hearing loss assessment."
+8,1,"The doctor specifically asked about family history of hearing loss, which led the patient to disclose that his father had hearing loss in old age."
+9,1,"The doctor successfully asked about current medications, which led to the patient revealing that he takes blood pressure medication."
+10,1,The doctor successfully obtained information about the patient's hypertension and its management by asking about other medical conditions.
+11,0,"The doctor did not ask any questions regarding the patient's past surgical history, including whether he had an appendectomy."
+12,0,"The doctor did not ask any questions related to the patient's occupation, specifically about being a retired factory worker."
+13,1,"The doctor successfully obtained relevant information about the patient's alcohol use by asking specific questions about frequency and amount, leading to the patient stating they drink alcohol occasionally and socially."
+14,1,"The doctor successfully obtained relevant information about the patient's tobacco history by asking if he smokes or has ever smoked, which led to the patient revealing his smoking history."
+15,1,"The doctor successfully asked about drug allergies, which is relevant information for assessing the patient's overall health and potential treatment options."

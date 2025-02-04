@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested a urinalysis, which aligns with the need to check for abnormalities in the urine, including the presence of red blood cells and bacteria."
+1,1,The doctor suggested a 'Urine culture' with a justification that aligns closely with the requirement to identify bacterial infections in the urinary tract.
+2,0,"The doctor did not suggest a CT scan of the abdomen and pelvis, which is necessary for visualizing the urinary tract and identifying potential causes of hematuria."
+3,1,The doctor suggested 'Cystoscopy' which directly aligns with the need to visualize the bladder and urethra for abnormalities.
+4,0,"The doctor did not suggest an ultrasound of the kidneys and bladder, which is necessary to assess for structural abnormalities, stones, or masses."
+5,0,The doctor did not suggest a Complete Blood Count (CBC) or any investigation with a similar justification related to checking for signs of infection or anemia.
+6,0,The doctor did not suggest any investigations specifically related to 'Blood urea nitrogen (BUN) and creatinine levels' or similar tests to assess kidney function.

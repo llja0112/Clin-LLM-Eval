@@ -1,0 +1,23 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's irregular menstrual cycles by asking about the duration, description of irregularity, and associated factors such as weight changes and stress."
+1,1,The doctor successfully obtained information about the onset of the patient's irregular menstrual cycles by confirming that they started a few months ago.
+2,1,The doctor successfully obtained the duration of the irregular menstrual cycles by confirming that they have been ongoing for the past few months.
+3,1,"The doctor successfully inquired about the frequency of the patient's menstrual cycles by asking for clarification on what 'irregular' meant, which led to the patient explaining that their cycles have been unpredictable and sometimes skipping a month."
+4,1,The doctor successfully gathered information about the patient's menstrual history by confirming that the cycles were previously regular every 28 days and inquiring about the nature of the irregularity.
+5,0,"The doctor did not ask specific questions about the characteristics of the menstrual flow, such as its heaviness or lightness, which are crucial to understanding the patient's irregular cycles."
+6,0,"The doctor did not ask about associated symptoms such as cramping or pain, which are relevant to understanding the patient's irregular menstrual cycles."
+7,1,"The doctor successfully identified and acknowledged the patient's increased work-related stress, which is relevant to the irregular menstrual cycles."
+8,1,"The doctor successfully obtained relevant information about weight changes by asking if the patient had noticed any significant weight changes, which the patient confirmed as 'no'."
+9,0,"The doctor did not ask any questions related to the patient's diet, which is necessary to determine if there have been any changes."
+10,0,"The doctor did not ask any questions related to exercise or physical activity, which are important for understanding the patient's overall health and potential factors affecting menstrual cycles."
+11,0,"The doctor did not ask any questions related to the patient's sleep pattern, which is necessary to assess their overall health and potential factors affecting their menstrual irregularities."
+12,1,"The doctor successfully asked about current medications, including over-the-counter medications, vitamins, and supplements, which is relevant information for understanding the patient's health."
+13,1,"The doctor successfully obtained relevant information regarding the patient's past medical history by asking if the patient had any diagnosed medical conditions, which led to the patient confirming no significant past medical history."
+14,0,"The doctor did not ask any questions related to the patient's past surgical history, including whether the patient had an appendectomy."
+15,1,The doctor successfully obtained relevant information regarding the patient's family history of menstrual disorders by asking about it directly.
+16,0,"The doctor did not ask any questions related to the patient's occupation, which is essential for understanding potential stressors or lifestyle factors affecting the patient's health."
+17,0,"The doctor did not ask any questions regarding alcohol use, which is essential for a complete medical history."
+18,0,The doctor did not ask any questions regarding the use of illicit drugs during the history-taking conversation.
+19,0,"The doctor did not ask any questions related to tobacco use or smoking history, which is necessary to determine if the patient is a non-smoker."
+20,0,"The doctor did not ask any questions related to the patient's sexual history, such as relationship status or sexual activity, which are necessary to determine if the patient is in a married, monogamous relationship."
+21,0,The doctor did not ask about drug allergies during the history taking conversation.

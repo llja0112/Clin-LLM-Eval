@@ -1,0 +1,11 @@
+,Score,Explanation
+0,1,The doctor suggested a 'General Examination' which aligns with the concept of 'General inspection' as both aim to assess overall appearance and visible signs of jaundice.
+1,0,The doctor did not suggest any physical examination step that is similar to 'Vital signs assessment' or has a justification related to confirming recorded vitals.
+2,0,The doctor did not suggest a 'Skin examination' or provide a justification related to evaluating jaundice or skin conditions.
+3,1,"The doctor suggested an 'Examination of Head and Neck' to assess for signs of jaundice, which includes checking for scleral icterus, thus aligning with the similar step of 'Scleral examination'."
+4,1,The doctor suggested an 'Examination of Abdomen' which aligns with the similar physical examination step of 'Abdominal examination' and shares the justification of assessing for organomegaly.
+5,0,The doctor did not suggest 'Palpation of the liver' or a similar examination step focused specifically on liver enlargement or tenderness.
+6,0,The doctor did not suggest palpation of the spleen or any similar examination step specifically aimed at assessing splenomegaly.
+7,0,"The doctor did not suggest an examination of the hands and nails, which is specifically aimed at identifying signs of liver disease."
+8,0,The doctor did not suggest a neurological examination or any similar step related to assessing neurological signs associated with liver dysfunction.
+9,0,The doctor did not suggest an examination of the eyes or provide a justification related to checking for signs of anemia or other abnormalities.

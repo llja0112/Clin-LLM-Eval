@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested an audiogram to assess for hearing loss, which is relevant to the investigation of dizziness and aligns with the purpose of assessing hearing function."
+1,0,The doctor did not suggest any investigations similar to the 'Dix-Hallpike maneuver' or with a justification related to evaluating for BPPV.
+2,0,The doctor did not suggest an MRI of the brain or any similar investigation to rule out central causes of dizziness.
+3,1,"The doctor suggested an Electrocardiogram (ECG) to assess for heart rhythm abnormalities, which aligns with the goal of ruling out arrhythmias as a cause of dizziness."
+4,0,"The doctor did not suggest any blood tests such as CBC or electrolytes, which are relevant for checking anemia or electrolyte imbalances."
+5,1,"The doctor suggested a blood pressure check to assess for orthostatic hypotension, which directly aligns with the investigation and justification provided."
+6,0,The doctor did not suggest any investigations specifically aimed at assessing the vestibular system or identifying peripheral vestibular disorders.

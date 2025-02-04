@@ -1,0 +1,10 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Hepatitis', which is a broad term that includes Hepatitis A, B, and C."
+1,0,"The suggested differential diagnoses do not include any conditions that are similar to 'Alcoholic liver disease', as they focus on viral hepatitis, bile duct stones, and a benign genetic condition."
+2,1,"The doctor suggested 'Choledocholithiasis', which is directly related to gallstones obstructing the common bile duct."
+3,0,The suggested differential diagnoses do not include 'Autoimmune hepatitis' or any closely related conditions.
+4,0,The suggested differential diagnoses do not include 'Drug-induced liver injury' or any closely related conditions.
+5,0,"The suggested diagnoses do not include any conditions that are similar to Primary biliary cholangitis, which specifically involves autoimmune destruction of the bile ducts."
+6,0,None of the suggested differential diagnoses are directly related to or suggest 'Hemolytic anemia'.
+7,0,The suggested differential diagnoses do not include any conditions that are similar to pancreatic cancer.
+8,0,"None of the suggested differential diagnoses directly relate to liver cirrhosis, as they focus on acute liver conditions or benign liver function variations."

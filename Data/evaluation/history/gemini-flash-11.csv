@@ -1,0 +1,21 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's hoarseness of voice by asking about its onset, associated symptoms, and potential contributing factors."
+1,1,The doctor successfully obtained information about the onset of the hoarseness by asking the patient when it started and how it was first noticed.
+2,1,"The doctor effectively inquired about the patient's voice usage and any recent activities that could have contributed to the hoarseness, leading to the patient mentioning the long day of talking."
+3,1,"The doctor successfully obtained information about the progression of the patient's hoarseness by asking about the duration and changes in symptoms, leading to the understanding that the hoarseness has been getting worse."
+4,0,"The doctor did not specifically inquire about factors that alleviate or exacerbate the patient's hoarseness, such as whether resting the voice helps."
+5,1,"The doctor specifically asked about the patient's swallowing difficulties, which led to the patient revealing their slight difficulty with large or dry foods."
+6,1,"The doctor successfully obtained relevant information about throat clearing by asking about the patient's symptoms, which led to the patient mentioning the need to clear their throat occasionally."
+7,1,"The doctor effectively asked about associated symptoms by inquiring if the patient had experienced any pain, which led to the patient describing their throat feeling scratchy."
+8,0,"The doctor did not inquire about any previous episodes of hoarseness or similar symptoms, which is necessary to determine if this is a new occurrence for the patient."
+9,0,"The doctor did ask about current medications, but the patient's response was not relevant to the inquiry, indicating a lack of clarity or understanding in the conversation."
+10,1,The doctor successfully obtained relevant information about the patient's high blood pressure management during the history taking.
+11,1,The doctor successfully obtained the relevant information about the patient's past surgical history by directly asking about any surgeries or procedures in the past.
+12,1,The doctor successfully obtained relevant family history information regarding the patient's father's stroke and the mother's health.
+13,0,"The doctor did not ask any specific questions about the patient's occupation, which is essential to understand potential causes of hoarseness related to his previous profession as a teacher."
+14,1,"The doctor successfully asked about alcohol use, leading the patient to disclose their social drinking habits."
+15,1,The doctor successfully obtained relevant information about the patient's tobacco history by asking if he smokes or uses any tobacco products.
+16,0,The doctor did not specifically ask about the duration of tobacco use; the patient volunteered that information.
+17,0,"The doctor did not ask any questions related to exercise or physical activity, which would have been necessary to obtain the information about the patient's daily walking routine."
+18,0,The doctor did not ask any questions related to the patient's diet or eating habits that would lead to the information about trying to eat a balanced diet.
+19,0,"The doctor did not specifically ask about drug allergies, which is a crucial aspect of medical history taking."

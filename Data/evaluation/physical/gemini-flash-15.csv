@@ -1,0 +1,9 @@
+,Score,Explanation
+0,0,The doctor did not suggest a 'General appearance assessment' or a similar step focused on observing the patient's overall demeanor or visible abnormalities.
+1,0,The doctor did not suggest a vital signs review or any similar examination step.
+2,1,"The doctor suggested a thyroid examination to assess for signs of thyroid dysfunction, which aligns with the justification of checking for thyroid enlargement or nodules affecting menstrual cycles."
+3,0,"The doctor did not suggest an abdominal examination, which is necessary to assess for masses or organomegaly related to menstrual irregularities."
+4,1,The suggested pelvic examination is similar in purpose to the evaluation of reproductive organs for abnormalities causing menstrual irregularities.
+5,0,"The doctor did not suggest a skin examination, which is specifically aimed at identifying signs of hirsutism, acne, or other skin changes related to hormonal imbalances."
+6,0,The doctor did not suggest a breast examination with a justification focused on checking for lumps or discharge related to hormonal issues.
+7,0,"The doctor did not suggest a neurological examination, which is necessary to rule out neurological causes of menstrual irregularities."

@@ -1,0 +1,27 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's left arm pain by asking about the onset, nature, and exacerbating factors of the pain."
+1,1,"The doctor successfully obtained the onset information by asking the patient when the pain started, which the patient confirmed as two days ago."
+2,1,The doctor successfully identified the precipitating event by asking the patient to describe when the pain started and what activity was involved.
+3,0,The doctor did not ask any questions about the progression of the pain or whether it has been getting worse over time.
+4,0,"The doctor did not ask about the severity of the pain on a scale of 1 to 10, which is crucial for assessing the patient's condition."
+5,1,"The doctor specifically asked the patient to describe the pain and its location, which led to the patient providing the information that the pain is in the left arm, mostly around the shoulder."
+6,1,"The doctor specifically asked if the pain radiated anywhere else, which led to the patient confirming that it does not."
+7,1,"The doctor specifically asked the patient to describe the pain, which led to the patient stating that it feels like a dull ache."
+8,1,"The doctor successfully asked about factors that exacerbate the pain by inquiring if anything makes the pain worse, which led to the patient revealing that movement worsens the pain."
+9,1,"The doctor specifically asked the patient if they had noticed any other symptoms besides the pain, including shortness of breath, and the patient confirmed they had not experienced it."
+10,1,"The doctor effectively asked about other symptoms, including nausea, and the patient confirmed there were no such symptoms, thus obtaining the relevant information."
+11,1,"The doctor specifically asked the patient if they had noticed any other symptoms besides the pain, which included the question about sweating, and the patient confirmed that they had not experienced any sweating."
+12,0,"The doctor did not ask about any associated symptoms such as cough, wheezing, abdominal pain, diarrhea, or constipation during the history taking."
+13,1,"The doctor asked about previous episodes of similar pain, which led to the patient confirming that this is the first time experiencing such pain."
+14,1,"The doctor successfully inquired about the patient's current medications and confirmed that the patient takes medication for blood pressure, which aligns with the expected response."
+15,1,"The doctor successfully obtained relevant information about the patient's hypertension by asking about any other medical conditions and medications, which led to the patient revealing their history of hypertension and its management."
+16,0,"The doctor did not ask any questions related to the patient's past surgical history, including the appendectomy."
+17,0,"The doctor did not ask any questions related to family history, which is essential for understanding potential hereditary conditions."
+18,0,"The doctor did not ask any questions related to the patient's occupation, such as their job history or current employment status."
+19,1,"The doctor specifically asked about alcohol use, which led to the patient providing the relevant information about their occasional drinking habits."
+20,0,"The doctor did not ask any questions regarding the use of illicit drugs, which is necessary to obtain a complete medical history."
+21,1,"The doctor successfully obtained the information about the patient's tobacco history by asking if the patient smokes, which led to the patient revealing that he quit smoking 5 years ago."
+22,0,"The doctor did not specifically ask about the duration of tobacco use; instead, the patient volunteered that information when asked about smoking."
+23,1,"The doctor specifically asked about exercise, which led to the patient revealing that he walks for about 30 minutes every day."
+24,0,The doctor did not ask any questions related to the patient's diet or eating habits during the history taking.
+25,1,The doctor successfully inquired about drug allergies and confirmed that the patient has none.

@@ -1,0 +1,23 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the chief complaint of noisy breathing by asking about the nature of the sound, its onset, associated symptoms, and past episodes."
+1,1,"The doctor specifically asked about the onset of Emily's noisy breathing by stating that it started a few days ago, which indicates that the relevant information was obtained."
+2,0,"The doctor did not specifically inquire about any precipitating events or sudden onset of symptoms, which are crucial for understanding the context of Emily's wheezing."
+3,1,The doctor effectively inquired about the progression of Emily's symptoms by noting that the noisy breathing started a few days ago and has been getting worse over time.
+4,1,"The doctor effectively gathered information about the severity of Emily's condition by noting her distress and the worsening of her symptoms, which indicates a moderate level of concern."
+5,1,"The doctor specifically inquired about the nature of the noisy breathing, asking if it was a whistling or rattling sound, which pertains directly to the quality of breathing."
+6,0,"The doctor did not inquire about specific alleviating or exacerbating factors related to Emily's breathing, such as whether her symptoms worsen when lying down or improve when sitting up."
+7,1,"The doctor inquired about other symptoms such as coughing, fever, or runny nose, which are associated with the patient's distress and tugging at the neck, thus obtaining relevant information."
+8,1,"The doctor successfully inquired about previous episodes of wheezing, which led to the patient confirming that there have been similar episodes in the past."
+9,1,"The doctor successfully obtained relevant information about the onset of previous episodes by asking if Emily had similar episodes in the past, which led to the patient revealing that they started a few months ago."
+10,1,"The doctor successfully inquired about the frequency of previous episodes by stating that Emily has had similar episodes in the past, which were not as frequent or severe as the current situation."
+11,0,"The doctor did not specifically inquire about any potential precipitating events for Emily's previous episodes of wheezing, which would have helped to identify any triggers."
+12,0,"The doctor did not inquire about any alleviating factors for Emily's previous episodes of wheezing, such as whether sitting up or steam inhalation helped alleviate her symptoms."
+13,0,The doctor did not ask any questions regarding Emily's current medications during the history taking.
+14,1,The doctor successfully gathered information about Emily's past medical history by asking about previous episodes of wheezing and noting that she has had frequent colds and coughs.
+15,0,The doctor did not inquire about Emily's past surgical history during the conversation.
+16,0,"The doctor did not inquire about the family history of asthma or any other respiratory conditions in the mother, which is relevant information for understanding Emily's wheezing."
+17,1,"The doctor inquired about Emily's daycare attendance, which is relevant to understanding potential exposure to illnesses."
+18,1,The doctor successfully gathered relevant information about the father's smoking status and the absence of known allergens during the history taking.
+19,1,"The doctor successfully obtained information about Emily's immunization status being up to date, which is relevant to her overall health and potential respiratory issues."
+20,0,"The doctor did not ask any questions related to Emily's diet, which is important for assessing her overall health and development."
+21,0,The doctor did not ask any specific questions about drug allergies during the history taking.

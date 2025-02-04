@@ -1,0 +1,22 @@
+,Score,Explanation
+0,1,"The doctor effectively asked relevant questions about the nature, duration, and associated symptoms of the pain during sexual intercourse, which directly pertained to the chief complaint."
+1,1,"The doctor specifically asked the patient when she first started experiencing the pain, which directly led to the patient providing the information about the onset occurring six months ago."
+2,1,"The doctor specifically asked about the frequency of the pain during intercourse, which led to the patient confirming that it occurs every time."
+3,0,The doctor did not specifically ask about the location of the pain in the lower abdomen during the history taking.
+4,1,"The doctor specifically asked the patient to describe the pain, which led to the patient providing the information that the pain is sharp and cramping."
+5,0,"The doctor did not ask the patient to rate the severity of the pain on a scale of 1 to 10, which is crucial for understanding the intensity of the patient's symptoms."
+6,0,The doctor did not specifically ask about alleviating or exacerbating factors related to the pain during intercourse.
+7,1,"The doctor asked about other symptoms along with the pain, such as bleeding, discharge, or changes in the menstrual cycle, which led to the patient mentioning spotting after intercourse."
+8,0,"The doctor did not specifically ask about any previous episodes of similar pain, which is crucial to understanding the patient's medical history regarding this issue."
+9,1,"The doctor asked about the patient's menstrual cycle and any changes in symptoms, which led to the patient revealing that her periods have been more painful recently."
+10,1,"The doctor directly asked about the patient's current medications, which included contraceptive use, leading to the patient revealing that she uses oral contraceptive pills."
+11,1,"The doctor asked about recent changes in sexual activity and the patient's partner, which directly led to the patient revealing they have one partner and the duration of their relationship."
+12,1,"The doctor asked about any past medical conditions and specifically inquired about sexually transmitted infections, which led the patient to mention their urinary tract infection from last year."
+13,0,The doctor did not ask any questions regarding the patient's past surgical history during the conversation.
+14,1,"The doctor specifically asked about family history of medical conditions related to reproductive issues, which allowed the patient to provide relevant information."
+15,1,"The doctor specifically asked about current medications, including over-the-counter medications, vitamins, or supplements, which allowed the patient to clarify that she is only taking oral contraceptive pills."
+16,1,"The doctor specifically asked about allergies, which allowed the patient to provide the relevant information that they have no known allergies."
+17,0,"The doctor did not ask any questions related to the patient's occupation, which is important information to gather in a medical history."
+18,1,"The doctor specifically asked about alcohol use, which allowed the patient to provide the relevant information about their drinking habits."
+19,0,"The doctor did not ask about illicit drug use, which is a relevant aspect of the patient's history that could impact her health."
+20,1,"The doctor directly asked the patient about smoking habits, which led to the patient confirming that she does not smoke."

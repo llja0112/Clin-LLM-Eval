@@ -1,0 +1,9 @@
+,Score,Explanation
+0,1,"The doctor suggested a Complete Blood Count (CBC) to assess for infection and inflammation, which aligns with the justification of checking for signs of infection or inflammation contributing to the patient's condition."
+1,1,"The doctor suggested an 'Electrolyte panel' with a justification to check for electrolyte imbalances that can cause seizures, which is similar to the suggested investigation and justification for 'Serum Electrolytes'."
+2,0,The doctor did not suggest any investigations with a justification similar to ruling out hypoglycemia as a cause of seizures.
+3,0,The doctor did not suggest any investigations specifically aimed at ruling out meningitis or encephalitis with a justification related to fever and recent upper respiratory infection.
+4,1,"The doctor suggested an Electroencephalogram (EEG) to assess for abnormal brain activity, which aligns with the similar justification provided."
+5,1,"The doctor suggested brain imaging (CT or MRI) with the justification to rule out structural abnormalities in the brain that may be causing seizures, which aligns with the criteria provided."
+6,0,The doctor did not suggest a blood culture or any investigation specifically aimed at identifying bacterial infections related to fever and seizures.
+7,0,"The doctor did not suggest any investigations specifically aimed at checking for urinary tract infections, which is the focus of the provided justification."

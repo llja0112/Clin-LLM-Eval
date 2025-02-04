@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"The doctor suggested both 'Knee Sprain' and 'Knee Strain', which are similar diagnoses related to knee injuries."
+1,0,The suggested diagnoses do not include 'Meniscal Tear' or any closely related conditions.
+2,0,The suggested diagnoses do not include 'Patellar Tendinitis' or any closely related conditions.
+3,0,The suggested differential diagnoses do not include 'Knee Contusion' or any similar condition.
+4,0,"The suggested diagnoses do not include any mention of an Anterior Cruciate Ligament (ACL) Injury, which is a specific type of knee injury."

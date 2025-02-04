@@ -1,0 +1,10 @@
+,Score,Explanation
+0,0,The doctor did not suggest any investigations specifically aimed at assessing long-term glucose control beyond the HbA1c test.
+1,0,The doctor did not suggest 'Fasting blood glucose' or any similar investigation aimed at evaluating current blood sugar levels for immediate concerns of hyperglycemia.
+2,0,The doctor did not suggest any investigations similar to a lipid profile or with a justification related to assessing cardiovascular risk factors.
+3,0,"The doctor did not suggest any investigations specifically aimed at evaluating kidney function, such as serum creatinine and eGFR, which would be relevant given the context of diabetes and potential nephropathy."
+4,0,"The doctor did not suggest any investigations specifically aimed at detecting early signs of diabetic nephropathy, such as urine microalbumin."
+5,1,"The doctor suggested an 'Electrolytes (sodium, potassium, etc.)' investigation with a justification that directly addresses checking for electrolyte imbalances contributing to fatigue."
+6,1,"The doctor suggested a Complete Blood Count (CBC) specifically to rule out underlying anemia or infection contributing to fatigue, which aligns with the criteria provided."
+7,0,The doctor did not suggest any investigations specifically aimed at ruling out hypothyroidism or similar conditions that could cause fatigue.
+8,0,"The doctor did not suggest any investigations related to cardiac function or similar to an ECG, focusing instead on metabolic and systemic causes of fatigue."

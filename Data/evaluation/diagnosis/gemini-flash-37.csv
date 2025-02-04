@@ -1,0 +1,8 @@
+,Score,Explanation
+0,0,The suggested differential diagnoses do not include Diverticulosis or any closely related conditions.
+1,0,The suggested differential diagnoses do not include colorectal cancer or any closely related conditions.
+2,1,"The doctor suggested 'Hemorrhoids' which is the diagnosis in question, thus it is relevant."
+3,1,"The doctor suggested 'Anal Fissure' as a differential diagnosis, which is directly relevant to the query."
+4,1,"The doctor suggested 'Inflammatory Bowel Disease (IBD)', which is directly relevant to the query."
+5,0,The suggested differential diagnoses do not include ischemic colitis or any similar conditions.
+6,0,"The suggested differential diagnoses do not include any conditions similar to angiodysplasia, which is characterized by abnormal blood vessels in the gastrointestinal tract."

@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Hypothyroidism', which is the diagnosis in question."
+1,1,"The doctor suggested 'Iron Deficiency Anemia', which is a type of anemia."
+2,1,"The doctor suggested 'Depression' as a differential diagnosis, which directly matches the criteria for a diagnosis similar to 'Depression'."
+3,0,"None of the suggested diagnoses are similar to 'Chronic Fatigue Syndrome', which is characterized by persistent fatigue not improved by rest and is not explained by other medical conditions."
+4,0,The suggested differential diagnoses do not include any conditions related to sleep disorders or specifically mention sleep apnea.
+5,1,"The doctor suggested 'Iron Deficiency Anemia', which is directly related to 'Iron Deficiency'."
+6,0,"None of the suggested diagnoses are similar to 'Adrenal Insufficiency', as they pertain to different underlying conditions."

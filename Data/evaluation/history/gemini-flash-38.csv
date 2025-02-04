@@ -1,0 +1,20 @@
+,Score,Explanation
+0,1,"The doctor successfully gathered relevant information about the patient's chief complaint of tremors and walking difficulties by asking about the onset, associated symptoms, and medical history."
+1,1,The doctor successfully obtained relevant information about the onset of symptoms by asking the patient when they first noticed the tremors and walking difficulties.
+2,0,The doctor did not specifically ask about the progression of the symptoms or if they have been getting worse over time.
+3,0,"The doctor did not ask specific questions about the characteristics of the tremors, such as whether they occur at rest or improve with intentional movement."
+4,0,"The doctor did not specifically ask about the patient's gait or the nature of their walking difficulties, which are crucial for understanding the symptoms."
+5,0,"The doctor did not ask any questions related to arm swing while walking, which is a relevant aspect of the patient's walking difficulties."
+6,1,"The doctor successfully asked about other symptoms associated with the patient's tremors and walking difficulties, which led to the patient mentioning stiffness and balance issues."
+7,0,"The doctor did not ask about any previous episodes or similar symptoms experienced by the patient, which is crucial for understanding the patient's medical history."
+8,0,"The doctor did not specifically ask about current medications related to the patient's tremors and walking difficulties, which is necessary to determine if the patient is taking any medications for these symptoms."
+9,1,The doctor successfully obtained relevant information about the patient's past medical history by asking about other health issues and medications.
+10,0,"The doctor did not ask any questions related to family history, which is crucial for understanding potential genetic predispositions to conditions like Parkinson's disease."
+11,0,"The doctor did not ask any questions related to the patient's occupation, which is necessary to gather a complete medical history."
+12,1,"The doctor asked about alcohol use, which led to the patient revealing their drinking habits."
+13,0,"The doctor did not ask any questions regarding the use of illicit drugs, which is necessary to obtain a complete medical history."
+14,1,"The doctor asked about smoking history, which led to the patient revealing that he quit smoking 10 years ago."
+15,0,"The doctor did not specifically ask about the duration of tobacco use; instead, the patient volunteered that information when asked if they smoke."
+16,0,"The doctor did not ask any questions related to the patient's exercise habits or physical activity, which would have been relevant to understanding the impact of the tremors and walking difficulties."
+17,0,The doctor did not ask any questions related to the patient's diet or eating habits.
+18,1,"The doctor successfully obtained relevant information about drug allergies by directly asking the patient if they have any allergies, which led to the response of 'No known drug allergies.'"

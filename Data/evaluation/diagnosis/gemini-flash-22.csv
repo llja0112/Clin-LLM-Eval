@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Benign Paroxysmal Positional Vertigo (BPPV)', which is the diagnosis being evaluated for similarity."
+1,0,"The suggested diagnoses do not include any condition that is similar to Orthostatic Hypotension, which specifically involves a drop in blood pressure upon standing."
+2,0,"The suggested diagnoses do not include Meniere's Disease or any closely related conditions, as they focus on other causes of vertigo and balance issues."
+3,0,The suggested diagnoses do not include Vestibular Neuritis or any closely related conditions.
+4,0,The suggested differential diagnoses do not include any mention of medication side effects.
+5,0,The suggested differential diagnoses do not include Cervical Spondylosis or any similar conditions related to cervical spine issues.

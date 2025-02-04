@@ -1,0 +1,11 @@
+,Score,Explanation
+0,0,"The doctor did not suggest a physical exam step that specifically focuses on observing for visible abnormalities like distension, scars, or hernias."
+1,0,The doctor did not suggest auscultation of bowel sounds or any similar examination step related to assessing bowel activity.
+2,1,"The suggestion of 'Palpation of the Abdomen' is similar to the evaluation step mentioned, as both involve assessing for tenderness and masses in the abdomen."
+3,0,"The doctor did not suggest 'Percussion of the abdomen' or provide a similar justification related to detecting fluid, masses, or organomegaly."
+4,1,"The suggestion of 'Abdominal Examination' includes checking for rebound tenderness, which directly relates to assessing for peritoneal irritation."
+5,0,The doctor did not suggest a pelvic examination or provide a justification related to assessing gynecological causes of pain.
+6,0,The doctor did not suggest any physical examination step similar to 'Murphy's sign' or provide a justification related to gallbladder issues.
+7,0,The suggested physical examination steps do not include any assessment similar to the 'Psoas sign' specifically aimed at evaluating appendicitis.
+8,0,The doctor did not suggest any physical examination steps that specifically evaluate for appendicitis or pelvic abscess using the obturator sign.
+9,0,"The doctor did not suggest a rectal examination, which is specifically aimed at assessing for masses, tenderness, or blood related to abdominal or pelvic issues."

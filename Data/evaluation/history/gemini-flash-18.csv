@@ -1,0 +1,18 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's jaundice by asking about the onset, associated symptoms, and medical history, which are crucial for understanding the chief complaint."
+1,1,"The doctor asked the patient to elaborate on when they first noticed the yellowing of their skin and eyes, which directly addresses the onset of the symptom."
+2,1,"The doctor asked the patient to elaborate on when they first noticed the yellowing of their skin and eyes, which indicates an inquiry into the progression of the symptoms."
+3,1,"The doctor asked about other symptoms associated with the yellowing of the skin and eyes, which led to the patient mentioning mild abdominal discomfort."
+4,0,"The doctor did not specifically ask about fatigue or lethargy, which is crucial to understanding the patient's symptoms."
+5,0,The doctor did not specifically ask about appetite changes; they only noted the patient's report of decreased eating without probing further.
+6,1,"The doctor specifically asked about changes in urine color, which led the patient to provide the relevant information about their urine being darker than usual."
+7,1,"The doctor specifically asked about changes in bowel movements or urine color, which led to the patient mentioning that their stool is paler than usual."
+8,0,"The doctor did not ask any questions related to itching, which is a relevant symptom that could be associated with the patient's condition."
+9,0,"The doctor did not ask any questions specifically about previous episodes of jaundice or any similar symptoms, which is necessary to determine if there have been any past occurrences."
+10,1,"The doctor specifically asked about recent travel, which led to the patient confirming there was no recent travel."
+11,0,"The doctor did not specifically ask about recent infections, which is important to determine if the patient has been exposed to any infectious diseases that could cause jaundice."
+12,1,"The doctor specifically asked about current medications, which led to the patient confirming they are not taking any medications."
+13,1,"The doctor effectively inquired about the patient's past medical history by asking if there are any chronic health conditions or medications, which led to the patient confirming no significant past medical history."
+14,1,"The doctor specifically asked about family history of liver disease or jaundice, which led to the patient confirming there is no such family history."
+15,0,"The doctor did not specifically ask about the patient's diet or any recent changes to it, which is necessary to obtain the relevant information."
+16,1,"The doctor specifically asked about drug allergies, which led to the patient confirming they have no known drug allergies."

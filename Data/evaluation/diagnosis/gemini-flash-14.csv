@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Migraine' as a differential diagnosis, which is directly relevant to the request for a diagnosis similar to 'Migraine'."
+1,1,"The doctor suggested 'Tension Headache', which is synonymous with 'Tension-type headache'."
+2,0,The suggested diagnoses do not include 'Cluster headache' or any similar condition.
+3,1,"The doctor suggested 'Sinusitis', which is closely related to 'Sinus headache' as both involve sinus inflammation and can cause similar headache symptoms."
+4,0,The suggested differential diagnoses do not include 'Medication overuse headache' or any similar condition.

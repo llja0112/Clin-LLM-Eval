@@ -1,0 +1,23 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's chief complaint of bloody urine by asking about the characteristics of the blood, associated symptoms, and medical history."
+1,0,"The doctor did not specifically ask about the onset of the symptoms or when they started, which is crucial to understanding the timeline of the patient's condition."
+2,1,"The doctor effectively inquired about the frequency of urination by asking if the blood was constant or intermittent, which aligns with the patient's report of blood occurring every time he urinates."
+3,1,"The doctor specifically asked about the color of the blood in the urine, which led to the patient confirming it was bright red."
+4,1,"The doctor effectively asked about symptoms related to urination, which led the patient to disclose the burning sensation during urination."
+5,1,"The doctor successfully obtained relevant information about associated symptoms such as burning during urination, increased frequency, and urgency, which are crucial for understanding the patient's condition."
+6,1,"The doctor effectively asked about previous urinary tract infections and urinary problems, which led to the patient's response confirming this is the first time experiencing such symptoms."
+7,1,"The doctor effectively asked about recent injuries or surgeries, and the patient confirmed there were none."
+8,0,"The doctor did not inquire about recent travel, which could be relevant to the patient's symptoms."
+9,0,"The doctor did not specifically inquire about recent infections, which is crucial in evaluating the patient's symptoms of bloody urine."
+10,0,"The doctor did not ask about current medications in a clear and direct manner, leading to confusion and an unclear response from the patient."
+11,1,"The doctor effectively gathered relevant information about the patient's past medical history by confirming the absence of previous urinary tract infections and surgeries, as well as inquiring about any significant family history."
+12,1,"The doctor successfully obtained the relevant information about the patient's past surgical history by asking about recent injuries or surgeries, which led to the patient mentioning their appendectomy."
+13,1,"The doctor asked about family history of kidney disease, urinary tract infections, or prostate problems, which directly led to the patient stating there is no family history of kidney or bladder issues."
+14,0,"The doctor did not ask any questions related to the patient's occupation, which is necessary to gather a complete medical history."
+15,1,"The doctor successfully obtained relevant information about the patient's alcohol use by asking if he smokes or drinks alcohol, leading to the patient clarifying that he drinks socially on weekends."
+16,0,The doctor did not inquire about the patient's use of illicit drugs during the history taking.
+17,1,"The doctor directly asked the patient about smoking habits, which led to the patient confirming that he has never smoked."
+18,0,"The doctor did not inquire about the patient's sexual history, which is necessary to determine if the patient is married and monogamous."
+19,0,"The doctor did not ask any questions related to exercise or physical activity, which would have been necessary to obtain the information about the patient's jogging habits."
+20,0,The doctor did not ask any specific questions about the patient's diet or dietary habits to assess if they have a balanced diet or any restrictions.
+21,0,The doctor did not ask any questions regarding drug allergies during the history taking.

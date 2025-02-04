@@ -1,0 +1,9 @@
+,Score,Explanation
+0,1,"The doctor suggested a Chest X-ray with a justification that aligns with evaluating lung pathology, similar to the provided justification."
+1,1,"The doctor suggested Spirometry, which is a type of pulmonary function test (PFT) used to assess lung function and rule out obstructive lung diseases."
+2,0,The doctor did not suggest a CT scan of the chest or provide a justification similar to the one mentioned.
+3,1,"The doctor suggested a sputum culture, which aligns with the goal of identifying bacterial infections related to a productive cough."
+4,1,"The doctor suggested a Complete Blood Count (CBC) which is relevant for assessing signs of infection or inflammation, aligning with the justification provided."
+5,0,The doctor did not suggest any investigations similar to C-reactive protein (CRP) or Erythrocyte sedimentation rate (ESR) that assess for inflammation or infection.
+6,0,"The doctor did not suggest any investigations related to allergy testing, which would be relevant for ruling out allergic causes of chronic cough."
+7,0,"The doctor did not suggest any investigations related to cardiac causes, such as an echocardiogram, which would be relevant given the history of hypertension."

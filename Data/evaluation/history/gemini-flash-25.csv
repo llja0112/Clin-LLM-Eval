@@ -1,0 +1,20 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the fever, its duration, associated symptoms, and potential exposure to illness, addressing the chief complaint comprehensively."
+1,0,"The doctor did not specifically ask about the onset of the fever, which is crucial to determine the timeline of Emily's symptoms."
+2,1,"The doctor effectively communicated the progression of Emily's fever by stating it started mild and has been getting worse, which indicates that the relevant information was obtained."
+3,1,"The doctor effectively gathered information about associated symptoms such as runny nose, lethargy, and ear tugging by asking relevant follow-up questions regarding Emily's condition."
+4,1,"The doctor effectively addressed the potential ear discomfort by asking about ear pain, which is relevant given the patient's behavior of tugging at her ear."
+5,1,"The doctor effectively gathered information about Emily's appetite changes by noting that she has been eating less than usual, which was directly addressed in the conversation."
+6,0,"The doctor did not specifically ask about Emily's sleep patterns or changes in her sleep behavior, which is crucial to understanding her condition."
+7,1,"The doctor effectively communicated that Emily had normal urination and no diarrhea or constipation, which indicates that the relevant information was obtained during the history taking."
+8,0,"The doctor did not inquire about the presence of a rash, which is relevant information to assess Emily's condition."
+9,0,"The doctor did not ask any questions about cough, which is necessary to confirm the absence of this symptom."
+10,1,"The doctor clearly stated that Emily has not had any vomiting or diarrhea, which indicates that the relevant information regarding vomiting or nausea was obtained."
+11,1,The doctor successfully asked about previous similar episodes and received a clear response indicating there were none.
+12,1,"The doctor inquired about recent illnesses at Emily's daycare, which indicates that they are considering her daycare attendance as a relevant factor in her current symptoms."
+13,1,The doctor successfully gathered information about Emily's exposure to sick individuals by confirming that some children at her daycare have been sick recently.
+14,1,"The doctor confirmed that Emily is up to date with her vaccinations, which indicates that the immunization status was addressed during the history taking."
+15,1,The doctor effectively gathered relevant information about Emily's past medical history by confirming that she has not had any previous similar episodes and is up to date with her vaccinations.
+16,0,"The doctor did not inquire about Emily's family history of similar symptoms, which is relevant information for assessing her condition."
+17,1,"The doctor effectively asked about Emily's current medications, confirming that she is not taking any medications at the moment."
+18,1,"The doctor asked specific questions about allergies, confirming that Emily has no known allergies."

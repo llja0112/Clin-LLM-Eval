@@ -1,0 +1,12 @@
+,Score,Explanation
+0,0,"The doctor did not suggest 'Inspection of the abdomen' specifically, but rather an 'Abdominal Examination' which may include inspection but is not identical."
+1,0,The doctor did not suggest auscultation of the abdomen or any similar step that involves listening for bowel sounds.
+2,1,The suggestion of 'Abdominal Examination' is similar to 'Palpation of the abdomen' as both aim to assess for tenderness and other abnormalities in the abdomen.
+3,0,"The doctor did not suggest 'Percussion of the abdomen' or any similar examination step that specifically aims to detect fluid, masses, or organomegaly."
+4,0,The doctor did not suggest any physical examination step that specifically checks for peritoneal irritation or is similar to the rebound tenderness test.
+5,0,The doctor did not suggest any examination step that specifically assesses for referred pain in the right lower quadrant or appendicitis.
+6,0,The doctor did not suggest any examination steps that specifically evaluate for irritation of the iliopsoas muscle or appendicitis.
+7,0,The doctor did not suggest any physical examination step similar to the 'Obturator sign' or with a justification related to testing for irritation of the obturator internus muscle.
+8,0,The doctor did not suggest any examination step that specifically addresses gallbladder inflammation or includes a similar justification.
+9,0,"The doctor did not suggest a rectal examination or provide a justification related to assessing for masses, tenderness, or blood in the context of abdominal pathology."
+10,0,The doctor did not suggest a pelvic examination or any similar step related to evaluating gynecological causes of abdominal pain.

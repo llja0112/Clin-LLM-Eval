@@ -1,0 +1,9 @@
+,Score,Explanation
+0,1,"The doctor suggested a Head CT scan to rule out brain injury or neurological abnormalities, which aligns with the need to assess for intracranial issues following a fainting episode."
+1,1,"The doctor suggested an Electrocardiogram (ECG) to assess for cardiac abnormalities, which is similar to the justification of assessing for cardiac arrhythmias related to dizziness and loss of consciousness."
+2,0,The doctor did not suggest a Complete Blood Count (CBC) or any similar investigation aimed at checking for signs of infection or anemia.
+3,0,"The doctor did not suggest an electrolyte panel, which is relevant for identifying electrolyte imbalances that could cause dizziness and confusion."
+4,1,"The doctor suggested a blood glucose test with the justification to rule out hypoglycemia as a possible cause of the fainting episode, which is similar to the provided criteria."
+5,0,The doctor did not suggest a toxicology screen or any investigation with a similar justification to rule out substance use.
+6,0,The doctor did not suggest an MRI of the brain or provide a justification related to further evaluation of subtle brain injuries or pathologies if the CT scan is inconclusive.
+7,1,"The doctor suggested blood pressure monitoring to assess for fluctuations that may have caused the fainting episode, which aligns with the similar justification provided."

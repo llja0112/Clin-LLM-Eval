@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,The doctor suggested 'Audiometry' with a justification that aligns closely with the required justification for assessing hearing loss.
+1,1,"The doctor suggested Tympanometry, which is directly related to evaluating the condition of the middle ear and mobility of the eardrum, thus aligning with the specified criteria."
+2,0,The doctor did not suggest 'Otoscopy' or any similar investigation aimed at visually inspecting the ear canal and eardrum.
+3,1,"The doctor suggested imaging studies (CT or MRI) with a justification that aligns with ruling out structural abnormalities in the ear, which is similar to the specified investigation."
+4,1,"The doctor suggested blood tests to rule out underlying medical conditions contributing to hearing loss, which aligns with the justification for systemic causes."
+5,0,"The doctor did not suggest a review of current medications, which would be relevant to assess potential drug side effects contributing to hearing loss."

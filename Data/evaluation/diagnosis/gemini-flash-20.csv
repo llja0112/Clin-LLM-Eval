@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,"Acute Bronchitis is directly suggested by the doctor, which is similar to the diagnosis being evaluated."
+1,1,"The doctor suggested 'Pneumonia', which is directly relevant to the query."
+2,1,"The diagnosis 'Upper Respiratory Tract Infection (URI)' is explicitly mentioned by the doctor, indicating that a relevant differential diagnosis was suggested."
+3,0,The suggested diagnoses do not include 'Post-infectious cough' or any closely related condition.
+4,0,The suggested differential diagnoses do not include asthma or any similar condition.
+5,0,"The suggested differential diagnoses do not include any conditions related to gastrointestinal issues or reflux, such as Gastroesophageal reflux disease (GERD)."

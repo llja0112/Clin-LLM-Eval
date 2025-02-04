@@ -1,0 +1,23 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the chief complaint of multiple episodes of diarrhea by asking specific questions about the duration, characteristics, and associated symptoms."
+1,1,The doctor successfully obtained the relevant information about the onset of diarrhea by asking the patient how long the symptoms have been present.
+2,0,"The doctor did not specifically ask about the frequency of diarrhea episodes, which is crucial information to assess the severity of the condition."
+3,1,"The doctor specifically asked about the consistency of the stools, confirming that they are watery, which is the relevant information needed."
+4,1,"The doctor clearly stated that there was no blood in the stools, which indicates that the relevant information was obtained."
+5,0,The doctor did not specifically ask about the presence of mucus in the stools during the history taking.
+6,0,"The doctor did not specifically ask about the frequency or details of the vomiting episodes, which is necessary to obtain the relevant information."
+7,1,"The doctor successfully obtained relevant information about the fever by asking about other symptoms, which led to the patient revealing that Emily has had a fever since yesterday."
+8,0,"The doctor did not specifically ask about Emily's appetite or eating habits, which is necessary to fully understand the context of her 'not eating well'."
+9,0,"The doctor did not ask any questions regarding urine output, which is crucial for assessing dehydration in a patient with diarrhea."
+10,1,"The doctor effectively confirmed that Emily had not traveled recently by asking about recent travel, which is relevant to the assessment of her symptoms."
+11,1,The doctor successfully obtained the relevant information regarding contact with sick individuals by confirming that Emily has not had any such contact.
+12,1,The doctor successfully obtained relevant information about Emily's recent dietary changes by asking about her starting solid foods a week ago.
+13,0,The doctor did not ask any questions related to breastfeeding or changes in breastfeeding patterns.
+14,0,"The doctor did not ask any questions regarding formula feeding or breastfeeding, which are important aspects of the patient's dietary history."
+15,0,"The doctor did not inquire about Emily's past medical history, which is necessary to determine if there are any significant past medical issues."
+16,0,"The doctor did not ask any questions related to the birth history of Emily, such as details about the delivery or gestational age."
+17,0,The doctor did not ask any specific questions regarding Emily's developmental milestones to assess if she is normal for her age.
+18,0,The doctor did not ask any questions regarding Emily's vaccination status during the history taking.
+19,0,The doctor did not inquire about the family history of gastrointestinal issues during the conversation.
+20,1,The doctor successfully obtained relevant information about Emily's medication history by confirming that she is not on any regular medications.
+21,0,The doctor did not ask any questions regarding allergies during the history taking conversation.

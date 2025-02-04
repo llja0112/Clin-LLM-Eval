@@ -1,0 +1,7 @@
+,Score,Explanation
+0,1,"The doctor suggested 'Viral gastroenteritis', which is similar to 'Acute viral gastroenteritis'."
+1,0,"The suggested differential diagnoses do not include dehydration secondary to diarrhoea, which is a common complication of viral gastroenteritis."
+2,0,"The doctor did not suggest any diagnosis similar to 'Bacterial gastroenteritis', as all suggested diagnoses are viral or related to food intolerance."
+3,1,"The doctor suggested 'Food allergy or intolerance', which is directly related to the concept of food intolerance or allergy."
+4,1,"The doctor suggested 'Rotavirus infection', which is directly similar to the diagnosis being evaluated."
+5,0,"The doctor did not suggest any diagnosis that is similar to 'Lactose intolerance', as the provided differential diagnoses focus on viral infections and food allergies rather than specific intolerances."

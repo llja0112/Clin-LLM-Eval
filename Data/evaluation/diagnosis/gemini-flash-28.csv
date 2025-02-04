@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"The diagnosis 'Medication Non-Adherence' is explicitly mentioned by the doctor, indicating that it was considered as a relevant differential diagnosis."
+1,0,The suggested diagnoses do not include 'Hypertensive headache' or any closely related condition.
+2,1,"The doctor suggested 'Secondary Hypertension', which is directly relevant to the query."
+3,0,"The suggested differential diagnoses do not include any conditions similar to 'Chronic fatigue syndrome', which is characterized by persistent fatigue and is not directly related to hypertension or medication adherence."
+4,0,The suggested differential diagnoses do not include any mention of 'Depression' or related conditions.

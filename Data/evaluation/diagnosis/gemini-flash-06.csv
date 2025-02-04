@@ -1,0 +1,6 @@
+,Score,Explanation
+0,0,"The doctor did not suggest any diagnosis similar to 'Type 1 Diabetes Mellitus', as all listed diagnoses are related to Type 2 Diabetes or conditions affecting glucose metabolism without indicating Type 1."
+1,1,"The doctor suggested 'Gestational Diabetes', which is a form of diabetes that can occur during pregnancy and shares similarities with Type 2 Diabetes Mellitus."
+2,0,"The suggested differential diagnoses do not include Diabetes Insipidus, which is a distinct condition characterized by excessive thirst and urination due to a deficiency of antidiuretic hormone."
+3,1,"The doctor suggested 'Stress-induced Hyperglycemia', which is directly similar to the diagnosis being assessed."
+4,0,"The suggested differential diagnoses do not include any conditions related to Cushing's Syndrome, which is characterized by hypercortisolism and is not directly related to the diabetes types mentioned."

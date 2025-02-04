@@ -1,0 +1,19 @@
+,Score,Explanation
+0,1,"The doctor effectively addressed the patient's chief complaint by asking about their fatigue, which is a relevant concern in diabetes management."
+1,0,The doctor did not specifically ask about the onset of fatigue or if it has been present for the past few weeks.
+2,0,"The doctor did not ask any questions related to blood sugar monitoring, which is crucial for managing diabetes."
+3,0,The doctor did not ask any questions related to the patient's dietary habits or adherence to their diet plan.
+4,1,"The doctor specifically asked about the patient's exercise routine, which led to the patient revealing that they do not have a regular exercise routine."
+5,1,"The doctor directly asked about the patient's current medications, including dosage and frequency, which allowed the patient to disclose their adherence issues."
+6,0,"The doctor did not ask any specific questions about symptoms of hypoglycemia, such as feelings of shakiness or sweating."
+7,0,"The doctor did not ask specific questions about symptoms of hyperglycemia, such as increased thirst or frequent urination."
+8,1,"The doctor effectively asked about recent changes in health, including weight, which led to the patient's response about not noticing significant weight changes."
+9,1,"The doctor specifically asked about changes in vision, which prompted the patient to respond about their current state regarding vision."
+10,0,"The doctor did not ask any questions related to foot care routine, which is important for diabetes management."
+11,0,"The doctor did not specifically inquire about the patient's past medical history, including the duration of diabetes or hypertension."
+12,0,"The doctor did not ask any questions regarding the patient's past surgical history, including the appendectomy."
+13,1,"The doctor successfully asked about the patient's family history of medical conditions, which led to the patient revealing that their mother had diabetes and their father had hypertension."
+14,0,"The doctor did not ask any questions related to the patient's occupation, which is necessary to gather a complete history."
+15,1,"The doctor specifically asked about alcohol use, which led to the patient providing information about their drinking habits."
+16,1,"The doctor directly asked about smoking and drinking alcohol, which led to the patient revealing their smoking history."
+17,1,The doctor successfully asked about drug allergies and received a clear response of 'None' from the patient.

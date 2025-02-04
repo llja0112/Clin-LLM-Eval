@@ -1,0 +1,20 @@
+,Score,Explanation
+0,1,"The doctor effectively asked relevant questions about the patient's sleep issues, including the duration, changes in sleep patterns, and contributing factors such as stress and caffeine intake."
+1,1,"The doctor specifically asked about the duration of the patient's sleep issues, which aligns with the onset of the symptoms."
+2,1,"The doctor asked relevant questions about the patient's sleep patterns, changes in sleep schedule, and factors affecting sleep, which helped to gather information about the difficulty falling asleep and frequent awakenings."
+3,1,"The doctor specifically asked about changes in the patient's daily routine, including diet and caffeine intake, which led to the patient revealing their afternoon coffee consumption."
+4,1,"The doctor specifically asked about the patient's use of a smartphone before bed, which directly pertains to the issue of screen time and its potential impact on sleep."
+5,1,"The doctor specifically asked about daytime symptoms, including tiredness and difficulty concentrating, which directly relates to the patient's feelings of being tired and slightly anxious."
+6,1,"The doctor specifically asked about changes in the patient's life, including stress and anxiety, which led the patient to disclose feelings of anxiety related to work and personal life."
+7,1,"The doctor specifically asked about changes in the patient's daily routine, including exercise, which led to the patient revealing that their exercise routine is occasional and not very regular."
+8,1,"The doctor specifically asked about changes in the patient's daily routine, including diet, which led to the patient revealing their coffee consumption in the afternoon."
+9,0,"The doctor did not ask any questions regarding alcohol use or social drinking, which is relevant information for assessing the patient's sleep issues."
+10,0,The doctor did not ask any questions regarding illicit drug use during the history taking.
+11,0,The doctor did not ask any questions regarding tobacco use during the history taking.
+12,1,"The doctor specifically asked about any other health problems and current medications, which led to the patient confirming they have no significant past medical history."
+13,0,"The doctor did not inquire about the patient's family history, specifically regarding sleep disorders."
+14,1,"The doctor asked about current medications and any recent health problems, which is relevant information for assessing the patient's sleep issues."
+15,0,"The doctor did not ask any specific questions about the patient's occupation, which is important information to gather in the context of sleep issues."
+16,1,"The doctor effectively inquired about recent changes in the patient's life, specifically asking about stress, anxiety, and any changes in daily routine, which led to the patient revealing their new job and move to a new city."
+17,0,"The doctor did not inquire about the patient's sleep environment, such as whether the room is quiet and dark, which is essential information for understanding the patient's sleep issues."
+18,0,"The doctor did not ask about any previous treatments for sleep issues, including the use of over-the-counter sleep aids."

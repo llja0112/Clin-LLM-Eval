@@ -1,0 +1,10 @@
+,Score,Explanation
+0,0,The doctor did not suggest a general inspection or a similar step that assesses the patient's overall appearance.
+1,0,The doctor did not suggest any physical examination step similar to 'Vital signs assessment' or provide a justification related to confirming recorded vitals.
+2,0,"The doctor did not suggest a thyroid examination specifically, but rather a general neck examination without a focus on thyroid dysfunction."
+3,0,The doctor did not suggest a cardiovascular examination or provide a justification related to assessing for heart failure.
+4,0,"The doctor did not suggest a respiratory examination, which is necessary to rule out respiratory causes of fatigue or edema."
+5,0,The doctor did not suggest an abdominal examination with a justification related to organomegaly or ascites contributing to weight gain.
+6,1,The suggestion to examine the lower extremities is similar to the peripheral edema assessment as both aim to evaluate for signs of edema.
+7,0,The doctor did not suggest a neurological examination or provide a justification related to assessing neurological signs.
+8,0,The doctor did not suggest a skin examination or provide a justification related to assessing skin changes associated with hypothyroidism.

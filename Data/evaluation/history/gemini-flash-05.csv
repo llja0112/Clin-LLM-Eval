@@ -1,0 +1,21 @@
+,Score,Explanation
+0,1,"The doctor effectively addressed the chief complaint by confirming the patient's pregnancy and asking relevant questions about her health, medications, and concerns related to the pregnancy."
+1,0,"The doctor did not ask about the patient's last menstrual period, which is crucial information for assessing the pregnancy timeline."
+2,0,"The doctor did not ask any questions regarding the patient's menstrual cycle regularity, which is crucial information for understanding her pregnancy and overall health."
+3,0,"The doctor did not ask any questions related to contraceptive use, which would have been necessary to obtain the information about the patient's previous use of the pill and missed doses."
+4,0,"The doctor did not ask any questions about previous pregnancies, which is necessary to determine if this is the patient's first pregnancy."
+5,1,"The doctor asked about any concerns regarding the pregnancy, which led the patient to disclose her symptoms of nausea and breast tenderness."
+6,0,"The doctor did not specifically ask about whether the pregnancy was planned or unplanned, which is crucial to understanding the patient's emotional and psychological state regarding the pregnancy."
+7,0,The doctor did not ask any questions regarding the patient's partner's reaction to the pregnancy.
+8,0,"The doctor did not specifically ask about family history of pregnancy complications, which is crucial information for assessing potential risks."
+9,1,"The doctor successfully asked about current medications, including over-the-counter medications and supplements, which led to the patient confirming that she is only taking a multivitamin."
+10,1,"The doctor effectively inquired about the patient's past medical history by asking about chronic health conditions, surgeries, and significant medical history, which led to the patient confirming they are generally healthy with no major issues."
+11,1,"The doctor successfully asked about past surgical history by inquiring if the patient had any recent surgeries or procedures, which is relevant to the patient's medical history."
+12,1,"The doctor asked about the family medical history, which allowed the patient to confirm that there are no significant health conditions that run in the family."
+13,0,The doctor did not ask any questions related to the patient's occupation during the history taking.
+14,1,"The doctor asked about alcohol use, which led the patient to disclose their past drinking habits and the decision to stop since finding out about the pregnancy."
+15,1,"The doctor specifically asked the patient if they use any recreational drugs, which directly addresses the concern of illicit drug use."
+16,1,"The doctor directly asked the patient if they smoke or use any tobacco products, which led to the patient confirming they do not smoke."
+17,0,"The doctor did not ask any questions related to exercise, which would have included inquiries about the patient's physical activity or exercise routine."
+18,0,"The doctor did not ask any specific questions about the patient's diet or eating habits, which would have been necessary to obtain the information about her dietary practices."
+19,1,"The doctor successfully asked the patient about known allergies, which includes drug allergies, and the patient responded with 'I don't have any known allergies,' indicating that there are none."

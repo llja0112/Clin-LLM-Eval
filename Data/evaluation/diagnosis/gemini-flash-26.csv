@@ -1,0 +1,9 @@
+,Score,Explanation
+0,1,"Chronic Bronchitis is a component of Chronic Obstructive Pulmonary Disease (COPD), thus the suggestion is relevant."
+1,1,The doctor suggested 'Chronic Bronchitis' which is the relevant differential diagnosis.
+2,1,"The doctor suggested 'Asthma' as one of the differential diagnoses, which is directly relevant to the query."
+3,1,"Postnasal drip is a common symptom associated with various conditions, and the suggested diagnosis of 'Postnasal Drip' is directly related to 'Post-nasal Drip Syndrome', indicating the doctor recognized a relevant differential diagnosis."
+4,0,"The suggested differential diagnoses do not include any conditions related to Gastroesophageal Reflux Disease (GERD), which typically involves symptoms like heartburn and regurgitation, rather than respiratory issues."
+5,0,"The suggested differential diagnoses do not include any conditions that are similar to 'Lung Cancer', as they primarily focus on chronic respiratory conditions rather than malignancies."
+6,0,"The suggested diagnoses do not include any conditions related to interstitial lung disease, which primarily involves lung tissue scarring and inflammation."
+7,0,The suggested differential diagnoses do not include any mention of medication-induced cough or related conditions.

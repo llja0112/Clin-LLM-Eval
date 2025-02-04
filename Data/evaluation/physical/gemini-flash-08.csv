@@ -1,0 +1,10 @@
+,Score,Explanation
+0,0,The doctor did not suggest a 'General appearance assessment' or a similar step to evaluate the patient's overall health status and level of fatigue.
+1,0,The doctor did not suggest any physical examination step that directly relates to measuring vital signs or assessing for changes or abnormalities in vital signs.
+2,0,"The doctor did not suggest a physical examination step specifically focused on assessing complications related to hypertension and diabetes, such as peripheral vascular disease."
+3,0,"The doctor did not suggest a respiratory examination, which is necessary to assess for respiratory complications."
+4,0,The doctor did not suggest an abdominal examination or provide a justification related to checking for organomegaly or abdominal issues.
+5,1,"The doctor suggested a neurological examination to assess for signs of peripheral neuropathy, which aligns with the need to evaluate for diabetic neuropathy given the patient's history of diabetes."
+6,0,"The doctor did not suggest a foot examination, which is specifically aimed at assessing diabetic foot complications."
+7,0,The doctor did not suggest an ophthalmic examination or any similar step related to eye health or diabetic retinopathy.
+8,0,"The doctor did not suggest a skin examination, which is specifically aimed at identifying skin changes or infections related to diabetes."

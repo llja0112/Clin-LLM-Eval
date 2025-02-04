@@ -1,0 +1,10 @@
+,Score,Explanation
+0,1,"The doctor suggested a Complete Blood Count (CBC) to rule out underlying medical conditions, which aligns with the justification of checking for infections or hematological issues."
+1,1,"The doctor suggested thyroid function tests to rule out thyroid disorders that could be causing hallucinations, which aligns with the goal of excluding thyroid dysfunction related to psychiatric symptoms."
+2,1,"The doctor suggested a drug screen, which is similar to a urine drug screen, to rule out substance abuse that could be causing the hallucinations."
+3,1,The doctor suggested an electrolyte panel with a justification that aligns closely with identifying electrolyte imbalances that could contribute to the patient's hallucinations.
+4,0,The doctor did not suggest any investigations related to liver function or hepatic issues that could be causing psychiatric symptoms.
+5,1,"The doctor suggested brain imaging (MRI or CT scan) with the justification to rule out structural abnormalities in the brain, which aligns with the criteria provided."
+6,0,The doctor did not suggest an Electroencephalogram (EEG) or any similar investigation to assess for seizure activity or other neurological conditions related to hallucinations.
+7,1,"The doctor suggested a psychiatric evaluation, which aligns with the need to assess the patient's mental health status comprehensively and consider psychiatric disorders."
+8,0,"The doctor did not suggest a sleep study or any investigations related to sleep disorders, which would be relevant given the potential impact of sleep issues on mental health."

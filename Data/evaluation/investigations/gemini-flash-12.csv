@@ -1,0 +1,6 @@
+,Score,Explanation
+0,1,"The doctor suggested an X-ray of the cervical spine with a justification that aligns with assessing for fractures or structural abnormalities, which is similar to the provided justification."
+1,1,"The doctor suggested an MRI of the cervical spine, which aligns with the evaluation of soft tissue structures and potential injuries or degeneration."
+2,0,"The doctor did not suggest a CT scan of the cervical spine, which would be relevant for assessing fractures not visible on X-ray."
+3,0,"The doctor did not suggest any investigations related to bone density or osteoporosis assessment, which is crucial given the patient's age and history of a fall."
+4,1,"The doctor suggested blood tests to rule out underlying medical conditions, which aligns with checking for inflammatory markers related to neck pain."

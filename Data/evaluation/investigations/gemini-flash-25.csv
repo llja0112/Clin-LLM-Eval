@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The doctor suggested a Complete Blood Count (CBC) to check for signs of infection, which aligns with the justification provided."
+1,0,"The doctor did not suggest any investigations that specifically evaluate the level of inflammation in the body, such as C-reactive protein (CRP), which would help differentiate between bacterial and viral infections."
+2,0,The doctor did not suggest any investigations similar to 'Blood culture' or with a justification focused on identifying bacterial pathogens in the bloodstream.
+3,0,The doctor did not suggest any investigations similar to 'Urinalysis' with the justification of ruling out a urinary tract infection.
+4,0,"The doctor did not suggest any investigations similar to a throat swab for culture, as the focus was on ear examinations and other tests unrelated to throat infections."
+5,1,"The doctor suggested an otoscopic examination, which is similar to 'Ear examination with otoscope' and serves the purpose of checking for signs of inflammation or infection in the ear."
+6,0,The doctor did not suggest any investigations similar to 'Chest X-ray' or provide a justification related to ruling out pneumonia.

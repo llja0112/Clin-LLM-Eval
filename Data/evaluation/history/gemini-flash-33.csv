@@ -1,0 +1,22 @@
+,Score,Explanation
+0,1,"The doctor effectively explored the patient's chief complaint of fatigue by asking about its duration, severity, associated symptoms, and any factors that worsen or alleviate it."
+1,1,"The doctor successfully asked about the duration of the fatigue, which led the patient to specify that it has been ongoing for a few weeks."
+2,1,"The doctor successfully inquired about the duration of the patient's fatigue, confirming it has been persistent for a few weeks."
+3,1,"The doctor specifically asked about the duration and progression of the fatigue, which allowed the patient to describe it as gradually worsening."
+4,1,"The doctor directly asked about the patient's sleep quality by inquiring if there were any changes in sleep, which led to the patient revealing their poor sleep for the past few weeks."
+5,1,"The doctor specifically asked about changes in appetite, which led to the patient revealing a recent loss of appetite."
+6,0,The doctor did not specifically ask about weight changes or weight loss during the conversation.
+7,1,"The doctor effectively inquired about the patient's stress levels by asking if there were any changes in mood, which led to the patient revealing increased stress."
+8,1,"The doctor specifically asked about the patient's physical activity and how it was affected by fatigue, which directly led to the patient mentioning the reduction in physical activity due to feeling tired."
+9,1,"The doctor effectively inquired about associated symptoms by asking if the patient noticed any changes in sleep, appetite, mood, pain, swelling, or bowel movements, which led to the patient confirming no significant symptoms like cough or fever."
+10,1,"The doctor successfully asked about current medications, confirming that the patient does not take any medications, vitamins, or supplements."
+11,1,"The doctor effectively inquired about the patient's past medical history by asking about any significant past medical issues, recent illnesses, or surgeries, which led to the patient confirming no significant past medical issues."
+12,1,The doctor successfully obtained the relevant information about the patient's past surgical history by asking about any significant past medical issues or surgeries.
+13,1,"The doctor specifically asked about family history of medical conditions, which led to the patient confirming no known family history of chronic illnesses."
+14,0,"The doctor did not ask any questions related to the patient's occupation, which is necessary to gather a complete medical history."
+15,1,"The doctor specifically asked the patient about alcohol use, which led to the patient disclosing that they drink alcohol occasionally, socially."
+16,0,"The doctor did not ask about illicit drug use, which is necessary to determine if the patient has ever used them."
+17,1,"The doctor specifically asked the patient about smoking habits, which led to the patient confirming that they have never smoked."
+18,0,The doctor did not specifically ask about the patient's previous exercise habits or how they have changed due to fatigue.
+19,1,"The doctor successfully inquired about the patient's appetite, which directly relates to their diet, and the patient confirmed a loss of appetite."
+20,1,"The doctor specifically asked about allergies, which led to the patient confirming they have no known allergies."

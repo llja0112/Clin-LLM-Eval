@@ -1,0 +1,10 @@
+,Score,Explanation
+0,0,The doctor did not suggest a general inspection step that assesses the patient's overall appearance and level of distress.
+1,1,"The doctor suggested assessing respiratory rate and temperature, which are components of vital signs assessment, thus aligning with the similar step."
+2,0,The doctor did not suggest any physical examination step related to the inspection of the oropharynx or similar justifications regarding infection or post-nasal drip.
+3,1,The suggestion to palpate lymph nodes is similar to the provided example as both aim to identify lymphadenopathy that could indicate infection or malignancy.
+4,0,"The doctor suggested 'Auscultation of the lungs' but did not provide a justification that specifically mentions listening for abnormal breath sounds like crackles or wheezes, which is a key aspect of the evaluation."
+5,0,The doctor did not suggest any physical examination step similar to 'Percussion of the chest' or provide a justification related to assessing for areas of dullness in the lungs.
+6,0,"The doctor did not suggest an examination of the extremities, nor did they provide a justification related to checking for signs of cyanosis or clubbing."
+7,0,The doctor did not suggest any physical examination step related to the abdomen or its examination.
+8,0,The doctor did not suggest any physical exam step related to 'Examination of the skin' or similar justifications regarding rashes or lesions.

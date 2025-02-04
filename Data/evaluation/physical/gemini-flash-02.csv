@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,"The suggested abdominal examination is similar to the evaluation of tenderness, masses, or organomegaly related to the kidneys or bladder."
+1,0,"The doctor did not suggest a physical exam step that specifically assesses for tenderness in the kidney area, such as CVA tenderness."
+2,1,"The suggested Rectal Examination is similar to a Genitourinary examination as it assesses for abnormalities related to the prostate, which is part of the genitourinary system."
+3,0,The doctor did not suggest any physical examination step similar to 'Vital signs assessment' or provide a justification related to hemodynamic stability or signs of fever or infection.
+4,0,The doctor did not suggest a skin examination or provide a justification related to assessing for signs of pallor or jaundice.
+5,0,The doctor did not suggest a physical exam step similar to 'Peripheral edema check' or provide a justification related to assessing for swelling in the extremities.
+6,0,"The doctor did not suggest a lymph node examination, nor did they provide a justification related to lymphadenopathy."

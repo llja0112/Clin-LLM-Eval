@@ -1,0 +1,24 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's chief complaint of right calf pain by asking about the onset, characteristics, and associated symptoms of the pain."
+1,1,"The doctor asked about the onset of the pain by inquiring when it started, which led the patient to provide the relevant information that it began two days ago."
+2,1,"The doctor effectively asked about the onset of the pain and whether there were any recent injuries, which led the patient to describe the precipitating event of walking for a long time."
+3,1,"The doctor effectively inquired about the nature of the pain and its progression by asking about when it started and how it worsens with activity, leading to the patient confirming that the pain has been constant since it began."
+4,0,"The doctor did not ask about the severity of the pain on a scale of 1 to 10, which is crucial for understanding the patient's pain level."
+5,1,The doctor specifically asked about the location of the pain by referring to the 'right calf' multiple times throughout the conversation.
+6,0,"The doctor did not ask about radiation of the pain, which is essential to determine if the pain is localized or if it radiates to other areas."
+7,0,"The doctor did not specifically ask about the quality of the pain, such as whether it is sharp or throbbing, which is essential for a complete history taking."
+8,1,"The doctor specifically asked about the pain's intensity during walking and standing, which directly relates to the alleviating and exacerbating factors of the patient's pain."
+9,1,"The doctor specifically asked about swelling in the calf, which led to the patient confirming the presence of mild swelling."
+10,0,"The doctor did not ask about previous episodes of similar pain, which is crucial to understanding the patient's medical history regarding this issue."
+11,1,"The doctor successfully asked about current medications, which led the patient to disclose their use of ibuprofen for pain."
+12,1,"The doctor effectively asked about the patient's past medical history by inquiring about any significant medical conditions, which led to the patient confirming they have no significant past medical history."
+13,0,The doctor did not ask any questions regarding the patient's past surgical history.
+14,1,"The doctor specifically asked about family history of blood clots or DVT, which prompted the patient to share relevant family medical history, including heart disease and diabetes."
+15,0,"The doctor did not ask any questions related to the patient's occupation, which is necessary to gather a complete medical history."
+16,0,"The doctor did not ask any questions regarding alcohol use, which is relevant information for assessing the patient's overall health and potential risk factors."
+17,0,The doctor did not ask any questions regarding the use of illicit drugs during the history taking.
+18,1,"The doctor specifically asked the patient if they smoke, which directly led to the patient stating they do not smoke."
+19,0,"The doctor did not ask any questions related to the patient's exercise habits or activity levels, which would have been necessary to obtain the information about regular walking."
+20,0,The doctor did not ask any questions related to the patient's diet during the history taking.
+21,1,"The doctor specifically asked about drug allergies, which led to the patient confirming they have no known drug allergies."
+22,0,"The doctor did not ask any questions about what a Doppler ultrasound is, which would have provided the patient with clarity on the procedure."

@@ -1,0 +1,6 @@
+,Score,Explanation
+0,0,"The suggested diagnoses do not include any mention of a fracture, which is a distinct condition from sprains or strains."
+1,1,"The doctor suggested 'Concussion', which is directly similar to the term 'Concussion' itself."
+2,0,The suggested diagnoses do not include 'Cervical spine injury' or any closely related conditions.
+3,1,The diagnosis of 'Right arm sprain or strain' is similar to 'Soft tissue injury or contusion' as both involve damage to soft tissues.
+4,0,"The suggested diagnoses do not include any conditions related to 'Intracranial hemorrhage', which is a specific type of brain injury."

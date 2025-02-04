@@ -1,0 +1,25 @@
+,Score,Explanation
+0,1,"The doctor effectively gathered relevant information about the patient's chronic cough by asking about its characteristics, associated symptoms, and potential triggers."
+1,0,"The doctor did not specifically ask about the onset of the cough or when it started, which is necessary to obtain the information that it began several months ago."
+2,0,"The doctor did not specifically ask about the duration of the cough, which is essential to determine if it is persistent."
+3,0,The doctor did not ask any specific questions about the progression of the cough or whether it has been gradually worsening over time.
+4,1,"The doctor successfully asked about the nature of the cough, specifically whether it was dry or productive, and received the relevant information from the patient."
+5,1,"The doctor successfully obtained information about sputum production by asking the patient to describe their cough, which led to the patient mentioning that it is occasionally productive with clear or white sputum."
+6,1,"The doctor successfully inquired about associated symptoms by asking if the patient had experienced any other symptoms along with the cough, which included fatigue and throat clearing."
+7,1,"The doctor successfully asked about shortness of breath, which led to the patient providing the detail that it occurs occasionally, especially with exertion."
+8,0,The doctor did not ask any questions related to wheezing during the history taking.
+9,1,"The doctor effectively gathered information about the patient's symptoms, including the absence of chest pain, which is relevant to the patient's chronic cough."
+10,1,"The doctor successfully inquired about the presence of fever as a symptom, which led to the patient reporting a low-grade fever of 99.1°F."
+11,0,The doctor did not inquire about night sweats during the history taking conversation.
+12,0,The doctor did not ask any questions related to weight loss during the history taking conversation.
+13,0,"The doctor did not ask any questions regarding the patient's smoking history, which is essential for understanding the potential causes of the chronic cough."
+14,1,"The doctor asked about recent travel and exposure to anyone who was sick, which is relevant to assessing environmental exposures."
+15,0,The doctor did not specifically ask about the patient's past medical history or the management of hypertension with medication.
+16,0,"The doctor did not ask any questions related to the patient's past surgical history, including whether the patient had an appendectomy."
+17,1,"The doctor successfully obtained relevant family history information by asking about significant health conditions that run in the family, leading to the patient revealing that the father had COPD and the mother has hypertension."
+18,0,"The doctor did not ask any questions related to the patient's occupation, which is necessary to gather a complete medical history."
+19,0,"The doctor did not ask any questions regarding alcohol use, which is necessary to obtain the relevant information about the patient's consumption."
+20,0,"The doctor did not ask any questions regarding illicit drug use, which is necessary to determine the patient's history in this area."
+21,0,The doctor did not ask any questions related to the patient's exercise habits or frequency of physical activity.
+22,0,"The doctor did not ask any questions related to the patient's diet or eating habits, which are important for assessing overall health and lifestyle."
+23,1,The doctor successfully provided information about their drug allergy to penicillin when asked about allergies.

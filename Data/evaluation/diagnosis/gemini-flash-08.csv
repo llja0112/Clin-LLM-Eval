@@ -1,0 +1,8 @@
+,Score,Explanation
+0,1,The suggested diagnosis 'Poorly controlled diabetes' is similar to 'Poorly controlled diabetes mellitus' as it refers to the same condition.
+1,0,The suggested differential diagnoses do not include 'Diabetic neuropathy' or any closely related condition.
+2,0,"The suggested differential diagnoses do not include any conditions related to hypertension or its effects, such as hypertension-related fatigue."
+3,1,"The doctor suggested 'Iron deficiency anemia', which is a type of anemia."
+4,1,The doctor suggested 'Hypothyroidism' which is directly relevant to the query.
+5,0,The suggested differential diagnoses do not include any conditions that are directly related to or similar to chronic kidney disease.
+6,0,The suggested differential diagnoses do not include any conditions related to 'Depression' or similar mental health disorders.
