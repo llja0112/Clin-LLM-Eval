@@ -505,8 +505,6 @@ class ExaminerAgent:
       })
 
     prompt = TemplateStore.get_prompt_template("investigations")
-    print(prompt)
-    print()
 
     structured_llm = self.model.with_structured_output(InvestigationsEvaluation)
 
